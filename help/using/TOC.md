@@ -2,6 +2,7 @@
 product: livefyre
 audience: end-user
 user-guide-title: Livefyre Guide
+user-guide-description: Use Livefyre Studio to create apps, gather user-generated content, and moderate content.
 ---
 
 # Livefyre Guide {#using} 
