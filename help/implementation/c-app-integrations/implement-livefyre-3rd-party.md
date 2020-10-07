@@ -5,7 +5,6 @@ seo-title: Integrate Livefyre with Third Party Integration
 solution: Experience Manager
 title: Integrate Livefyre into a CMS
 uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
-
 ---
 
 # Implement Livefyre with Third Party Integration
@@ -57,4 +56,5 @@ To create a visualization App (Map, Media Wall, Trending, Carousel, Filmstrip, S
 >[!NOTE]
 >
 >Livefyre does not support Carousel, Filmstrip, Storify, Feature Card, Mosaic, and Polls Apps using Livefyre.js.
+
 Integrate these Apps using the [Create an App](/help/using/c-about-apps/c-create-an-app.md) process.
