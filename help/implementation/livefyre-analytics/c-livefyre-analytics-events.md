@@ -8,7 +8,7 @@ uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 
 ---
 
-# Livefyre Analytics Events {#livefyre-analytics-events}
+# Livefyre Analytics Events
 
 ## Event Object Definition {#section_dh1_yhn_pdb}
 
