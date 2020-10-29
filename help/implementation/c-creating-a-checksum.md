@@ -2,7 +2,6 @@
 description: Create a checksum using the Livefyre libraries.
 seo-description: Create a checksum using the Livefyre libraries.
 seo-title: Creating a Checksum
-solution: Livefyre
 title: Creating a Checksum
 uuid: 2dddedaa-7a6d-434a-8db8-dc179935f810
 ---
