@@ -36,7 +36,7 @@ When you add new assets to the library, assets that are already included in your
        >[!NOTE]
        >
        >Social Search supports complex Twitter search queries, and all standard Twitter syntax input. By default, multiple strings will be treated as an AND query. Click the **[!UICONTROL info]** button to see examples of valid input.
-
->=Results returned will be listed from most recent to least.
+       >
+       >=Results returned will be listed from most recent to least.
 
 Items matching your search are displayed in a grid view. Mouse over an item to **[!UICONTROL View Details]**, add it to your Asset Library, or **[!UICONTROL Publish]** to an App.
