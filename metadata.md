@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution: Experience Manager
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-manager/6-4.html
