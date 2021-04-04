@@ -5,9 +5,8 @@ seo-title: Creating Livefyre Tokens `C#`
 solution: Experience Manager
 title: Creating Livefyre Tokens `C#`
 uuid: c5e05625-8550-4b51-9211-134600e20ec7
-
+exl-id: 6360c325-0c3f-4ecb-90f7-951ef4e6f410
 ---
-
 # Creating Livefyre Tokens C\# {#creating-livefyre-tokens-c}
 
 Learn how to generate Livefyre tokens using the ``C#`` language.

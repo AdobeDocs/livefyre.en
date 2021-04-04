@@ -5,9 +5,8 @@ seo-title: Polls Customizations
 solution: Experience Manager
 title: Polls Customizations
 uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
-
+exl-id: f82dce69-8ad0-48bd-a293-e5501374d5d6
 ---
-
 # Polls Customizations{#polls-customizations}
 
 Change the size, width, and interaction options of the Polls app.
@@ -55,4 +54,3 @@ You can customize Polls using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**.
 
 * Integration tools. See Polls for more on how to customize Apps using Integration Tools.
-

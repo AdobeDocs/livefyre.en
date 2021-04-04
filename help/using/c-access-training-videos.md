@@ -3,9 +3,8 @@ seo-title: Access Training Videos
 solution: Experience Manager
 title: Access Training Videos
 uuid: 64438e2f-dd51-4c10-98ff-e1b62db1b0ca
-
+exl-id: 99aab49f-0ec1-43d2-b8f3-6c0e4f382132
 ---
-
 # Access Training Videos{#access-training-videos}
 
 To access Livefyre training videos:
@@ -18,4 +17,3 @@ To access Livefyre training videos:
     * Work with Assets in Adobe Experience Manager Livefyre
 
 1. Click the desired video to access the tutorial.
-

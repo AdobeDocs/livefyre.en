@@ -5,8 +5,8 @@ seo-title: YouTube Rules
 solution: Experience Manager
 title: YouTube Rules
 uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
+exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 ---
-
 # YouTube Rules {#youtube-rules}
 
 You can create Stream rules that pull content from YouTube rules.
@@ -31,4 +31,4 @@ To create YouTube Rules to pull content from YouTube into your App or Folder, yo
   * **[!UICONTROL Enabled]**, Livefyre adds the first 15 content items in your feed to the stream, regardless of the publication date.
   * **[!UICONTROL Disabled]**, Livefyre adds the first 15 content items in your feed to the stream with a publication date that is the same as the stream rule creation date or later.
 
-For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

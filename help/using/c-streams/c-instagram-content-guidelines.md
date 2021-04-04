@@ -5,9 +5,8 @@ seo-title: Instagram Content Guidelines
 solution: Experience Manager
 title: Instagram Content Guidelines
 uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
-
+exl-id: 74ef8556-8f65-4406-871c-5b9f1887ec9c
 ---
-
 # Instagram Content Guidelines{#instagram-content-guidelines}
 
 When curating content from Instagram, you must follow their guidelines and best practices.

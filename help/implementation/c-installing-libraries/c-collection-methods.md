@@ -5,9 +5,8 @@ seo-title: Collection Class Methods
 solution: Experience Manager
 title: Collection Class Methods
 uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
-
+exl-id: e54fe99d-381a-433e-b42f-8be609864ca8
 ---
-
 # Collection Class Methods{#collection-class-methods}
 
 To update the data in the Collection, modify the contents of the Collection class object methods.
@@ -27,4 +26,3 @@ Each of these methods is available for the following code types:
 * PHP
 * Python
 * Ruby
-

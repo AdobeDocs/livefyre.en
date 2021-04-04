@@ -3,9 +3,8 @@ seo-title: Livefyre User Guide
 solution: Experience Manager
 title: Livefyre User Guide
 uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
-
+exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
 ---
-
 # Livefyre User Guide {#livefyre-help}
 
 Use Livefyre Studio to create Apps, gather user-generated content, and moderate content.
@@ -32,4 +31,3 @@ For information on how to implement and customize Livefyre Apps on your site usi
 * [Use Livefyre with Adobe Launch Livefyre Extension](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
 * [Release Notes](c-rn/c-rn.md#c_rn)
-

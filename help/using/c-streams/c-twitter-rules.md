@@ -5,9 +5,8 @@ seo-title: Twitter Rules
 solution: Experience Manager
 title: Twitter Rules
 uuid: a7fd2398-fd6b-4c24-92b2-7471176d7648
-
+exl-id: 3a5081eb-048d-4dcf-80a2-366af2cb2c86
 ---
-
 # Twitter Rules{#twitter-rules}
 
 You can create Stream rules that pull content from Twitter.
@@ -56,4 +55,4 @@ To create Twitter Rules to pull content from Twitter feeds into your App or Fold
     * Include **[!UICONTROL All Content]**, or **[!UICONTROL Vines Only]**, or **[!UICONTROL Images Only.]**
     * Include only Tweets which originate from accounts with the selected **[!UICONTROL Minimum number of followers]** (any, 100, 500, 1000, 10,000, or 100,000).
 
-For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

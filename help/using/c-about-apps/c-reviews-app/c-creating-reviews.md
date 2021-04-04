@@ -5,9 +5,8 @@ seo-title: Creating a Reviews App
 solution: Experience Manager
 title: Creating a Reviews App
 uuid: 6caeafe7-c04e-484e-b02f-98dc6d9b3184
-
+exl-id: 14f074d2-922c-4997-8d7d-f2c92f069e07
 ---
-
 # Creating a Reviews App{#creating-a-reviews-app}
 
 Reviews offers a broad range of customizations, allowing you to create a Review App which matches your needs and branding.

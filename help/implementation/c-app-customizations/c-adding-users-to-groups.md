@@ -5,9 +5,8 @@ seo-title: Adding Users to Groups
 solution: Experience Manager
 title: Adding Users to Groups
 uuid: 3633f2df-8d60-4cdd-b9a2-3807218c74a0
-
+exl-id: 6e799c77-e815-40c2-ae06-bbd076df9fe7
 ---
-
 # Adding Users to Groups{#adding-users-to-groups}
 
 Add a user tag to an account to add a User to a group.

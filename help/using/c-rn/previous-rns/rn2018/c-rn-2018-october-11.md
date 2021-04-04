@@ -5,9 +5,8 @@ seo-title: October 11, 2018
 solution: Experience Manager
 title: October 11, 2018
 uuid: 8f08b2d1-295f-4b6a-82ef-74d21f15f784
-
+exl-id: f7f2ef09-78c2-4939-94c2-6c187c0c7092
 ---
-
 # October 11, 2018{#october}
 
 Release Notes for the October 11, 2018 release.
@@ -39,4 +38,3 @@ The issues in the following tables were resolved in the UAT version of this rele
 |  **Issue Type** | **Component** | **Release Note** |
 |---|---|---|
 |  Bug | AEM | Fixed an issue where tweets imported into AEM Assets via Livefyre had broken links. |
-

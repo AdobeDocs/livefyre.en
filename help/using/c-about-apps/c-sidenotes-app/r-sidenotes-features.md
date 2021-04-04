@@ -5,9 +5,8 @@ seo-title: Sidenotes Features
 solution: Experience Manager
 title: Sidenotes Features
 uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
-
+exl-id: 94830b1a-0faa-43f4-aec4-17c44adf0d0f
 ---
-
 # Sidenotes Features{#sidenotes-features}
 
 The Sidenotes App offers these features for your site.
@@ -22,4 +21,3 @@ The Sidenotes App offers these features for your site.
 * Reply to existing Sidenotes.
 * Vote on the helpfulness of notes, and thereby push more helpful notes to the top of the list of annotations.
 * Share specific Sidenotes to Facebook or Twitter by clicking the ellipses that appear when hovering over the note.
-

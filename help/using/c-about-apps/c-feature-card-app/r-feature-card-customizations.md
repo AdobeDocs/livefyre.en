@@ -5,8 +5,8 @@ seo-title: Feature Card Customizations
 solution: Experience Manager
 title: Feature Card Customizations
 uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
+exl-id: b907885a-211d-4628-9955-5f1a5ec577cf
 ---
-
 # Feature Card Customizations{#feature-card-customizations}
 
 Change the size, width, and interaction options of the Map app.
@@ -42,4 +42,3 @@ You can customize Feature Cards using:
   * **[!UICONTROL Filter UGC by Product ID]**. Select this option to create one App for multiple product pages. Filter product-specific UGC to the App for each product page. You can select one or more folders to associate specific collections to the App.
   * **[!UICONTROL Select Product folders]**. Select the top-level product folders to use to filter UGC. Use `CTRL/Command + click` to select more than one folder. Livefyre uses the folder to determine which products in that folder to display in the App on various pages.
   * **[!UICONTROL Show related content]**. Toggle this to display content published to the App, but tagged with a different product ID. After the product-specific content for the App displays, Livefyre displays content for other products and content not associated with a product. Livefyre prioritizes the content with the same product ID first, then content published to the App with other product IDs, then content published to the App with no product IDs.
-

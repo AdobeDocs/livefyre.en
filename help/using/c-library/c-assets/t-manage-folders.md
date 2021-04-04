@@ -5,9 +5,8 @@ seo-title: Manage Asset Folders
 solution: Experience Manager
 title: Manage Asset Folders
 uuid: 9ce510df-4f7a-4178-b2c4-7d59e4868add
-
+exl-id: a7f434aa-463c-4646-a498-b8be9767019a
 ---
-
 # Manage Asset Folders{#manage-asset-folders}
 
 Studio offers several options by which you may manage your folders.

@@ -4,9 +4,8 @@ seo-description: The Livefyre Spam and Abuse Filtering Engine (SAFE), is a backg
 seo-title: SAFE Rules
 title: SAFE Rules
 uuid: 2f91d0d4-dffe-4651-88af-79bbb96c1b5c
-
+exl-id: 13cd8df0-c4b7-436e-ba07-64ec67321d6b
 ---
-
 # SAFE Rules{#safe-rules}
 
 The Livefyre Spam and Abuse Filtering Engine (SAFE), is a background process that analyzes all incoming content, and is enabled for all Livefyre customers.
@@ -101,4 +100,3 @@ Apps that use this feature:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Upload Button](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

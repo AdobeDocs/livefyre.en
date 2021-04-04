@@ -4,9 +4,8 @@ seo-description: Release Notes for the February 9, 2017 release.
 seo-title: February 9, 2017
 title: February 9, 2017
 uuid: cbbf10f3-d8ca-4c10-849e-fa7208f987be
-
+exl-id: 155f8a43-17e5-40b2-ada0-32691f8a34e5
 ---
-
 # February 9, 2017{#february}
 
 Release Notes for the February 9, 2017 release.
@@ -46,4 +45,3 @@ SocialSync for Twitter has been a part of our core functionality for several yea
 |Bug|Streams|Fixed a bug with Facebook and Facebook Page Steam Rules to pull in posts with multiple media attachments appropriately.|
 |Bug|Studio|Fixed a bug that caused multiple &'s from getting appended to the URL when using filters in Studio.|
 |Bug|Studio|Fixed a bug that prevented certain checkboxes in Studio filters from allowing to be unchecked.|
-

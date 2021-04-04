@@ -5,9 +5,8 @@ seo-title: Display Comment Count
 solution: Experience Manager
 title: Display Comment Count
 uuid: 0f39b25e-11e0-4945-be71-55fb4798b6c7
-
+exl-id: 03c911f0-1fdd-4d5c-9262-9ff7485b7b14
 ---
-
 # Display Comment Count{#display-comment-count}
 
 Grab the post and comment counts for certain collections to display on your index pages.

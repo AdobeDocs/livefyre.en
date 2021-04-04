@@ -5,9 +5,8 @@ seo-title: getUrn Site Method
 solution: Experience Manager
 title: getUrn Site Method
 uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
-
+exl-id: e904f435-c734-4cb0-bfcc-85b3d1fc5492
 ---
-
 # getUrn Site Method{#geturn-site-method}
 
 This method returns the URN for this site.
@@ -81,4 +80,3 @@ Sample output:
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1"
 ```
-

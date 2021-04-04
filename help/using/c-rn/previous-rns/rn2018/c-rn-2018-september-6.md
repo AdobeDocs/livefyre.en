@@ -5,9 +5,8 @@ seo-title: September 6, 2018
 solution: Experience Manager
 title: September 6, 2018
 uuid: 8dbe8be0-cc3c-4d96-af56-1808d8555af3
-
+exl-id: 61a4b43e-d40f-41bf-b9cc-0303b0232c6b
 ---
-
 # September 6, 2018{#september}
 
 Release Notes for the September 6, 2018 release.
@@ -54,4 +53,3 @@ The issues in the following tables were resolved in the UAT version of this rele
 |  **Issue Type** | **Component** | **Release Note** |
 |---|---|---|
 |  Bug  | Social Component: Media Upload  | Fixed an issue where users could not upload media to Filmstrip as expected.  |
-

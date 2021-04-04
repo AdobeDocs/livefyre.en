@@ -5,9 +5,8 @@ seo-title: Social Sharing
 solution: Experience Manager
 title: Social Sharing
 uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
-
+exl-id: 3950fd0c-a121-450a-b9f2-07a0737c2d9b
 ---
-
 # Social Sharing{#social-sharing}
 
 Share your content or content from another user, to Facebook, Twitter or LinkedIn.
@@ -70,4 +69,3 @@ Apps that use this feature:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Trending](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
-

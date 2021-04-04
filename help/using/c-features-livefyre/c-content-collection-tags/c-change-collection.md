@@ -5,9 +5,8 @@ seo-title: Change Collection
 solution: Experience Manager
 title: Change Collection
 uuid: 69bafcc7-c55e-47d6-bc79-b0db80fdf138
-
+exl-id: 5cfae2c6-e328-4d2c-b08b-709be94e4c54
 ---
-
 # Change Collection{#change-collection}
 
 Allow users to click through Collections from a single page layout and URL.
@@ -58,4 +57,3 @@ Livefyre.require(['fyre.conv#prod'],function(Conv) {
 </body> 
 </html>
 ```
-

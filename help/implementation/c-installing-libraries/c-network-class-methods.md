@@ -5,9 +5,8 @@ seo-title: Network Class Methods
 solution: Experience Manager
 title: Network Class Methods
 uuid: 4130beda-dd09-49ae-aafb-f6b956e30b51
-
+exl-id: 5a011120-05d0-4768-9038-6a312e8c5dd1
 ---
-
 # Network Class Methods{#network-class-methods}
 
 Create a Network object.

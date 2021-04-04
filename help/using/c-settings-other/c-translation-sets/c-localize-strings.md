@@ -5,9 +5,8 @@ seo-title: Localize Strings
 solution: Experience Manager
 title: Localize Strings
 uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
-
+exl-id: 5eb452e3-3b33-4861-9b62-5a41221defab
 ---
-
 # Localize Strings{#localize-strings}
 
 Customizing the strings of the Livefyre Apps.
@@ -539,5 +538,3 @@ Strings available for Livefyre Identity.
 |passwordErrorMissingUppercase|Password should contain at least one uppercase character|
 |passwordErrorMissingLowercase|Passsword should contain at least one lowercase character|
 |passwordErrorMissingSymbol|Password should contain at least one symbol in the set `!@#$%^&*()?.,<>\’;:”[]{}|`|
-
-

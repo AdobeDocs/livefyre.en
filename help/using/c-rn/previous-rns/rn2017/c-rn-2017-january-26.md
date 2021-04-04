@@ -4,9 +4,8 @@ seo-description: Release Notes for January 26, 2017 release.
 seo-title: January 26, 2017
 title: January 26, 2017
 uuid: 5a04d31d-a26d-4369-8deb-adc3e28dfece
-
+exl-id: 33eaf1e2-45b6-4a73-9f38-41aeebfcc3b4
 ---
-
 # January 26, 2017{#january}
 
 Release Notes for January 26, 2017 release.
@@ -36,4 +35,3 @@ Release Notes for January 26, 2017 release.
 |Enhancement|Streams|Made an adjustment to the setting of “Verified accounts only” option to be disabled by default.|
 |Bug|Streams|Fixed a bug that caused “Premoderate” and “Media Premoderate” settings to carry over to a newly created Stream rule.|
 |Enhancement|Streams|Added a new feature to allow categories of content (via a Stream Rule) to be allow-listed and bypass moderation.|
-

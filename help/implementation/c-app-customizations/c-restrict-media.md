@@ -5,9 +5,8 @@ seo-title: Restrict Media
 solution: Experience Manager
 title: Restrict Media
 uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
-
+exl-id: ae09a058-41de-4b63-8654-cc82f5abad14
 ---
-
 # Restrict Media{#restrict-media}
 
 Limit the type of media that gets into the App stream.
@@ -38,4 +37,3 @@ When loading the conversation:
 networkConfig["attachmentDelegate"] = attachmentDelegate; 
 fyre.conv.load(networkConfig, [convConfig]);
 ```
-

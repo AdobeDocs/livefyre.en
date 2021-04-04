@@ -4,9 +4,8 @@ seo-description: Release Notes for the July 20, 2017 release.
 seo-title: July 20, 2017
 title: July 20, 2017
 uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
-
+exl-id: 1bf17703-0913-41f0-a897-ba8323992f71
 ---
-
 # July 20, 2017{#july}
 
 Release Notes for the July 20, 2017 release.
@@ -41,4 +40,3 @@ The following tables list the Production and UAT Release Notes for the July 20, 
 |  Enhancement | Storify 2 | Removed the Facebook Comments by ID search option in Storify Search, due to Facebook's deprecation of the feature. |
 |  Bug | Storify 2 | Improved the stability of fetching Facebook Comments by URL results in Storify 2. |
 |  Bug | Streams | Fixed a bug that caused text pills in Stream Rule Configuration textboxes to be removed upon click. |
-

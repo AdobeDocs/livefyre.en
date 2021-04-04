@@ -5,9 +5,8 @@ seo-title: Email Notifications
 solution: Experience Manager
 title: Email Notifications
 uuid: 27dad133-bd8d-4949-8146-1254c160d3af
-
+exl-id: 46821382-ac93-4523-a0ac-84535e76d367
 ---
-
 # Email Notifications{#email-notifications}
 
 Allow users to select their notification frequency and content.
@@ -111,4 +110,3 @@ Apps that use this feature:
 * [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-

@@ -5,9 +5,8 @@ seo-title: Mobile SDKs
 solution: Experience Manager
 title: Mobile SDKs
 uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
-
+exl-id: e05001a4-6199-4d98-a661-123e031b657b
 ---
-
 # Mobile SDKs{#mobile-sdks}
 
 Add Livefyre to your native mobile apps.
@@ -60,4 +59,3 @@ The HTTP APIs are the group of endpoints that allows you to create conversations
 >[!IMPORTANT]
 >
 >**Do not** create user authentication tokens within the mobile client, because this would require that you expose your Livefyre secret network key within an unsecured app. For a more robust and secure solution, see the User Authentication Tokens section.
-

@@ -5,9 +5,8 @@ seo-title: Build the Pull Endpoint
 solution: Experience Manager
 title: Build the Pull Endpoint
 uuid: 1703152f-aaa7-4a88-aa33-d9f8957ad42b
-
+exl-id: cc66365b-0d5f-4a0b-954f-ee014e75d4a2
 ---
-
 # Build the Pull Endpoint{#build-the-pull-endpoint}
 
 Build the pull endpoint to receive and respond to requests for access to your user identity system.

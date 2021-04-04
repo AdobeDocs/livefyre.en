@@ -5,9 +5,8 @@ seo-title: Publish Assets to Apps
 solution: Experience Manager
 title: Publish Assets to Apps
 uuid: 42d39142-b047-4055-b946-15bcc91d5a95
-
+exl-id: 15c33394-da32-4057-a9ba-0323c85f7f92
 ---
-
 # Publish Assets to Apps{#publish-assets-to-apps}
 
 Publish saved Assets to your Livefyre Apps from the Library.

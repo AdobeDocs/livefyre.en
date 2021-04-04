@@ -4,9 +4,8 @@ seo-description: Moderate content that comes from a Stream using the Library.
 seo-title: Moderate Content from a Stream
 title: Moderate Content from a Stream
 uuid: 38faf651-c547-49b3-b3d1-1a1d65c0f81c
-
+exl-id: 60111467-be63-4236-a06a-eb59b4c29bbe
 ---
-
 # Moderate Content from a Stream{#moderate-content-from-a-stream}
 
 Moderate content that comes from a Stream using the Library.
@@ -40,4 +39,3 @@ Apps that use this feature:
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

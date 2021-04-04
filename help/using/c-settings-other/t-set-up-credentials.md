@@ -5,9 +5,8 @@ seo-title: Set up Credentials
 solution: Experience Manager
 title: Set up Credentials
 uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
-
+exl-id: cfbb40b6-e13b-4869-87f9-a1f2f6ddd5d3
 ---
-
 # Set up Credentials{#set-up-credentials}
 
  **Credentials** The Credentials panel displays your Livefyre Network and Site Credentials. These fields will be populated by Livefyre during your integration process, and are available here for your reference. New Sites added through Studio will also be included in this page. These values are read-only.
@@ -22,4 +21,3 @@ uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
 * Site URL
 * Site ID
 * Site Key
-

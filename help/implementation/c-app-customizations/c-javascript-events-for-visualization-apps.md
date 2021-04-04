@@ -5,9 +5,8 @@ seo-title: Javascript Events for Visualization Apps
 solution: Experience Manager
 title: Javascript Events for Visualization Apps
 uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
-
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 ---
-
 # Javascript Events for Visualization Apps{#javascript-events-for-visualization-apps}
 
 The events available to which you can bind JavaScript for Visualization Apps (for example, Media Wall).

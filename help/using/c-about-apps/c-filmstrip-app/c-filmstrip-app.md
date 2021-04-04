@@ -5,9 +5,8 @@ seo-title: Filmstrip
 solution: Experience Manager
 title: Guide to Filmstrip App
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
-
+exl-id: a96e5de0-bebb-42ee-ae10-813ad8b9e960
 ---
-
 # Filmstrip{#filmstrip}
 
 Filmstrip is a visualization App that showcases user-generated content into a dynamic single, horizontal strip of photos, similar to a strip of film from a camera.
@@ -77,4 +76,4 @@ You can choose to add notifications of new content as it is added by switching *
 
 ## Create Filmstrip Using Studio {#section_dwb_glj_yy}
 
-You create all Apps in Livefyre Studio the same way. See Creating Apps for details on how to create a Filmstrip App in Studio using the standard process.  
+You create all Apps in Livefyre Studio the same way. See Creating Apps for details on how to create a Filmstrip App in Studio using the standard process.

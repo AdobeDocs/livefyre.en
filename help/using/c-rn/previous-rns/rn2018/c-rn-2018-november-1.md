@@ -5,9 +5,8 @@ seo-title: November 1, 2018
 solution: Experience Manager
 title: November 1, 2018
 uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
-
+exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 ---
-
 # November 1, 2018{#november}
 
 Release Notes for the November 1, 2018 release.
@@ -57,4 +56,3 @@ The issues in the following tables were resolved in the UAT version of this rele
 |  Bug | Library | Fixed an issue where a video uploaded to the Library, then viewed in asset detail did not display correctly. |
 |  Bug | Mosaic | Fixed an issue where a Mosaic displayed the last piece of content from an Instagram carousel as a thumbnail, instead of a card.  |
 |  Bug | Social Search | Fixed an issue where Instagram social searching didn't work as expected.  |
-

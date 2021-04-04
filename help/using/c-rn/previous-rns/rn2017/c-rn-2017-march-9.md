@@ -4,9 +4,8 @@ seo-description: Release Notes for the March 9, 2017 release.
 seo-title: March 9, 2017
 title: March 9, 2017
 uuid: 14c770e7-ff6f-4c56-9c88-677e2bfb7362
-
+exl-id: 07723cc6-a912-4231-a745-3ea79c6d1788
 ---
-
 # March 9, 2017{#march}
 
 Release Notes for the March 9, 2017 release.
@@ -34,4 +33,3 @@ Release Notes for the March 9, 2017 release.
 |  Bug | Streams | Added an enhancement to visibly disable the “verified user” checkbox on Twitter Stream Rules when excluded authors are provided. |
 |  Bug | Studio | Fixed a bug that was preventing the “Feature Tag” to save correctly when applied. |
 |  Bug | Users | Fixed a bug that caused the “Recent Activity” sort filter in Users to appear out of order. |
-

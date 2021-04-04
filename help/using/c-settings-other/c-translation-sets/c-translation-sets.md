@@ -5,9 +5,8 @@ seo-title: Translation Sets
 solution: Experience Manager
 title: Translation Sets
 uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
-
+exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
 ---
-
 # Translation Sets{#translation-sets}
 
 Translation Sets allow you to specify alternate language for Apps.
@@ -326,4 +325,3 @@ Strings available for general error messages.
 |  | errorDuplicate  | We like your note too, but you can’t post it twice.  |
 |  | errorGeneral  | An error has occurred. Please try again.  |
 |  | errorServer  | Something went wrong with our server. Try that again?  |
-

@@ -5,9 +5,8 @@ seo-title: Email Rules
 solution: Experience Manager
 title: Email Rules
 uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
-
+exl-id: 19c586f7-b934-40b5-bc9a-8a8a734e5467
 ---
-
 # Email Rules{#email-rules}
 
 You can create Stream rules that pull content from Email.
@@ -25,4 +24,4 @@ Once sent, the email’s fields will be used to populate the following items for
 * **[!UICONTROL Body:]** Used to populate content details within Studio.
 * **[!UICONTROL Attachments:]** Media files must be attached, or the email will be ignored. Supported file types include 3GP, ASF, AVI, DV, GIF, JPG, MOV, MP4, MPEG, MPG, PNG, QT, and WMV. The total of all attachments must be below 25MB file size.
 
-For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

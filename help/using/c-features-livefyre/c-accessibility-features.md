@@ -5,9 +5,8 @@ seo-title: Accessibility Features
 solution: Experience Manager
 title: Accessibility Features
 uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
-
+exl-id: c1f10835-06a8-459b-8d58-63ad61a3e0b7
 ---
-
 # Accessibility Features{#accessibility-features}
 
 Livefyre Identity and Apps contain accessibility features to allow all site visitors to interact with content, including those who may use screen readers and other assistive devices.
@@ -50,4 +49,3 @@ Apps and Livefyre features that are accessible:
 * [Mosaic](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app) 
 * [Polls](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app) 
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-

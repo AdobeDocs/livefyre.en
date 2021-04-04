@@ -5,9 +5,8 @@ seo-title: Embed Polls in Comments
 solution: Experience Manager
 title: Embed Polls in Comments
 uuid: 56f83743-352a-4ade-9a62-aeb46004b5db
-
+exl-id: 9005dfd2-d7f4-4d33-9f9b-e1fad3a72ae5
 ---
-
 # Embed Polls in Comments{#embed-polls-in-comments}
 
 Embed Polls in your Comment or Live Blog stream.

@@ -5,9 +5,8 @@ seo-title: Carousel
 solution: Experience Manager
 title: Carousel
 uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
-
+exl-id: 37664553-45cb-47e0-9b8f-d6e992e265cc
 ---
-
 # Carousel{#carousel}
 
 Showcase your best content in a horizontal, scrollable view.
@@ -84,4 +83,4 @@ Wrap-around: A Carousel wraps around from the last item to the first item. If th
 
 ## Can I add an Upload Button to a Carousel? {#section_ozs_1xm_wy}
 
-You can add an Upload Button to a Carousel. If you publish the Upload Button to the App while a site visitor is on the page, the site visitor must refresh the page to see the updated content. The Upload Button will appear in the App after up to 5 minutes. 
+You can add an Upload Button to a Carousel. If you publish the Upload Button to the App while a site visitor is on the page, the site visitor must refresh the page to see the updated content. The Upload Button will appear in the App after up to 5 minutes.

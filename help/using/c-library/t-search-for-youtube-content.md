@@ -4,9 +4,8 @@ seo-description: Use Social Search to search for YouTube content to include in y
 seo-title: Search for YouTube Content
 title: Search for YouTube Content
 uuid: a99c2c0d-4647-4432-8f67-8c2fc29fe245
-
+exl-id: a2e80157-ee75-4e5a-9be6-2e2347e71228
 ---
-
 # Search for YouTube Content{#search-for-youtube-content}
 
 Use Social Search to search for YouTube content to include in your Asset Library or publish to Apps.
@@ -23,4 +22,3 @@ Use Social Search to search for YouTube content to include in your Asset Library
     * **[!UICONTROL Duration:]**allows you to limit returned videos that those with a duration of **[!UICONTROL <4 mins]**, **[!UICONTROL 4 mins- 20 mins]**, or **[!UICONTROL >20 mins]**.
     
     * **[!UICONTROL License:]**allows you to limit returned videos based on **[!UICONTROL Any]** license, **[!UICONTROL Creative Commons]** or **[!UICONTROL YouTube Standard License]**.
-

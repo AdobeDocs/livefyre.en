@@ -5,9 +5,8 @@ seo-title: Moderate Users
 solution: Experience Manager
 title: Moderate Users
 uuid: b801cdfe-05ea-4c29-bb9b-0f6a33cb11d1
-
+exl-id: 6165ae9e-b210-46b8-87e6-6e7af3430b82
 ---
-
 # Moderate Users{#moderate-users}
 
 The User Summary pane provides user information to aid moderation.
@@ -32,4 +31,4 @@ The following information displays (if available) for each of your registered Li
 * **[!UICONTROL Bans]**: lists sites for which the user has been banned or Bozo’d.
 * **[!UICONTROL Whitelists]**: lists sites for which the user has been allow-listed.
 
-For more on how you can moderate users in the App Content tab, see [Moderate Using App Content](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content). 
+For more on how you can moderate users in the App Content tab, see [Moderate Using App Content](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).

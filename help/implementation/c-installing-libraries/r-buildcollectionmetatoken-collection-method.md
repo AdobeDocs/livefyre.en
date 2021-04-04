@@ -5,9 +5,8 @@ seo-title: buildCollectionMetaToken Collection Method
 solution: Experience Manager
 title: buildCollectionMetaToken Collection Method
 uuid: 533c68c3-c014-4fc3-8114-a57af0e44d85
-
+exl-id: 3b95f877-d064-4885-9a73-866cc859ab82
 ---
-
 # buildCollectionMetaToken Collection Method{#buildcollectionmetatoken-collection-method}
 
 Returns the encrypted collectionMeta token for this Collection.
@@ -77,4 +76,3 @@ Sample output:
 ```
 eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6InRlc3QiLCJ1cmwiOiJodHRwOi8vd3d3LnRlc3QuY29tIiwidGFncyI6InRlc3RUYWdzIiwiYXJ0aWNsZUlkIjoidGVzdElkIiwidHlwZSI6InJldmlld3MifQ.QB5SnOTVrVXo5RhzJeExEHpCZdxSoxnF7D4QIVQCWsA
 ```
-

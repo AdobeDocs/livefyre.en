@@ -5,9 +5,8 @@ seo-title: Delete a Translation Set
 solution: Experience Manager
 title: Delete a Translation Set
 uuid: 8a098100-e51e-4554-83b8-a91fdb204a49
-
+exl-id: 0d3267ed-b359-45eb-86a4-d44fc9b9ed5b
 ---
-
 # Delete a Translation Set{#delete-a-translation-set}
 
 Delete a translation set at any time by clicking on the trash can icon next to the translation set you want to delete.

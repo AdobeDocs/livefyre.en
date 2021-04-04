@@ -5,9 +5,8 @@ seo-title: getSite Network Method
 solution: Experience Manager
 title: getSite Network Method
 uuid: 67de781e-5240-4be5-9e93-c614828e0bb5
-
+exl-id: 88782da9-88c6-4e60-9a23-e46d68675d59
 ---
-
 # getSite Network Method{#getsite-network-method}
 
 Returns a new Site object.
@@ -50,4 +49,3 @@ site = network.get_site(siteId, siteKey)
 site = network.get_site(siteId, siteKey) 
 
 ```
-

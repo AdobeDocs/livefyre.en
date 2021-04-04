@@ -4,9 +4,8 @@ seo-description: Release Notes for the September 14, 2017 release.
 seo-title: September 14, 2017
 title: September 14, 2017
 uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
-
+exl-id: 5667629a-1b65-454b-953c-2119d3d093db
 ---
-
 # September 14, 2017{#september}
 
 Release Notes for the September 14, 2017 release.
@@ -23,4 +22,3 @@ Release Notes for the September 14, 2017 release.
 | **Issue Type** |**Component** |**Release Note** |
 |---|---|---|
 |  Bug | Mosaic | Production bug that made Mosaic display Grey Boxes in IE11 in UGC. We fixed this. -SP |
-

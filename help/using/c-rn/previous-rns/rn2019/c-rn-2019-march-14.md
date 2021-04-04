@@ -1,13 +1,12 @@
 ---
-
 description: Release Notes for the Livefyre March 14, 2019 release.
 seo-description: Release Notes for the Livefyre March 14, 2019 release.
 seo-title: Release Notes
 solution: Experience Manager
 title: Livefyre Release Notes for March 14, 2019
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+exl-id: 16400d16-681f-47eb-9c6e-23ddf09752c6
 ---
-
 # Release Notes - March 14, 2019
 
 >[!NOTE]

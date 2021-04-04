@@ -4,9 +4,8 @@ seo-description: Release Notes for the April 13, 2017 release.
 seo-title: April 13, 2017
 title: April 13, 2017
 uuid: abc591bd-3385-40f5-99a5-3f4c8ee4dc6b
-
+exl-id: 56da541d-9097-4f45-8e14-b6c4ccf32040
 ---
-
 # April 13, 2017{#april}
 
 Release Notes for the April 13, 2017 release.
@@ -42,4 +41,3 @@ Release Notes for the April 13, 2017 release.
 |  Bug | Reviews | Fixed some usability bugs when enabling the alwaysShowEditor parameter on the Reviews app. |
 |  Bug | Storify 2 | Fixed a bug that prevented Storify 2 embeds from rendering when using the requireJS library on the page. |
 |  Bug | Streams | Fixed a bug that prevented rules from being copied over to a new stream when cloning an existing stream. |
-

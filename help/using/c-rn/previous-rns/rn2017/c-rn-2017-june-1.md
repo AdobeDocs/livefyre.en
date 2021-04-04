@@ -4,9 +4,8 @@ seo-description: Release Notes for the June 1, 2017 release.
 seo-title: June 1, 2017
 title: June 1, 2017
 uuid: 70c39b30-896d-437a-9852-80eb47c08892
-
+exl-id: 82e02d9f-97d7-4f80-8382-9ccf7ac3dcf5
 ---
-
 # June 1, 2017{#june}
 
 Release Notes for the June 1, 2017 release.
@@ -30,4 +29,3 @@ Release Notes for the June 1, 2017 release.
 |  Bug | Stream Rules | Added an enhancement to Twitter Streams so that all map locations are listed in the rule summary |
 |  Bug | Stream Rules | Fixed a bug that allowed a Twitter Stream user to exist in both the "is posted by any of these authors" and "is not posted by any of these authors" fields at the same time. |
 |  Enhancement | Stream Rules | Added the ability to filter Tweets by Language in Stream Rules |
-

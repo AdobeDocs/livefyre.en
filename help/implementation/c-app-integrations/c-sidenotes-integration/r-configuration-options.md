@@ -5,9 +5,8 @@ seo-title: Sidenotes Configuration Options
 solution: Experience Manager
 title: Sidenotes Configuration Options
 uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
-
+exl-id: efebf9e5-6623-4953-a8f6-c58495304ac1
 ---
-
 # Sidenotes Configuration Options{#sidenotes-configuration-options}
 
 The Sidenotes config object is a JSON object used to specify the content that the Livefyre App renders on the page.
@@ -29,4 +28,3 @@ The object contains the following parameters:
 |selectors|*required* object, string, or array|Specifies the elements on which launcher icons should appear. (Uses CSS3 DOM selector spec.) If object, includes an “includes” section and an “excludes” section that will apply the CSS selector for any matching includes, and remove any elements matching the excludes. If string, will include any matching elements on the page. If array, lists the elements to include.|
 |strings|*optional* object|Adds custom text strings to change any language or text throughout the application. For more information, see Custom Strings.|
 |threadContainerEl|*optional* object, string, or array|Specifies an element where the thread of sidenotes will appear. This parameter allows you to reposition the thread. If the string selector matches more than one element, the first will be chosen. (Uses CSS3 DOM selector spec.)|
-

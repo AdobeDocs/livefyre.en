@@ -4,10 +4,9 @@ seo-description: The core Livefyre library used to power Livefyre on your site.
 seo-title: updateAnchors Method
 solution: Experience Manager
 title: Livefyre.js
-uuid: 
-
+uuid:
+exl-id: 5f60ce54-5669-4768-912d-c1b13946d8b8
 ---
-
 # updateAnchors Method {#updateAnchorsMethod}
 
 Use the updateAnchors method to add sidenoted content to the page dynamically. 

@@ -5,9 +5,8 @@ seo-title: Review Text Strings
 solution: Experience Manager
 title: Review Text Strings
 uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
-
+exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 ---
-
 # Review Text Strings{#review-text-strings}
 
 Customizing the text strings for Livefyre Reviews.
@@ -157,4 +156,3 @@ Strings available for general error messages.
 |  | errorShowMore  | There was an error loading more reviews.  |
 |  | errorTitleMaxChars  | Sorry, your title is too long. Please edit and try again.  |
 |  | errorVoteOwnComment  | You cannot vote on your own review  |
-

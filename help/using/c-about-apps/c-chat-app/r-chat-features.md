@@ -5,9 +5,8 @@ seo-title: Chat Features
 solution: Experience Manager
 title: Chat Features
 uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
-
+exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 ---
-
 # Chat Features{#chat-features}
 
 Chat offers several features to encourage a rapid and engaging dialog.
@@ -24,4 +23,3 @@ To encourage a rapid and engaging dialog, Chat differs from other Livefyre Apps 
 * The Like button appears only when hovering over a comment.
 * The Likes on a comment appear without avatars, only the number of Likes.
 * The stream width can be reduced to 250 pixels.
-

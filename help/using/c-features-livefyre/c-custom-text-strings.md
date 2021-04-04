@@ -5,9 +5,8 @@ seo-title: Translation and Custom Text Strings
 solution: Experience Manager
 title: Translation and Custom Text Strings
 uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
-
+exl-id: 23018217-6bf8-415e-8801-584b0492734b
 ---
-
 # Translation and Custom Text Strings{#translation-and-custom-text-strings}
 
 Customize any text strings in the app for internationalization or branding.
@@ -30,4 +29,3 @@ Apps that use this feature:
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app) 
 * [Trending](../c-about-apps/c-trending-app/c-trending-app.md#c_trending_app) 
 * [Upload Button](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

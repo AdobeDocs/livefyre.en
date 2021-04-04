@@ -5,9 +5,8 @@ seo-title: Carousel Features
 solution: Experience Manager
 title: Carousel Features
 uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
-
+exl-id: bb3555fd-e861-4100-a1ce-c6f22ca9dbfc
 ---
-
 # Carousel Features {#carousel-features}
 
 The Carousel App offers these features for your site.
@@ -24,4 +23,3 @@ The following features are available in a Carousel:
 * [SAFE](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [Translation Sets](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
 * [On-site Contribution Features](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-

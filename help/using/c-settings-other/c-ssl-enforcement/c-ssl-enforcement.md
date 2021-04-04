@@ -5,9 +5,8 @@ seo-title: SSL Enforcement
 solution: Experience Manager
 title: SSL Enforcement
 uuid: e64af8c2-3ab6-4034-b385-0e552d828c6e
-
+exl-id: 033e15d9-84f6-42d5-8457-04263dcbd11c
 ---
-
 # SSL Enforcement{#ssl-enforcement}
 
 To ensure your data remains secure, we are deprecating HTTP in favor of HTTPS. Adobe Livefyre will disable all HTTP and insecure SSL/TLS ciphers completely by end of August 2018. This is an Adobe Standard designed to protect the privacy of you and your users.

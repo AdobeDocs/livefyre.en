@@ -5,9 +5,8 @@ seo-title: Create a Microsoft Live Identity App for Use with Livefyre Identity
 solution: Experience Manager
 title: Create a Microsoft Live Identity App for Use with Livefyre Identity
 uuid: 0c13e1bc-817f-43ed-85d5-09c9e95b6234
-
+exl-id: 7702c956-ecb5-424a-9866-d6f73d4d4bc9
 ---
-
 # Create a Microsoft Live Identity App for Use with Livefyre Identity{#create-a-microsoft-live-identity-app-for-use-with-livefyre-identity}
 
 You can use Livefyre Identity with Microsoft Live Identity to allow users to use their Facebook logins to interact Apps on your site.

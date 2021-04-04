@@ -5,9 +5,8 @@ seo-title: Set up Network Email
 solution: Experience Manager
 title: Set up Network Email
 uuid: c368d236-e25a-4118-8abc-5230618c97ee
-
+exl-id: 5305f3d2-d89d-4da2-9baa-64fabe41c74a
 ---
-
 # Set up Network Email{#set-up-network-email}
 
 You can set up several different types of notifications for site visitors and Livefyre Moderators to use to interact with the end user.
@@ -24,4 +23,3 @@ Customize available email notification fields.
   >If this field is blank, no email notifications will be sent.
 
 * **Email Display Name:** enter the name that will appear in place of your email address in comment email notifications.
-

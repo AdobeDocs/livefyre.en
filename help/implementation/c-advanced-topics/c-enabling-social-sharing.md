@@ -5,9 +5,8 @@ seo-title: Enabling Social Sharing
 solution: Experience Manager
 title: Enabling Social Sharing
 uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
-
+exl-id: 08ac9766-52ea-432f-8b4f-bf68cb8b62bc
 ---
-
 # Enabling Social Sharing {#enabling-social-sharing}
 
 Set up credentials that allow your users to share content to various social networks.

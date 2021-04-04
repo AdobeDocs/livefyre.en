@@ -5,8 +5,8 @@ seo-title: User Roles and Permissions
 solution: Experience Manager
 title: User Roles and Permissions
 uuid: d9261cfd-ae60-40d8-9816-25aef541506f
+exl-id: 0e590857-74c5-4fdc-82a9-1673909d5eb7
 ---
-
 # User Roles and Permissions{#user-roles-and-permissions}
 
 Livefyre provides several user types with varying levels of permissions.

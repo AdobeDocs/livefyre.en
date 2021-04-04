@@ -5,9 +5,8 @@ seo-title: Implementing SSO
 solution: Experience Manager
 title: Implementing SSO
 uuid: c96d456c-b1ac-40e0-8d18-224652b9697f
-
+exl-id: 9af75b8a-9d2a-446e-8cce-2de8645038f2
 ---
-
 # Implementing SSO{#implementing-sso}
 
 To authenticate a user with Livefyre through a flow not triggered by a Livefyre App, Livefyre recommends that you implement the forEachAuthentication method on your AuthDelegate object.
@@ -27,4 +26,3 @@ Livefyre relies on user tokens to coordinate authentication. As a result, this t
 >[!NOTE]
 >
 >After a successful login, auth will create a session for the user, and will try to load a user’s session upon page refresh and reload. `auth.logout()` will clear this session. This means that it is not necessary to manage a user’s session independently of authorization.
-

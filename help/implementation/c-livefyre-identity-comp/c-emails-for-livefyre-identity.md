@@ -5,8 +5,8 @@ seo-title: Emails for Livefyre Identity
 solution: Experience Manager
 title: Emails for Livefyre Identity
 uuid: 4e807803-687e-4df0-94d1-b18a48d024e8
+exl-id: c8127eef-8fb8-4703-ba34-ef12453f1754
 ---
-
 # Emails for Livefyre Identity{#emails-for-livefyre-identity}
 
 Livefyre Identity sends the following emails:

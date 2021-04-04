@@ -5,8 +5,8 @@ seo-title: buildChatCollection Site Method
 solution: Experience Manager
 title: buildChatCollection Site Method
 uuid: 39ee32d0-29c9-47a8-a458-a3cf7a96db30
+exl-id: b10f95de-9e6c-4fc3-987b-599717d5a9e7
 ---
-
 # buildChatCollection Site Method{#buildchatcollection-site-method}
 
 Returns a Collection object instantiated as a Chat type. Run create_or_update() from the Collection object to complete the build process.

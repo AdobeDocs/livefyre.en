@@ -4,9 +4,8 @@ seo-description: Use CSS to style elements of a Livefyre App to fit your brand.
 seo-title: CSS Styling and Branding
 title: CSS Styling and Branding
 uuid: 729a2780-f757-4c54-b446-ff832cecf620
-
+exl-id: 908c31a3-dc91-42a0-baf4-89237e9f1c7d
 ---
-
 # CSS Styling and Branding{#css-styling-and-branding}
 
 Use CSS to style elements of a Livefyre App to fit your brand.
@@ -36,4 +35,3 @@ Apps that use this feature:
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2) 
 * [Trending](/help/using/c-about-apps/c-trending-app/c-trending-app.md#c_trending_app) 
 * [Upload Button](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

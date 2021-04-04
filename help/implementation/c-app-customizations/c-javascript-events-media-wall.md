@@ -5,9 +5,8 @@ seo-title: Javascript Events for Media Wall
 solution: Experience Manager
 title: Javascript Events for Media Wall
 uuid: 8afc0529-4640-476a-b207-91b2c70101f0
-
+exl-id: 3fe76467-65e2-4f8b-bd75-5a2ffc3e7e15
 ---
-
 # Javascript Events for Media Wall{#javascript-events-for-media-wall}
 
 Use Javascript events to listen for events that occur in a Media Wall and send them to the analytics tool of your choice.

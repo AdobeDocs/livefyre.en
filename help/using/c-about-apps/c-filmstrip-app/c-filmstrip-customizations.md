@@ -5,8 +5,8 @@ seo-title: Filmstrip Customizations
 solution: Experience Manager
 title: Filmstrip Customizations
 uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 ---
-
 # Filmstrip Customizations{#filmstrip-customizations}
 
 All Apps use **[!UICONTROL Style]** and **[!UICONTROL Config]** options in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer.]**
@@ -47,4 +47,3 @@ You can customize Filmstrip using the following additional options in the App De
   * **[!UICONTROL Show related content]**. Toggle this to display content published to the App, but tagged with a different product ID. After the product-specific content for the App displays, Livefyre displays content for other products and content not associated with a product. Livefyre prioritizes the content with the same product ID first, then content published to the App with other product IDs, then content published to the App with no product IDs.
 
 See [Filmstrip Options](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md) for more on how to customize a Filmstrip using Livefyre.js.
-

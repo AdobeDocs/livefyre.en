@@ -5,9 +5,8 @@ seo-title: Javascript Events for Conversation Apps
 solution: Experience Manager
 title: Javascript Events for Conversation Apps
 uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
-
+exl-id: 2497346e-b2cc-44b2-bcd9-906dd443fe38
 ---
-
 # Javascript Events for Conversation Apps{#javascript-events-for-conversation-apps}
 
 The events available to which you can bind JavaScript for conversation Apps (for example, Comments, Chat, Live Blog, Reviews, and Sidenotes).
@@ -60,4 +59,3 @@ The following is a matrix of the events available for conversation apps. An X de
 |  Content Type | X | X | X | X | | | |
 |  Published date to App | | | | | | | |
 |  Logged in to end-user App | | | | | | | |
-

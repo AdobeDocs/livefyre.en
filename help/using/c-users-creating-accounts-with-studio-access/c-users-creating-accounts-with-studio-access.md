@@ -5,9 +5,8 @@ seo-title: Users  Creating User Accounts
 solution: Experience Manager
 title: Users  Creating User Accounts
 uuid: f8eed23d-40d4-4aee-8ee0-f1790e119961
-
+exl-id: d45362f5-e0ba-4141-9d35-7999380d94cd
 ---
-
 # Users: Creating User Accounts{#users-creating-user-accounts}
 
 Studio Accounts allow you to access all Studio components for which you have permissions, including App creation, Content moderation, and User management.

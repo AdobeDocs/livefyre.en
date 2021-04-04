@@ -5,9 +5,8 @@ seo-title: Media Wall
 solution: Experience Manager
 title: Media Wall
 uuid: 54f4fb0b-e427-4b73-bb96-31325805b081
-
+exl-id: b5fe52b7-f301-4c3a-92fe-907745d33cfc
 ---
-
 # Media Wall{#media-wall}
 
 Create Media Walls with images, chat, video, and other streaming content.

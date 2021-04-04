@@ -5,9 +5,8 @@ seo-title: Use CSS to Style Featured Content
 solution: Experience Manager
 title: Use CSS to Style Featured Content
 uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
-
+exl-id: 6829c1b3-407c-45c1-9bed-c78ab8f5b985
 ---
-
 # Use CSS to Style Featured Content{#use-css-to-style-featured-content}
 
 Use available CSS Classes to style Featured content differently from other content in your App.
@@ -24,4 +23,3 @@ The following classes are available for use for Featured content.
 |  .fyre-featured-title | The header text. |
 |  .fyre-featured-body | The container div for featured content in the reader. |
 |  .fyre-featured-quote | The quote icon that begins each content item. |
-

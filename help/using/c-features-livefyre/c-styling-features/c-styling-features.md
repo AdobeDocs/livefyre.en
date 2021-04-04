@@ -4,9 +4,8 @@ seo-description: You can style your Livefyre Apps to behave in various ways or c
 seo-title: Styling Features
 title: Styling Features
 uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
-
+exl-id: d2ba6865-566a-4258-9c5f-3b4c6780907f
 ---
-
 # Styling Features{#styling-features}
 
 You can style your Livefyre Apps to behave in various ways or change them to look and feel like the rest of your brand campaign.
@@ -39,4 +38,3 @@ Apps that use this feature:
 
 * [Chat](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md)
-

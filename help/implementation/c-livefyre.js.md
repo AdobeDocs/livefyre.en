@@ -5,9 +5,8 @@ seo-title: Livefyre.js
 solution: Experience Manager
 title: Livefyre.js
 uuid: 7b3eca57-d5e8-416d-badf-a9c51d10dadd
-
+exl-id: 82083dc0-3b4a-467c-bad7-dbf242ab5bbd
 ---
-
 # Livefyre.js {#livefyre-js}
 
 The core Livefyre library used to power Livefyre on your site.

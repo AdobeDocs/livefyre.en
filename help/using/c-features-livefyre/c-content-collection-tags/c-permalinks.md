@@ -5,9 +5,8 @@ seo-title: Permalinks
 solution: Experience Manager
 title: Permalinks
 uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
-
+exl-id: a21cbcca-9173-42ec-910d-7ec2edc60676
 ---
-
 # Permalinks{#permalinks}
 
 Use your bit.ly URL shortener to customize content permalinks.
@@ -42,4 +41,3 @@ Apps that use this feature:
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

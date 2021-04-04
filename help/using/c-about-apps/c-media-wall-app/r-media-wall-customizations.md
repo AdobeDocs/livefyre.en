@@ -5,9 +5,8 @@ seo-title: Media Wall Customizations
 solution: Experience Manager
 title: Media Wall Customizations
 uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
-
+exl-id: bc34d8da-9e14-4226-b38d-128889bc31cc
 ---
-
 # Media Wall Customizations{#media-wall-customizations}
 
 Change the size, width, and interaction options of the Media Wall app.
@@ -76,4 +75,3 @@ You can customize Media Wall using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. 
 
 * Integration tools. See [Media Wall Integration](/help/implementation/c-app-integrations/c-media-wall-integration.md) for more on how to customize a Media Wall using Integration Tools.
-

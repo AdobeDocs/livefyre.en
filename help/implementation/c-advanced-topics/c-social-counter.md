@@ -5,9 +5,8 @@ seo-title: Social Counter
 solution: Experience Manager
 title: Social Counter
 uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
-
+exl-id: def7fba4-1c2e-4c7b-84f7-f9ede592d675
 ---
-
 # Social Counter{#social-counter}
 
 Count the number of curated social items. For a complete list of available endpoints, please see the Livefyre [API Reference](https://api.livefyre.com/docs) section.

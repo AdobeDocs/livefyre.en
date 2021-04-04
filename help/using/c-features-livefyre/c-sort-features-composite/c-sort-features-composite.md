@@ -5,9 +5,8 @@ seo-title: Sort Features
 solution: Experience Manager
 title: Sort Features
 uuid: e40f5877-acdc-48c2-a2c3-8a8d253cdb93
-
+exl-id: 62be145a-8885-436e-bc64-0bdb648390c4
 ---
-
 # Sort Features{#sort-features}
 
 You can choose various sorting options depending on the App and what you want site visitors to be able to do.
@@ -40,4 +39,3 @@ Apps that use this feature:
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md) 
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app) 
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

@@ -5,9 +5,8 @@ seo-title: Posting User Permissions to External Systems (Optional)
 solution: Experience Manager
 title: Posting User Permissions to External Systems (Optional)
 uuid: 9c18b20d-3b93-4666-b7de-1ec60318cf88
-
+exl-id: 335c9ff2-e392-4310-aad2-7890c8e82eba
 ---
-
 # Posting User Permissions to External Systems (Optional){#posting-user-permissions-to-external-systems-optional}
 
 Livefyre uses a PUSH interface to send an external system information about changes to user permissions.

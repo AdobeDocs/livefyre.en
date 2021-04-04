@@ -5,9 +5,8 @@ seo-title: buildCollection Site Method
 solution: Experience Manager
 title: buildCollection Site Method
 uuid: 52abc42a-9506-4492-b219-f2e05eb79c5f
-
+exl-id: d5c9a2fb-2d30-44f4-8ebf-24b0ec7babee
 ---
-
 # buildCollection Site Method{#buildcollection-site-method}
 
 |Variable|Type|Description|

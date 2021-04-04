@@ -5,9 +5,8 @@ seo-title: Mosaic Features
 solution: Experience Manager
 title: Mosaic Features
 uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
-
+exl-id: 75417bcc-5a30-4928-b922-0dfa625d4525
 ---
-
 # Mosaic Features{#mosaic-features}
 
 The Mosaic App offers these features for your site.
@@ -31,4 +30,3 @@ The Mosaic App has the following features:
 * [Twitter Action Buttons](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b) 
 * [UGC Commerce](/help/using/c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [On-Site Contribution Features](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-

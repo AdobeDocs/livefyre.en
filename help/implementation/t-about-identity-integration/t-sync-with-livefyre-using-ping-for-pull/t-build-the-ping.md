@@ -5,9 +5,8 @@ seo-title: Build the Ping
 solution: Experience Manager
 title: Build the Ping
 uuid: cb8cc043-9ea5-407c-b70f-3f1e37accdae
-
+exl-id: 626c200b-eaff-483f-b1eb-7d8993fe5e7c
 ---
-
 # Build the Ping{#build-the-ping}
 
 Build the ping so your page pings Livefyre when users update their profile.

@@ -4,9 +4,8 @@ seo-description: Release Notes for the June 15, 2017 release.
 seo-title: June 15, 2017
 title: June 15, 2017
 uuid: 19262de2-72b7-4df8-b041-1c4171381158
-
+exl-id: 7fe83b80-4a33-4862-926f-e1df71e66d32
 ---
-
 # June 15, 2017{#june}
 
 Release Notes for the June 15, 2017 release.
@@ -35,4 +34,3 @@ Release Notes for the June 15, 2017 release.
 |---|---|---|
 |  Bug | Library | When you clear filters in the library, you will remain in the same folder selection, instead of being redirected to another page. |
 |  Enhancement | Social Sync | Deprecated Twitter Social Sync.  |
-

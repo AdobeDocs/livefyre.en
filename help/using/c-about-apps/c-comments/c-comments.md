@@ -5,9 +5,8 @@ seo-title: Comments
 solution: Experience Manager
 title: Comments
 uuid: f409d04a-2ecc-42fd-9d45-c723aafad116
-
+exl-id: 938be5c6-d39f-4b10-b46f-fd7ce11d7e66
 ---
-
 # Comments{#comments}
 
 Embed real-time comments into your App.
@@ -23,4 +22,3 @@ Mashable uses Comments to increase user participation in their discussions. Feat
 c_comments_app.dita
 
  -->
-

@@ -3,9 +3,8 @@ description: Allow-list a user to allow them to post directly to Apps without be
 solution: Experience Manager
 title: Allow-list a User
 uuid: c58f7279-5fde-419a-a833-3c639d469421
-
+exl-id: d291c62a-03a1-4a1e-a0b3-efeb270e519a
 ---
-
 # Allow-list a User{#allow-list-a-user}
 
 Allow-list a user to allow them to post directly to Apps without being moderatated.

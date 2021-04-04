@@ -5,9 +5,8 @@ seo-title: CollectionMeta Token
 solution: Experience Manager
 title: CollectionMeta Token
 uuid: d5db0b0f-2807-4392-874a-94ac3c1e7550
-
+exl-id: 52edfe75-5ce6-40c9-9afe-c34a3812f1e7
 ---
-
 # CollectionMeta Token{#collectionmeta-token}
 
 Create a unique token on your server that identifies every collection that you create.

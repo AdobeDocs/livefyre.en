@@ -5,9 +5,8 @@ seo-title: Referral Tracking
 solution: Experience Manager
 title: Referral Tracking
 uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
-
+exl-id: 44cc221c-1603-4e6e-ae4a-1b993f7dc446
 ---
-
 # Referral Tracking{#referral-tracking}
 
 Track clicks back to your page from referral traffic.
@@ -53,4 +52,3 @@ Apps that use this feature:
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md) 
 * [Reviews](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app) 
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-

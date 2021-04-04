@@ -5,9 +5,8 @@ seo-title: Authentication Features
 solution: Experience Manager
 title: Authentication Features
 uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
-
+exl-id: 4d0691e2-1327-4008-bf12-82cc91ed0612
 ---
-
 # Authentication Features{#authentication-features}
 
 You can choose whether and how your site visitors to log in to your apps.
@@ -25,4 +24,3 @@ Apps that use this feature:
 * [Sidenotes](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app) 
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2) 
 * [Upload Button](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

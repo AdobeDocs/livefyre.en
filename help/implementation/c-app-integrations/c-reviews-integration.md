@@ -5,8 +5,8 @@ seo-title: Reviews
 solution: Experience Manager
 title: Reviews
 uuid: b740ee28-f6f9-4ae7-9fe7-61a5cde97bbb
+exl-id: 2f10646e-59c4-459c-ae1b-749f951a06d2
 ---
-
 # Reviews {#reviews}
 
 Allow customers to rate and review your product offerings.

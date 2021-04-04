@@ -5,9 +5,8 @@ seo-title: Add a Site to a Network
 solution: Experience Manager
 title: Add a Site to a Network
 uuid: a4a3fdb2-94be-48d9-9523-c97617190e53
-
+exl-id: 3ba01518-12c5-4a8b-9d94-a2f499447136
 ---
-
 # Add a Site to a Network{#add-a-site-to-a-network}
 
 You can add new sites to your network for domains and subdomains that share the same user profiles.

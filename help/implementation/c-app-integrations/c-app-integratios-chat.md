@@ -5,8 +5,8 @@ seo-title: Chat
 solution: Experience Manager
 title: Chat
 uuid: d6761a69-efa5-4ad3-abaf-1ba8e6c17f94
+exl-id: f383bf19-0ff1-42ca-9b32-209a22679ad2
 ---
-
 # Chat{#chat}
 
 Adding live chat to your page.
@@ -168,4 +168,4 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 });
 ```
 
-For more information, and for a list of available events, see [Javascript Events](../c-app-customizations/c-javascript-events.md#c_javascript_events). 
+For more information, and for a list of available events, see [Javascript Events](../c-app-customizations/c-javascript-events.md#c_javascript_events).

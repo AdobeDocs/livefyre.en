@@ -5,9 +5,8 @@ seo-title: Create an App
 solution: Experience Manager
 title: Create an App
 uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
-
+exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
 ---
-
 # Create an App {#create-an-app}
 
 To add an App to your site, you must first create an App in Livefyre Studio.
@@ -168,4 +167,3 @@ To delete an App:
 1. Click **[!UICONTROL Apps]**.
 1. Click on the ellipsis to the right of the name of the App to delete.
 1. Click **[!UICONTROL Delete App]** to delete the App.
-

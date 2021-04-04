@@ -4,9 +4,8 @@ seo-description: Release Notes for the October 5, 2017 release.
 seo-title: October 5, 2017
 title: October 5, 2017
 uuid: 62e9e4ee-1644-4d22-9589-2e208a68aaeb
-
+exl-id: 6e39a86e-82dd-47ff-ad68-2b483f8b1921
 ---
-
 # October 5, 2017{#october}
 
 Release Notes for the October 5, 2017 release.
@@ -35,4 +34,3 @@ Release Notes for the October 5, 2017 release.
 |  Enhancement | UGC Commerce | Customers can now manually upload a google product catalogue into Livefyre studio using a JSON file export. This enables the customer to pair UGC with products from that catalogue and visualize them in our commerce enabled apps.  |
 |  Enhancement | UGC Commerce | Customers can select which product folders they want to use when filtering their E-commerce app by product ID. For example I want my new filmstrip to appear in my women's shoes and women bags product pages, therefore I will select only the "Women's shoes collection" and "Women's bags" product folders. |
 |  Enhancement | UGC Commerce | Livefyre customers can now filter the UGC published to their apps only if they have been rights granted. For example a customer can curate and publish a selection of items, but those items will only be rendered in the app once they have been rights granted by the author. This is particularly important for E-commerce use cases, where the UGC is used for commercial purposes. |
-

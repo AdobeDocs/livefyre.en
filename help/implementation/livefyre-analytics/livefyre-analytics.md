@@ -5,9 +5,8 @@ seo-title: Analytics
 solution: Experience Manager
 title: Analytics
 uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
-
+exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
 ---
-
 # Analytics{#analytics}
 
 Analyze user, content, and moderator activity for your site.
@@ -108,4 +107,3 @@ The Moderation dashboard lists events by moderator, allowing you to evaluate the
 The Users dashboard shows site activity by user, allowing you to analyze how individual users are interacting with your site. Use this dashboard to find your most active users across your site, and to evaluate the most popular site activities.
 
 ![](assets/analytics-users.png)
-

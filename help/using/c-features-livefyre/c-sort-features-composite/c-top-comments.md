@@ -4,9 +4,8 @@ seo-description: l
 seo-title: Top Comments
 title: Top Comments
 uuid: 23c4a766-b3e8-4fab-a7f9-78cdb601652a
-
+exl-id: 97c58998-09f9-4f3d-8c80-f0a5c8401b2f
 ---
-
 # Top Comments{#top-comments}
 
 Top Comments lists the 25 most liked comments in the conversation. The **[!UICONTROL Top Comments]** view displays the 25 most liked comments in the Collection. If an original post receives the most likes, the post, but not its replies, will be listed. If a reply receives the most likes, its immediate parent, up to the top level post, will also be displayed. This list is not real-time, and will update only when the page is refreshed or another sort view (**[!UICONTROL Newest]** or **[!UICONTROL Oldest]**) is selected.
@@ -26,4 +25,3 @@ For information on enabling the Top Comments view, please see **[!UICONTROL Stud
 Apps that use this feature:
 
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md)
-

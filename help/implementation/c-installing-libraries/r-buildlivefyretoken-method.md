@@ -5,9 +5,8 @@ seo-title: buildLivefyreToken Network Method
 solution: Experience Manager
 title: buildLivefyreToken Network Method
 uuid: 7c72a05f-669b-4df3-8117-aa4af2f7a179
-
+exl-id: 2b303606-e8de-41e5-9c01-b41cc7bd8437
 ---
-
 # buildLivefyreToken Network Method{#buildlivefyretoken-network-method}
 
 Returns an encrypted valid Livefyre token that can be used to interact with other Livefyre API for the network it is called from.
@@ -83,4 +82,3 @@ Sample output:
 eyJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJ0ZXN0LmZ5cmUuY29tIiwidXNlcl9pZCI6InN5c3RlbSIsImRpc3BsYXlfbmFtZSI6InN5c3RlbSIsImV4cGlyZXMiOjEzOTY2NTUwODN9.33GuJF_ou2O6CCV22Y3PlLUgP2Igy9vAXfmLONkt-Yo 
 
 ```
-

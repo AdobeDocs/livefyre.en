@@ -5,9 +5,8 @@ seo-title: Add Social Content
 solution: Experience Manager
 title: Add Social Content
 uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
-
+exl-id: 2277b525-ef0e-4e66-9260-f81898d93bf1
 ---
-
 # Add Social Content{#add-social-content}
 
 Storify 2 offers several content sources to add social content.

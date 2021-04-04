@@ -4,9 +4,8 @@ seo-description: null
 seo-title: Smart Tags
 title: Smart Tags
 uuid: f978fa83-e79b-46ae-bb3e-0f9449bd0440
-
+exl-id: cbbc5550-d6cf-42e5-bce7-2c270cc968cd
 ---
-
 # Smart Tags{#smart-tags}
 
 Livefyre uses Adobe Sensei computer vision technology to automatically tag images and videos you save or upload in the library.
@@ -38,4 +37,4 @@ Tag types:
 * Feature tags: Function the same as feature tags for images (for example, cats, dogs, pyramids, landmarks). 
 * Action tags: Identify features that occur across multiple frames instead of just one. These are more effective in summarizing a video's content.
 
-For additional Information on Smart Tags, see [Stream Rule Options for All Stream Rules](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Information on Smart Tags, see [Stream Rule Options for All Stream Rules](../../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

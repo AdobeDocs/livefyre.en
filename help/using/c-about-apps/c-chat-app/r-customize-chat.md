@@ -5,9 +5,8 @@ seo-title: Chat Customizations
 solution: Experience Manager
 title: Chat Customizations
 uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
-
+exl-id: da6a3d41-426a-4734-a3e7-951cbe9e9988
 ---
-
 # Chat Customizations{#chat-customizations}
 
 Customize Chat Apps to display content as a continuous stream of unthreaded chat, allowing your audience to engage in real-time conversation around live events or announcements.
@@ -53,4 +52,3 @@ You can customize Chat using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**.
 
 * Integration tools. See Chat for more on how to customize Chat using Integration Tools.
-

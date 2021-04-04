@@ -5,9 +5,8 @@ seo-title: Create a New Stream
 solution: Experience Manager
 title: Create a New Stream
 uuid: 2874660b-d26b-4e21-b24e-484744e2303a
-
+exl-id: 70d1b745-205e-40d8-bfb8-702977648fb7
 ---
-
 # Create a New Stream{#create-a-new-stream}
 
 Create a new Stream in Livefyre to add content to an app or folder.

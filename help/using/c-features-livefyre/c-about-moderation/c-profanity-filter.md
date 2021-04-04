@@ -5,9 +5,8 @@ seo-title: Using the Profanity Filter
 solution: Experience Manager
 title: Using the Profanity Filter
 uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
-
+exl-id: 6ea7d913-f562-42a5-a6ea-241aa4e1089a
 ---
-
 # Using the Profanity Filter{#using-the-profanity-filter}
 
 All content posted into a Livefyre App is checked for profanity. If a word included in the profanity list is found in content or in a user’s display name, that content will be flagged “Profanity,” allowing you to filter it for Premoderation, Rules, ModQ, or general searches in App Content.
@@ -84,4 +83,3 @@ To create Premoderation rules, from Studio select **[!UICONTROL Settings > Netwo
 >[!NOTE]
 >
 >Only Studio Administrators and Moderators can edit Profanity Lists.
-

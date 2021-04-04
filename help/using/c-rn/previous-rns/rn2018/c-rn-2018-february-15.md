@@ -5,9 +5,8 @@ seo-title: February 15, 2018
 solution: Experience Manager
 title: February 15, 2018
 uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
-
+exl-id: 7276de37-c8cd-4e85-bc92-90c272e5bf94
 ---
-
 # February 15, 2018{#february}
 
 Release Notes for the February 15, 2018 release.
@@ -48,4 +47,3 @@ The issues in the following tables were resolved in this release.
 |  Enhancement | Apps | Added the ability to delete Apps from Livefyre. |
 |  Issue | Polls | Changed Polls to use HTTPS exclusively. Previously, Polls were still allowed to be used with HTTP. |
 |  Issue | UGC | Fixed an issue where UGC in a visualization App did not filter by Product ID as expected. |
-

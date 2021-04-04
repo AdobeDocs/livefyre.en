@@ -4,9 +4,8 @@ seo-description: Release Notes for January 12, 2017 release.
 seo-title: January 12, 2017
 title: January 12, 2017
 uuid: fb92ea52-7184-4f08-814c-15e45d684371
-
+exl-id: a1578c9d-5ec0-4694-96b0-4952a02d8c58
 ---
-
 # January 12, 2017{#january}
 
 Release Notes for January 12, 2017 release.
@@ -42,4 +41,3 @@ Release Notes for January 12, 2017 release.
 |Enhancement|Livefyre Identity|Enhanced Livefyre Identity to support keyboard navigation to meet accessibility standards.|
 |Bug|Streams|Enhanced Facebook Page Rules to ingest high quality Facebook images where before we ingested only the thumbnails.|
 |Bug|Studio|Enhanced Library Asset search to support Japanese characters.|
-

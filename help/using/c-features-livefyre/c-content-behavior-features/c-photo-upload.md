@@ -5,9 +5,8 @@ seo-title: Photo Upload
 solution: Experience Manager
 title: Photo Upload
 uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
-
+exl-id: 97606f5b-75d4-439e-ad96-09e35b8d1f30
 ---
-
 # Photo Upload{#photo-upload}
 
 Upload images to a Live Blog, Chat, Reviews, or Comments stream.
@@ -24,4 +23,3 @@ Apps that use this feature:
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Upload Button](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

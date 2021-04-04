@@ -5,9 +5,8 @@ seo-title: Map
 solution: Experience Manager
 title: Map
 uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
-
+exl-id: 836b475e-0ec6-49f8-b89f-3af3209cf1f2
 ---
-
 # Map{#map}
 
 Plot user content to an interactive map.
@@ -82,4 +81,3 @@ var map = new Map({
     } 
 });
 ```
-

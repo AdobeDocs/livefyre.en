@@ -5,9 +5,8 @@ seo-title: Featured Content
 solution: Experience Manager
 title: Featured Content
 uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
-
+exl-id: 3e8bbdb5-ec3a-4a6a-94c5-63bd9687fe99
 ---
-
 # About Featured Content{#featured-content}
 
 Highlight important content to your users by using CSS to custom style Featured content.
@@ -35,4 +34,3 @@ Apps that use this feature:
 * [Mosaic](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

@@ -4,9 +4,8 @@ seo-description: Create a privacy request in Livefyre.
 seo-title: Create a Privacy Request
 title: Create a Privacy Request
 uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
-
+exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 ---
-
 # Create a Privacy Request{#create-a-privacy-request}
 
 Create a privacy request in Livefyre.
@@ -82,4 +81,3 @@ To search for and find a user and generate a report of their content:
    >[!IMPORTANT]
    >
    >Deleting data for an account will permanently delete or destroy data associated with the account. You cannot reverse this action, nor can you recover data after you have deleted it.
-

@@ -5,9 +5,8 @@ seo-title: November 16, 2017
 solution: Experience Manager
 title: November 16, 2017
 uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
-
+exl-id: 167b8c7d-f2fb-4735-9681-d349646ec3eb
 ---
-
 # November 16, 2017{#november}
 
 Release Notes for the November 16, 2017 release.
@@ -45,4 +44,3 @@ Release Notes for the November 16, 2017 release.
 |  Bug | App Manager | Fixed an issue with the App tag search in App Manager.  |
 |  Bug | Library | Fixed an issue that prevented adding stars for multiple pieces of content at a time in the Asset Library.  |
 |  Bug | Studio | Fixed an issue that prevented some users from logging into Livefyre. |
-

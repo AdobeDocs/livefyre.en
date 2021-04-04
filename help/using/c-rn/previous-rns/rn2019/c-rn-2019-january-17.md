@@ -5,9 +5,8 @@ seo-title: Release Notes
 solution: Experience Manager
 title: Livefyre Release Notes Jan 17 2019
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
-
+exl-id: 6f9e1dfb-b575-4d6c-8451-55713d1d01ef
 ---
-
 # Release Notes - January 17, 2019
 
 Release Notes for the January 17, 2019 release.

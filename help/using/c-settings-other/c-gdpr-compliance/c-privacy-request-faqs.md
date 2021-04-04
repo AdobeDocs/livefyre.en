@@ -5,9 +5,8 @@ seo-title: Privacy Request FAQs
 solution: Experience Manager
 title: Privacy Request FAQs
 uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
-
+exl-id: 6d0add45-589a-46d0-b15a-63a7599aad73
 ---
-
 # Privacy Request FAQs{#privacy-request-faqs}
 
 Answers to Frequently Asked Questions (FAQs) about GDPR-Ready Privacy Requests.
@@ -35,4 +34,3 @@ Answers to Frequently Asked Questions (FAQs) about GDPR-Ready Privacy Requests.
 * **How do I produce a report of data tracked of a current or former employee?** [View a Privacy Report](../../c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md#c_view_a_privacy_report) to generate a report of data tracked for a user account. 
 
 * **Is Livefyre social stream compliant?** When a user deletes a post or tweet from their social network, within 24 hours the content is also deleted from all sources in Livefyre. This applies to Twitter and Facebook.
-

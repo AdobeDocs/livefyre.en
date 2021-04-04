@@ -4,9 +4,8 @@ seo-description: Release Notes for the February 23, 2017 release.
 seo-title: February 23, 2017
 title: February 23, 2017
 uuid: 9b08acf4-15e9-43b7-8abc-c0d720b156e6
-
+exl-id: 3a5708a1-4be6-447f-ae6e-8f5a37171ed7
 ---
-
 # February 23, 2017{#february}
 
 Release Notes for the February 23, 2017 release.
@@ -43,4 +42,3 @@ Release Notes for the February 23, 2017 release.
 |  Enhancement | Studio | Increased session time before expiring Studio User login sessions . Once a Studio session expires the user will be redirected to log in again. |
 |  Bug | Studio | Fixed a bug that was sometimes preventing users from saving Instagram credentials. |
 |  Bug | Studio | Fixed a bug that was preventing the “Feature Tag” to save correctly when applied. |
-

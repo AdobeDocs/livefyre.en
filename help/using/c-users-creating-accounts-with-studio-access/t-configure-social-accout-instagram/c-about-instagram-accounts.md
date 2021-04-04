@@ -5,9 +5,8 @@ seo-title: About Instagram Accounts
 solution: Experience Manager
 title: About Instagram Accounts
 uuid: 1fa2b4ca-264c-42c8-8dcb-57f7543ed2f7
-
+exl-id: 6b337c5f-c0b2-4f27-947f-a3e72b65d8de
 ---
-
 # About Instagram Accounts{#about-instagram-accounts}
 
 Learn the rules and requirements for Instagram that are different than other social accounts.

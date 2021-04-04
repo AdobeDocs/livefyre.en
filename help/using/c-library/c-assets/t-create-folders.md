@@ -5,9 +5,8 @@ seo-title: Create Asset Folders
 solution: Experience Manager
 title: Create Asset Folders
 uuid: fe5eb098-ac8c-44e9-aee4-6c0b88f82747
-
+exl-id: f9c83081-c1c8-4e3a-b975-55d6738995f5
 ---
-
 # Create Asset Folders{#create-asset-folders}
 
 Create folders to organize assets.

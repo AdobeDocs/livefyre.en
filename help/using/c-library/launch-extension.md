@@ -4,7 +4,7 @@ seo-description: Learn to configure the Adobe Livefyre Extension for Adobe Launc
 seo-title: Adobe Launch Livefyre Extension
 title: Adobe Launch Livefyre Extension
 uuid: 98108ddb-5710-4331-891b-7e1bbb106059
-
+exl-id: e594720d-2226-4eb5-b8d0-e86b59bb25a1
 ---
 # Adobe Launch Livefyre Extension {#lf-launch-extension}
 

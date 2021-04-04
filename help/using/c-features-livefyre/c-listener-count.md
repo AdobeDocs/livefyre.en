@@ -5,9 +5,8 @@ seo-title: Listener Count
 solution: Experience Manager
 title: Listener Count
 uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
-
+exl-id: a07e83c2-7465-42ec-9d24-821aac5ab74b
 ---
-
 # Listener Count{#listener-count}
 
 Listener count is a counter that tracks the number of site visitors for an App on a page and displays this number.
@@ -42,4 +41,3 @@ Apps that use this feature:
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md) 
 * [Reviews](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app) 
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

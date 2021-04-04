@@ -4,10 +4,9 @@ seo-description: Use Livefyre to curate and display UGC using a custom visualiza
 seo-title: Curate and Display UGC
 solution: Experience Manager
 title: Curate and Display UGC
-uuid: 
-
+uuid:
+exl-id: 1af48d91-0f24-4759-b6c2-41828de158a9
 ---
-
 # Curate and Display UGC {#curatedisplayugc}
 
 Use Livefyre to curate and display UGC using a custom visualization.

@@ -4,9 +4,8 @@ seo-description: null
 seo-title: Sidenotes Custom Strings
 title: Sidenotes Custom Strings
 uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
-
+exl-id: b5e2c18b-5b98-45ff-aa89-dd92a02949a9
 ---
-
 # Sidenotes Custom Strings{#sidenotes-custom-strings}
 
 Custom strings are applied through an object injected into the Sidenotes constructor, and override default strings used through the application. These may be used to customize any part of the language to fit your style or language specifications. Strings will automatically merge with defaults.

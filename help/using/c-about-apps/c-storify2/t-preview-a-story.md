@@ -5,9 +5,8 @@ seo-title: Preview a Story
 solution: Experience Manager
 title: Preview a Story
 uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
-
+exl-id: b86798dc-2b03-456a-9179-7474fd2f19c3
 ---
-
 # Preview a Story{#preview-a-story}
 
 The App Designer allows you to preview your App in multiple delivery formats, and with your own or sample data displayed.

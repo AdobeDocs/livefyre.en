@@ -5,9 +5,8 @@ seo-title: January 18, 2018
 solution: Experience Manager
 title: January 18, 2018
 uuid: 8141f431-c154-4c8f-bbcd-b7c712fe5f7d
-
+exl-id: aaf49dc9-64eb-4354-8bcb-04039fa25f10
 ---
-
 # January 18, 2018{#january}
 
 Release Notes for the January 18, 2018 release.
@@ -32,4 +31,3 @@ Release Notes for the January 18, 2018 release.
 |  Bug | Streams | Fixed an issue where Instagram stream rules did not recognize Japanese characters. |
 |  Enhancement | Streams | Customers can now use the logical operators ( ANY, ALL, NOT) to create detailed smart-tag filters in streams that curate much more accurate content. For example if I use the hashtag #himalyas I can select to show only images that include "snowy" "mountains".  |
 |  Bug | Studio | Fix to a bug which showed special characters in names as HTML. |
-

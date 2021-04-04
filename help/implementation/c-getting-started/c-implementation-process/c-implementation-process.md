@@ -5,9 +5,8 @@ seo-title: Implementation Process
 solution: Experience Manager
 title: Implementation Process
 uuid: 9a0f394e-3467-47d1-9816-45e2130db440
-
+exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 ---
-
 # Implementation Process{#implementation-process}
 
 The length of time to implement Livefyre depends on your implementation and scope of work.
@@ -43,4 +42,3 @@ There are three main steps to integrating Livefyre:
 * Customization
 
   Customization is optional, but most customers customize Apps to fit their brand.
-

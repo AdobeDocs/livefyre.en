@@ -5,8 +5,8 @@ seo-title: Embed a Comments App
 solution: Experience Manager
 title: Embed a Comments App
 uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
+exl-id: 5eb191f8-ee52-4a9d-9180-90457a49fd4e
 ---
-
 # Embed a Comments App{#embed-a-comments-app}
 
 Embedding the Comments App follows the process for embedding a Core App.
@@ -60,4 +60,3 @@ As noted in the Building CollectionMeta section, CollectionMeta is an encoded JS
 "title": "articleTitle" 
 }
 ```
-

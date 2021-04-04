@@ -5,9 +5,8 @@ seo-title: Create a Facebook App for Use with Livefyre Identity
 solution: Experience Manager
 title: Create a Facebook App for Use with Livefyre Identity
 uuid: a7f7be4e-8986-4e79-831a-0bb0ae555599
-
+exl-id: ec320865-6ea3-4f6f-a5f6-31f3d5cbdc93
 ---
-
 # Create a Facebook App for Use with Livefyre Identity{#create-a-facebook-app-for-use-with-livefyre-identity}
 
 You can use Livefyre Identity with Facebook to allow users to use their Facebook logins to interact with Apps on your site.

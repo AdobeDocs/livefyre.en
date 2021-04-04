@@ -4,9 +4,8 @@ seo-description: Publish content directly to an App.
 seo-title: Publish Content
 title: Publish Content
 uuid: eed0746b-5295-46f7-b32e-32ea524f1e94
-
+exl-id: 4bbff027-87c5-490d-9377-fbbbbe9d0ebb
 ---
-
 # Publish Content{#publish-content}
 
 Publish content directly to an App.

@@ -4,9 +4,8 @@ seo-description: Release Notes for the November 2, 2017 release.
 seo-title: November 2, 2017
 title: November 2, 2017
 uuid: 496fdc55-3386-48f2-a491-26dc2bc8aa72
-
+exl-id: bfc8fd65-550b-477e-be96-aa310bc64ea0
 ---
-
 # November 2, 2017{#november}
 
 Release Notes for the November 2, 2017 release.
@@ -32,4 +31,3 @@ Release Notes for the November 2, 2017 release.
 |  Enhancement | Rights Management | For open rights requests with Instagram content that proceeds to be marked as deleted or account made private, the rights status will show "Expired" and an activity history entry stating that the content is now private/deleted. |
 |  Enhancement | Settings | Customers can now visit our privacy policy and Adobe's terms of service in a footer in Settings.  |
 |  Bug | Studio | Livefyre can now fully render 280-character Twitter assets in Studio and Apps. |
-

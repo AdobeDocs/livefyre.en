@@ -5,9 +5,8 @@ seo-title: Comments Customizations
 solution: Experience Manager
 title: Comments Customizations
 uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
-
+exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 ---
-
 # Comments Customizations{#comments-customizations}
 
 Customize comments to embed real-time conversations on your site.
@@ -73,4 +72,3 @@ You can customize Comments using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**.
 
 * **[!UICONTROL Integration tools]**. See Comments for more on how to customize Comments using Integration Tools.
-

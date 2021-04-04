@@ -5,9 +5,8 @@ seo-title: Activity Stream
 solution: Experience Manager
 title: Activity Stream
 uuid: f40deec1-58ab-41c9-aac4-d2d8c9192bb9
-
+exl-id: 4a552034-96e4-4f1c-9965-3495992005f1
 ---
-
 # Activity Stream {#activity-stream}
 
 Learn how monitor and store the user-generated content flowing through the Livefyre system.

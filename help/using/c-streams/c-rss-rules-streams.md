@@ -5,9 +5,8 @@ seo-title: RSS Rules
 solution: Experience Manager
 title: RSS Rules
 uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
-
+exl-id: bfb3bbad-ab26-451e-b540-d6c41f54dc31
 ---
-
 # RSS Rules{#rss-rules}
 
 You can create Stream rules that pull content from RSS feeds.
@@ -34,4 +33,4 @@ Livefyre parses RSS feeds based on the following RSS specs:
 
 Livefyre does not read feeds that do not adhere to these specs, and their content will not be pulled into your stream. Use the WC3 Feed Validation Service to check the syntax of your RSS feed, and ensure that it is valid.
 
-For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

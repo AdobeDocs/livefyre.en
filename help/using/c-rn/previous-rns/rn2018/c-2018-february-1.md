@@ -5,9 +5,8 @@ seo-title: February 1, 2018
 solution: Experience Manager
 title: February 1, 2018
 uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
-
+exl-id: 39313b4d-342f-451b-8c15-471e604ba943
 ---
-
 # February 1, 2018 {#february}
 
 Release Notes for the February 1, 2018 release.
@@ -30,4 +29,3 @@ Release Notes for the February 1, 2018 release.
 |  Enhancement | Apps | Added a new Designer toggle to enable/disable a custom Call-to-Action Button in Mosaic, Filmstrip, Media Wall, Feature Card, and Carousel.  |
 |  Enhancement | Comments | Added the ability to put new audio file formats in Comments and using an Upload Button.  |
 |  Bug | Streams | Fixed a bug that caused SAFE Rules checkboxes to not check/uncheck properly. |
-

@@ -5,9 +5,8 @@ seo-title: Twitter Display Requirements
 solution: Experience Manager
 title: Twitter Display Requirements
 uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
-
+exl-id: f985a47e-4bab-4e60-8b8b-d8c6e5321be7
 ---
-
 # Twitter Display Requirements{#twitter-display-requirements}
 
 Social media networks often require that their content be displayed to conform with their brand standards. When using the Livefyre platform to re-present Twitter content you are at all times responsible for compliance with their terms of use, including their display requirements. Please be certain to read and understand their terms and conditions before displaying their content in your Livefyre Apps.

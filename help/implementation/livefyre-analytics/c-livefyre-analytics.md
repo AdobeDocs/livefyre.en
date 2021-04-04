@@ -5,9 +5,8 @@ seo-title: Use Livefyre with Other Analytics Tool
 solution: Experience Manager
 title: Use Livefyre with Other Analytics Tool
 uuid: 26c835f6-aced-41f7-aabe-418afce8a829
-
+exl-id: da29e281-5095-4e99-a248-19390f2059a2
 ---
-
 # Use Livefyre with Other Analytics Tool{#use-livefyre-with-other-analytics-tool}
 
 You can use analytics tools to gather data on user interactions with Livefyre Apps. You can use Adobe Analytics or a tool of your choice. 
@@ -56,4 +55,3 @@ Once Livefyre.analytics functionality is available on the page, implement the an
 1. The analytics handler receives an array of events that must be iterated through and sent individually or as a batch, if your provider supports it.
 1. Map the event data received by the handler to a format that your analytics provider requires. 
 1. Send the data to your analytics provider.
-

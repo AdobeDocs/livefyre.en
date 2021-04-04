@@ -5,9 +5,8 @@ seo-title: Build the Ping for Pull Response
 solution: Experience Manager
 title: Build the Ping for Pull Response
 uuid: f90871d5-601f-40dc-b3d2-ab78635e4a88
-
+exl-id: 81c398fd-2acb-4e39-a2b3-c96921b1192b
 ---
-
 # Build the Ping for Pull Response{#build-the-ping-for-pull-response}
 
 Build the Ping for Pull response to transmit updated user information to Livefyre.

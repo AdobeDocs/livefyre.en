@@ -5,9 +5,8 @@ seo-title: Live Blog Customizations
 solution: Experience Manager
 title: Live Blog Customizations
 uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
-
+exl-id: 388b700b-c7bc-47ef-a0f3-dac0b01fcb2b
 ---
-
 # Live Blog Customizations{#live-blog-customizations}
 
 Customize the style and the way comments display on your live blog.
@@ -61,4 +60,3 @@ You can customize Live Blog using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**.
 
 * Integration tools. See Live Blog for more on how to customize Apps using Integration Tools.
-

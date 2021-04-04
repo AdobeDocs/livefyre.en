@@ -5,9 +5,8 @@ seo-title: Ban IP Addresses
 solution: Experience Manager
 title: Ban IP Addresses
 uuid: 4d21b53e-4cf7-4da3-8910-9716709721f5
-
+exl-id: 1b5dde79-fea5-45f3-a832-8d5e4497c3cf
 ---
-
 # Ban IP Addresses{#ban-ip-addresses}
 
 You can ban IP addresses if a malicious user creates multiple accounts from the same IP address.

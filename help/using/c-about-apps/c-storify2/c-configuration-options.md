@@ -5,9 +5,8 @@ seo-title: Configuration Options
 solution: Experience Manager
 title: Configuration Options
 uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
-
+exl-id: bdb5210e-860c-477f-95cd-37a1233469f1
 ---
-
 # Configuration Options{#configuration-options}
 
 Choose Style, Display, and User Engagement configuration options for Storify 2 from Livefyre Studio.
@@ -73,4 +72,3 @@ Choose Style, Display, and User Engagement configuration options for Storify 2 f
 * **[!UICONTROL Number of views]**
 
   If enabled, the number of times the story has been viewed will be displayed.
-

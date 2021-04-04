@@ -5,9 +5,8 @@ seo-title: Stream Rule Options for All Stream Rules
 solution: Experience Manager
 title: Stream Rule Options for All Stream Rules
 uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
-
+exl-id: eff1a3cb-395f-4eb1-be93-f0f09bba95e2
 ---
-
 # Stream Rule Options for All Stream Rules{#stream-rule-options-for-all-stream-rules}
 
 These options apply for any stream rules from all social networks or posting methods.

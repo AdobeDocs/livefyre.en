@@ -5,9 +5,8 @@ seo-title: Change Collection
 solution: Experience Manager
 title: Change Collection
 uuid: 81c8a554-375f-4659-9e25-5b3618824633
-
+exl-id: 5ddae18f-0279-457d-ae02-85e24fe81150
 ---
-
 # Change Collection {#change-collection}
 
 Allow users to click through Collections from a single page layout and URL.

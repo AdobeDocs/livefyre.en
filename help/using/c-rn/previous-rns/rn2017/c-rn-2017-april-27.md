@@ -4,9 +4,8 @@ seo-description: Release Notes for the April 27, 2017 release.
 seo-title: April 27, 2017
 title: April 27, 2017
 uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
-
+exl-id: ebafb0ee-bb72-4187-ae35-316135434740
 ---
-
 # April 27, 2017{#april}
 
 Release Notes for the April 27, 2017 release.
@@ -33,4 +32,3 @@ Release Notes for the April 27, 2017 release.
 |  Enhancement | API | Released a new API to retrieve App embed codes. More info can be found at https://api.livefyre.com/docs/apis/by-category/apps. |
 |  Bug | Asset Library | Fixed a bug that capped the first page of Library results to 10 assets. |
 |  Enhancement | Studio | Enhanced the contrast on toggle components across Studio for easier visibility. |
-

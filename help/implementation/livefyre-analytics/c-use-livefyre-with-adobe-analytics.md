@@ -3,9 +3,8 @@ description: null
 seo-description: null
 seo-title: Use Livefyre with Adobe Analytics And Dynamic Tag Manager (DTM)  lk  xavvn   vefyre with Adobe Analytics And Dynamic Tag Manager (DTM)
 uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
-
+exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 ---
-
 # Use Livefyre with Adobe Analytics And Dynamic Tag Manager (DTM){#use-livefyre-with-adobe-analytics-and-dynamic-tag-manager-dtm}
 
 Set up Adobe Analytics and Dynamic Tag Manager (DTM) to collect data for Livefyre Apps.

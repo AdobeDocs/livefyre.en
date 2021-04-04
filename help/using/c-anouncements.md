@@ -5,9 +5,8 @@ seo-title: Announcements
 solution: Experience Manager
 title: Announcements
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
-
+exl-id: 78fe3f11-2365-4765-a0af-f817e9c80ea9
 ---
-
 # Announcements{#announcements}
 
 ## June 22, 2020

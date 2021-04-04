@@ -4,9 +4,8 @@ seo-description: Release Notes for the September 7, 2017 release.
 seo-title: September 7, 2017
 title: September 7, 2017
 uuid: a736cc77-8989-4066-b19c-8cac7bf6d7f9
-
+exl-id: 761debfa-676b-456f-812a-8e1516ab7689
 ---
-
 # September 7, 2017{#september}
 
 Release Notes for the September 7, 2017 release.
@@ -37,4 +36,3 @@ Release Notes for the September 7, 2017 release.
 |  Enhancement | Mosaic | This is a new configuration that enables customers to specify the number of cards to be displayed in the Mosaic visualization app.  |
 |  Bug | Rights Management | Fixed a bug preventing a Studio user from requesting rights on Instagram Carousel content. |
 |  Bug | Studio | Added clearer error messages when creating new Sites. |
-

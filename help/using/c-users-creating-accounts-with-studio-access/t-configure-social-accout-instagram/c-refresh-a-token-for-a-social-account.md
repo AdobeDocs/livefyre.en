@@ -5,9 +5,8 @@ seo-title: Refresh a Token for a Social Account
 solution: Experience Manager
 title: Refresh a Token for a Social Account
 uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
-
+exl-id: 46819456-1da1-44fe-a73c-a8a4800c4cd3
 ---
-
 # Refresh a Token for a Social Account{#refresh-a-token-for-a-social-account}
 
 Refresh a token for a social account when it expires.

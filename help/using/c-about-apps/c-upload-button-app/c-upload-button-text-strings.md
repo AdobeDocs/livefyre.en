@@ -5,9 +5,8 @@ seo-title: Upload Button Text Strings
 solution: Experience Manager
 title: Upload Button Text Strings
 uuid: f4d24af3-c7cb-468d-96b9-b5360047b5dc
-
+exl-id: 10467ae3-294a-4c8f-99a4-201019b81ff1
 ---
-
 # Upload Button Text Strings{#upload-button-text-strings}
 
 You can modify these text strings for the Upload Button.
@@ -33,4 +32,3 @@ You can modify these text strings for the Upload Button.
 |  | Enable Header | Enable a header to provide context to site visitors. You can choose to add the header to the top or the right of the button. |
 |  | Main Callout Title | The text to use for the title of the header. |
 |  | Main Callout Message | The text to use in the header. |
-

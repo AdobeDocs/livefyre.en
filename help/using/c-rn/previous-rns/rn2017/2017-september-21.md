@@ -4,9 +4,8 @@ seo-description: Release Notes for the September 21, 2017 release.
 seo-title: September 21, 2017
 title: September 21, 2017
 uuid: 1132b48a-f85c-4e05-b312-0093db9ebc8f
-
+exl-id: 6d01710e-dab4-4065-85c5-b00f45d8d4fd
 ---
-
 # September 21, 2017{#september}
 
 Release Notes for the September 21, 2017 release.
@@ -34,4 +33,3 @@ Release Notes for the September 21, 2017 release.
 |  Enhancement | UGC Commerce | Customers can now manually upload a Google product catalogue into LF studio using a JSON file export. This enables the customer to pair UGC with products from that catalogue and visualize them in our commerce enabled apps. |
 |  Enhancement | UGC Commerce | Customers can select which product folders they want to use when filtering their e-commerce app by product ID. For example, I want my new Filmstrip to appear in my women's shoes and women bags product pages, therefore I will select only the "Women's shoes collection" and "Women's bags" product folders. |
 |  Enhancement | UGC Commerce | Livefyre customers can now filter the UGC published to their apps only if they have rights granted. For example, a customer can curate and publish a selection of items, but those items will only be rendered in the App once they have been rights granted by the author. This is particularly important for e-commerce use cases, where the UGC is used for commercial purposes. |
-

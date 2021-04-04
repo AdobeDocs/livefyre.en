@@ -5,9 +5,8 @@ seo-title: Comments
 solution: Experience Manager
 title: Comments
 uuid: decad9b0-2074-4748-bd77-914008817bfa
-
+exl-id: d62b3dc1-3c5e-45f6-9b21-ea1edcda9812
 ---
-
 # Comments{#comments}
 
 Enable live commenting on your page. Comments allows you to replace your default commenting system with real-time conversations on your page.

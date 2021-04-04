@@ -5,9 +5,8 @@ seo-title: Sidenotes
 solution: Experience Manager
 title: Sidenotes
 uuid: 306294e9-1b4e-44cb-b619-a97840609f6b
-
+exl-id: 94cee3e6-b8f8-4714-84cb-64434ff33a67
 ---
-
 # Sidenotes{#sidenotes}
 
 Use Sidenotes to allow your readers to comment directly inline with content.
@@ -19,4 +18,3 @@ To sidenote, click the icon that appears at the end of paragraphs and images, or
 >[!NOTE]
 >
 >On mobile devices, landscape mode is not supported, and Sidenotes may be written only for paragraphs, and not for individual text snippets.
-

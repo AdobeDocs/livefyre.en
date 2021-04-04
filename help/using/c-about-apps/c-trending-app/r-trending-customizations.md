@@ -5,9 +5,8 @@ seo-title: Trending Customizations
 solution: Experience Manager
 title: Trending Customizations
 uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
-
+exl-id: 224fc481-0c71-4d56-b73b-adf53451e968
 ---
-
 # Trending Customizations{#trending-customizations}
 
 Change the size, width, and interaction options of the Map app.
@@ -26,4 +25,3 @@ You can customize Comments using:
 * **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**. See Customizing Apps for details on the standard **[!UICONTROL Style]** and **[!UICONTROL Config]** options for all Apps in the **[!UICONTROL App Designer]**.
 
 * Integration tools. See Trending for more on how to customize Apps using Integration Tools.
-

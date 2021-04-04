@@ -5,9 +5,8 @@ seo-title: User Posts
 solution: Experience Manager
 title: User Posts
 uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
-
+exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 ---
-
 # User Posts{#user-posts}
 
 Allow users to post, edit, flag, delete, reply to and like content in your Collections, with a full range of rich text formatting options.
@@ -96,4 +95,3 @@ Apps that use User Posts:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Upload Button](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

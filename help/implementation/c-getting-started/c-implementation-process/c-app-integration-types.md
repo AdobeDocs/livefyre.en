@@ -5,9 +5,8 @@ seo-title: CMS App Integrations
 solution: Experience Manager
 title: CMS App Integrations
 uuid: 14fd7e36-0e50-4ae3-97f0-2de731c184f5
-
+exl-id: 7590e247-87cc-470e-bab6-e61a19221dbd
 ---
-
 # CMS App Integrations{#cms-app-integrations}
 
 When you implement Livefyre Apps, the style of implementation depends on your use case. This page explains the features for the three ways you can create an App.

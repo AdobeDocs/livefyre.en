@@ -5,9 +5,8 @@ seo-title: validateLivefyreToken Network Method
 solution: Experience Manager
 title: validateLivefyreToken Network Method
 uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
-
+exl-id: c311005d-65fa-4f82-b482-8d173d6275cd
 ---
-
 # validateLivefyreToken Network Method{#validatelivefyretoken-network-method}
 
 Checks to see if a Livefyre token is still valid for this network. Returns a Boolean.
@@ -85,4 +84,3 @@ Sample output:
 true 
 
 ```
-

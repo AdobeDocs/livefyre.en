@@ -4,9 +4,8 @@ seo-description: Release Notes for the October 19, 2017 release.
 seo-title: October 19, 2017
 title: October 19, 2017
 uuid: 7f5fba9e-bd07-4d85-b67c-7a5577055447
-
+exl-id: 6887e4a9-8451-464f-a27f-bdaa3624196d
 ---
-
 # October 19, 2017{#october}
 
 Release Notes for the October 19, 2017 release.
@@ -27,4 +26,3 @@ Release Notes for the October 19, 2017 release.
 |  Enhancement | App Content | Added the ability to download an audio file from App content. |
 |  Bug | Rights Management | Fixed a bug that didn't show a proper error message when a user tries to save content in Social Search after it was deleted from Twitter or Instagram. |
 |  Enhancement | SAFE | Studio Admins can now add a new SAFE rule in settings called Smart Mod Reject, which enables the Smart Mod feature. |
-

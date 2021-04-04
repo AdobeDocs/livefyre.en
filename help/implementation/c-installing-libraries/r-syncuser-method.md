@@ -5,9 +5,8 @@ seo-title: syncUser Network Method
 solution: Experience Manager
 title: syncUser Network Method
 uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
-
+exl-id: a21ff487-2ab1-4788-b455-84941f03a98f
 ---
-
 # syncUser Network Method{#syncuser-network-method}
 
 Informs Livefyre to pull user information from a previously set user sync URL. Returns a Boolean.

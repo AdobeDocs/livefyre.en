@@ -5,9 +5,8 @@ seo-title: Upload Photos
 solution: Experience Manager
 title: Upload Photos
 uuid: bec7e088-8b19-4839-977d-03fc1cadaeb9
-
+exl-id: 67edd667-2698-4a84-b36e-85416371dca5
 ---
-
 # Upload Photos{#upload-photos}
 
 Photos may be uploaded directly into any App from a user’s mobile photo library, computer hard drive, or social network accounts.

@@ -4,9 +4,8 @@ seo-description: Define the sources from which users may post media, and those f
 seo-title: Manage Embedded Media
 title: Manage Embedded Media
 uuid: d8621be1-dcfb-429f-954e-b21fdcf02715
-
+exl-id: f0cc257b-cc82-47bc-9d42-6aef3e0fe8a7
 ---
-
 # Manage Embedded Media{#manage-embedded-media}
 
 Define the sources from which users may post media, and those from which media posts will be banned.
@@ -24,4 +23,3 @@ Apps that use this feature:
 * [Feature Card](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app) 
 * [Map](/help/using/c-about-apps/c-map-app/c-map-app.md#c_map_app) 
 * [Media Wall](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
-

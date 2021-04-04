@@ -5,9 +5,8 @@ seo-title: Comment Notifier
 solution: Experience Manager
 title: Comment Notifier
 uuid: 36907977-8233-4978-9413-232c7b2fae20
-
+exl-id: ebeb7ddb-a82b-40ab-907a-bfac24eb19e3
 ---
-
 # Comment Notifier{#comment-notifier}
 
 Allows you to enable a small popup on the page to notify users when a comment has been added.
@@ -39,4 +38,3 @@ Hide the notifier widget across your entire network using CSS Customizations.
 Apps that use this feature:
 
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md)
-

@@ -5,9 +5,8 @@ seo-title: Streams
 solution: Experience Manager
 title: Streams
 uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
-
+exl-id: 5abc2e7c-ee5f-4f73-8eb4-8d8a1c8c73a3
 ---
-
 # Streams{#streams}
 
 Pipe selected content to your Livefyre Apps or Studio Library.
@@ -27,4 +26,3 @@ Use the Streams interface to define rules by which Studio will pipe selected con
 >[!NOTE]
 >
 >Content created while your Stream is active will appear in your Apps. Content created before rules are defined and the Stream is active, or after a Stream has been disabled, will not display in your Apps.
-

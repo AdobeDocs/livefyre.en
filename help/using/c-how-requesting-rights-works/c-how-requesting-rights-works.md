@@ -4,9 +4,8 @@ seo-description: Learn how rights requests work. When you bring user-generated c
 seo-title: Requesting Rights
 title: Requesting Rights
 uuid: d3194afa-f3c6-44ed-b03f-9b1ecb50c1d3
-
+exl-id: c709f55b-1773-4de6-82c2-6d3963671095
 ---
-
 # Requesting Rights{#requesting-rights}
 
 Learn how rights requests work. When you bring user-generated content (UGC) into a Livefyre App, the content includes tacit permission for reuse. You must have the author's permission to use content from Twitter or Instagram.
@@ -31,4 +30,3 @@ You can only use this functionality for content you obtained from a search or st
 >[!NOTE]
 >
 >For more information on the different kinds of Instagram accounts and how to use them, see [About Instagram Accounts](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts). For information on how to request rights for Instagram accounts, see [Send Manual Rights Requests](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md#c_send_instagram_manual_rights_request) and [Send Partially-Automated Rights Requests](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md#c_send_an_instagram_rights_request_from_the_library).
-

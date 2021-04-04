@@ -1,12 +1,11 @@
 ---
-
 description: Release Notes for the Livefyre March 21, 2019 release.
 seo-description: Release Notes for the Livefyre March 21, 2019 release.
 seo-title: Release Notes
 solution: Experience Manager
 title: Livefyre Release Notes for March 21, 2019
+exl-id: 965432d1-e706-48a8-ad58-8b3c28fdcf6f
 ---
-
 # Release Notes for the March 21, 2019 update
 
 >[!NOTE]
@@ -20,4 +19,4 @@ title: Livefyre Release Notes for March 21, 2019
 
 ## Bug Fixes
 
-* Fixed an issue where "Undefined" Instagram posts in ModQ can't be removed. 
+* Fixed an issue where "Undefined" Instagram posts in ModQ can't be removed.

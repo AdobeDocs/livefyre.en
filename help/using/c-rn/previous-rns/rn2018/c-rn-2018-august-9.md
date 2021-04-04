@@ -5,9 +5,8 @@ seo-title: August 9, 2018
 solution: Experience Manager
 title: August 9, 2018
 uuid: c59ae5ec-9d26-41c4-9a98-cb95c89ee26a
-
+exl-id: 7b2fb562-33bf-4c34-ab83-5fc34f5d1f4f
 ---
-
 # August 9, 2018{#august}
 
 Release Notes for the August 9, 2018 release.
@@ -52,4 +51,3 @@ The issues in the following tables were resolved in the UAT version release.
 |  Bug | Streams | Fixed an issue with viewing streams on staging environment. |
 |  Enhancement | Streams | Added a Safe For Work (SFW) and Not Safe For Work (NSFW) toggle to Streams. |
 |  Enhancement | Studio | Added smart tag functionality to content uploaded to Livefyre Studio Library via FileStack (upload functionality in All Assets). |
-

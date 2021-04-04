@@ -5,9 +5,8 @@ seo-title: User Auth Token
 solution: Experience Manager
 title: User Auth Token
 uuid: 6483debd-453c-4780-b19c-1d8041693617
-
+exl-id: 564144dd-6db4-447b-80ac-b743ecac833d
 ---
-
 # User Auth Token{#user-auth-token}
 
 This section describes how to generate the UserAuth JSON Object that creates the User Authentication token required to log users into your Apps.
@@ -62,4 +61,3 @@ network.build_user_auth_token(userId, displayName, expires)
 >[!NOTE]
 >
 >Network keys are not shared for Livefyre demosite accounts. You’ll receive a network key once Livefyre has provisioned an environment for you. This key should be kept private.
-

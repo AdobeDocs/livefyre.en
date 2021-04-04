@@ -4,9 +4,8 @@ seo-description: Allow users to customize the image that displays with their con
 seo-title: Avatars
 title: Avatars
 uuid: bf20f3bc-3dcc-4e16-a629-3380d1a7a3f2
-
+exl-id: cff7f6be-3660-4d71-949b-6ac04379d68d
 ---
-
 # Avatars{#avatars}
 
 Allow users to customize the image that displays with their content.
@@ -39,4 +38,3 @@ Apps that use this feature:
 * [Mosaic](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-

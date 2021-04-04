@@ -5,9 +5,8 @@ seo-title: Live Blog
 solution: Experience Manager
 title: Live Blog
 uuid: 40ae3120-c630-440e-b224-49cd99677dc2
-
+exl-id: 9a356e8b-7120-466b-8c78-4e7d6d21d0c4
 ---
-
 # Live Blog{#live-blog}
 
 Live Blog allows your writers and editors to post real-time updates, transforming your site into an engaging live news source. 
@@ -25,4 +24,3 @@ Live Blog is different from Comments in the following ways:
 With another snowstorm coming, Slate wanted to provide readers with instant updates about the wild weather swings on the East Coast. Using a Live Blog, Slate editors were able to instantly share updates about the storm, including their own photos, user tweets, and information about the snowfall. The Live Blog was so useful that it made the front page of Slate’s site. 
 
 ![](assets/LiveBlogSlate_example.png)
-

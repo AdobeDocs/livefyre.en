@@ -4,9 +4,8 @@ seo-description: View tags added automatically to images by Sensei-driven image 
 seo-title: View Smart Tags
 title: View Smart Tags
 uuid: 787c7d86-2c68-4c4c-b687-cf2390bcf233
-
+exl-id: 204394bb-ca61-4727-976d-2a549e307053
 ---
-
 # View Smart Tags{#view-smart-tags}
 
 View tags added automatically to images by Sensei-driven image recognition software.
@@ -23,4 +22,3 @@ To view the smart tags on content:
 1. Click on the **[!UICONTROL Tags]** tab in the lower right panel
 1. See the list of Smart Tags, arranged by category. 
 1. Delete tags that you do not want by clicking on the **[!UICONTROL X]** next to a tag.
-

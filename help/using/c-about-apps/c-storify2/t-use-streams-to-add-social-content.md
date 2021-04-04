@@ -5,9 +5,8 @@ seo-title: Use Streams to Add Social Content to your Story
 solution: Experience Manager
 title: Use Streams to Add Social Content to your Story
 uuid: 4999c880-a896-4ad2-bf8f-3fd9736a64d6
-
+exl-id: 1228ed16-df6f-4af7-9082-5c598f72163d
 ---
-
 # Use Streams to Add Social Content to your Story{#use-streams-to-add-social-content-to-your-story}
 
 Point a stream to a Storify 2 story.

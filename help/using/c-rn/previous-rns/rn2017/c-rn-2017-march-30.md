@@ -4,9 +4,8 @@ seo-description: Release Notes for the March 30, 2017 release.
 seo-title: March 30, 2017
 title: March 30, 2017
 uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
-
+exl-id: 44c73ff9-8bc1-49c9-b720-aff425e5cd28
 ---
-
 # March 30, 2017{#march}
 
 Release Notes for the March 30, 2017 release.
@@ -40,4 +39,3 @@ Release Notes for the March 30, 2017 release.
 |  Enhancement | Streams | Modified the default of newly created stream rules to Apply SAFE Rules when applicable. |
 |  Enhancement | Streams (formerly, Curate Rules) | Removed the "Vines" only option from Twitter Stream/Curate rules, as Vines are now displayed as Twitter videos. |
 |  Bug | Studio Shell | Fixed a bug so that Livefyre Studio will load if https:// was explicitly prepended to the url. |
-

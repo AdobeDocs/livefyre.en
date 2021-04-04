@@ -5,9 +5,8 @@ seo-title: September 27, 2018
 solution: Experience Manager
 title: September 27, 2018
 uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
-
+exl-id: ea63c18e-7535-4e57-a569-efbbee376632
 ---
-
 # September 27, 2018{#september}
 
 Release Notes for the September 27, 2018 release.
@@ -42,4 +41,3 @@ The issues in the following tables were resolved in the UAT version of this rele
 |---|---|---|
 |  Bug  | AEM  | Fixed an issue where tweets imported into AEM Assets via Livefyre had broken links.  |
 |  Enhancement  | Library  | Added the ability to filter videos in the Library by video tags.  |
-

@@ -4,9 +4,8 @@ seo-description: You can create Stream rules that pull content from Instagram.
 seo-title: Instagram Rules
 title: Instagram Rules
 uuid: 98108ddb-5710-4331-891b-7e1bbb106059
-
+exl-id: ac00a12c-94b1-4464-ad3f-991382759d71
 ---
-
 # Instagram Rules{#instagram-rules}
 
 You can create Stream rules that pull content from Instagram.
@@ -51,4 +50,4 @@ To create Instagram rules to pull content from Instagram feeds into your App or 
 
     * Select whether you would like to include **[!UICONTROL All Content]**, **[!UICONTROL Videos Only]**, or **[!UICONTROL Photos Only]** in your stream.
 
-For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules). 
+For additional Stream rule options for all Stream rules, see [Stream Rule Options for All Stream Rules](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

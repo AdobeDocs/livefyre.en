@@ -4,9 +4,8 @@ seo-description: Enable or disable user hovercards across your site.
 seo-title: Hovercards
 title: Hovercards
 uuid: a7336a4d-b92f-4b3b-a3de-713aa388b58a
-
+exl-id: 958fbf18-e045-4a6e-baa0-03213963fca5
 ---
-
 # Hovercards{#hovercards}
 
 Enable or disable user hovercards across your site.
@@ -35,4 +34,3 @@ Apps that use this feature:
 * [Comments](/help/using/c-about-apps/c-comments/c-comments.md)
 * [Reviews](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-

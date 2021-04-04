@@ -5,9 +5,8 @@ seo-title: Feature Content
 solution: Experience Manager
 title: Feature Content
 uuid: c45f594b-69de-4db4-820b-465015d74825
-
+exl-id: 9fc66560-0d7e-4c14-805c-9c2e212f4c16
 ---
-
 # Feature Content{#feature-content}
 
 Use custom styling to highlight featured content.
@@ -34,4 +33,3 @@ Featuring content allows you to call attention to selected user posts. Featured 
     * [Featured (Site)](#c_aggregated_featured_content_using_the_featured_apis/section_lq5_ymw_xz) 
     * [Featured (Collection)](#c_aggregated_featured_content_using_the_featured_apis/section_kgc_xmw_xz) 
     * [Featured (Head)](#c_aggregated_featured_content_using_the_featured_apis/section_n4b_lmw_xz)
-

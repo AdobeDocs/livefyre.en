@@ -4,9 +4,8 @@ seo-description: Moderate content from a single, intelligent interface.
 seo-title: Moderate Content Using ModQ
 title: Moderate Content Using ModQ
 uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
-
+exl-id: 694b1f45-2b24-4e80-99a1-788e2cecc8a4
 ---
-
 # Moderate Content Using ModQ{#moderate-content-using-modq}
 
 Moderate content from a single, intelligent interface.
@@ -165,4 +164,3 @@ Apps that use ModQ:
 * [Sidenotes](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [Upload Button](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-

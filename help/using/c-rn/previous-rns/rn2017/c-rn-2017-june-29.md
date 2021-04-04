@@ -4,9 +4,8 @@ seo-description: Release Notes for the June 29, 2017 release.
 seo-title: June 29, 2017
 title: June 29, 2017
 uuid: f7d901fc-fe5a-463c-92ac-b77cda3bff1b
-
+exl-id: 507b781a-d284-4fcc-87f2-ce28bf717355
 ---
-
 # June 29, 2017{#june}
 
 Release Notes for the June 29, 2017 release.
@@ -33,5 +32,3 @@ Release Notes for the June 29, 2017 release.
 |Enhancement|Mosaic|Updated the look and feel to the Details modal on Mosaic cards.|
 |Enhancement|Social Search|Added text clarifying why rights requests cannot be requested in a social search when multiple assets are selected, the social provider is not supported for rights requests, or there are no enabled rights request accounts for a social provider on the network.|
 |Bug|Studio|Fixed a bug that caused newly created Browser Bans to not be applied by new User Managers and Administrators.|
-
-

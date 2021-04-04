@@ -4,9 +4,8 @@ seo-description: The Livefyre.js Auth package ensures that all social components
 seo-title: Initialize Livefyre Identity
 title: Initialize Livefyre Identity
 uuid: 9365d827-2734-4a84-bfe7-9be573b2b03e
-
+exl-id: 9990d284-a21e-49fb-932c-62906b41484a
 ---
-
 # Initialize Livefyre Identity{#initialize-livefyre-identity}
 
 The Livefyre.js Auth package ensures that all social components on your page can discover a single authentication integration.

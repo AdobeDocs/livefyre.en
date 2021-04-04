@@ -4,9 +4,8 @@ seo-description: A list of browsers and devices supported by the Livefyre App su
 seo-title: Device and Browser Support
 title: Device and Browser Support
 uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
-
+exl-id: 75e424a2-9ef5-4a49-8d0d-7c4bcb865f7b
 ---
-
 # Device and Browser Support{#device-and-browser-support}
 
 A list of browsers and devices supported by the Livefyre App suite.
@@ -35,4 +34,3 @@ Livefyre supports the following devices, operating systems and browsers.
 >[!NOTE]
 >
 >Due to the end of support from Microsoft, Livefyre is not supported on Internet Explorer versions before Internet Explorer 11.
-

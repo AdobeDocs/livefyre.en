@@ -5,9 +5,8 @@ seo-title: March 8, 2018
 solution: Experience Manager
 title: March 8, 2018
 uuid: 4ed67147-0837-4d5e-8e99-532a4278bcce
-
+exl-id: 46d4a425-17e0-48a2-a596-5cc7163f9edd
 ---
-
 # March 8, 2018{#march}
 
 Release Notes for the March 8, 2018 release.
@@ -37,4 +36,3 @@ The issues in the following tables were resolved in this release.
 |Bug|Media Wall|Fixed an issue in Media Wall where tags were not clickable when an Instagram post was added from a stream rule.|
 |Enhancement|Media Wall|Improved Media Wall accessibility in the following ways: <br><ul><li>Opening and closing modals via keyboard commands will no longer shift focus back to the top of the page. Focus instead remains on the element last focused before modal popup.</li><li>Load More button can be tabbed to and triggered using the keyboard Enter key.</li></ul>|
 |Bug|Rights Management|Fixed an error where you couldn't see the rights request modal after rights for an Instagram asset were granted.|
-
