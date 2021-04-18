@@ -1,10 +1,6 @@
 ---
 description: Chat offers several features to encourage a rapid and engaging dialog.
-seo-description: Chat offers several features to encourage a rapid and engaging dialog.
-seo-title: Chat Features
-solution: Experience Manager
 title: Chat Features
-uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
 exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 ---
 # Chat Features{#chat-features}

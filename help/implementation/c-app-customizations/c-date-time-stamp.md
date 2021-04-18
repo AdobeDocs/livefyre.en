@@ -1,10 +1,6 @@
 ---
 description: Customize date and time stamps using Livefyre.js.
-seo-description: Customize date and time stamps using Livefyre.js.
-seo-title: Customize the Date and Time Stamp
-solution: Experience Manager
 title: Customize the Date and Time Stamp
-uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 exl-id: 77130793-00ba-4a5c-8318-4221d971da6c
 ---
 # Customize the Date and Time Stamp{#customize-the-date-and-time-stamp}

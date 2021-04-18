@@ -1,10 +1,6 @@
 ---
 description: Use available CSS classes to customize your Apps’ display.
-seo-description: Use available CSS classes to customize your Apps’ display.
-seo-title: CSS Classes
-solution: Experience Manager
 title: CSS Classes
-uuid: 8714e7e5-3858-458f-a464-de87fd2f0ff0
 exl-id: 605f2c47-13f7-4535-90b1-c53cbf548534
 ---
 # CSS Classes{#css-classes}

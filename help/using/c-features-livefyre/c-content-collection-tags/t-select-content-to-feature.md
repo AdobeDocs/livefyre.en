@@ -1,10 +1,6 @@
 ---
 description: Feature or unfeature content directly from an App.
-seo-description: Feature or unfeature content directly from an App.
-seo-title: Select Content to Feature from an App
-solution: Experience Manager
 title: Select Content to Feature from an App
-uuid: 48d2f7b2-c3bf-4a9a-b368-a195fabadb50
 exl-id: cbdf357e-6a50-4e66-bc6b-6c3ea70382c7
 ---
 # Select Content to Feature from an App{#select-content-to-feature-from-an-app}

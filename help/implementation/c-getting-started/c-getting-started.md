@@ -1,10 +1,6 @@
 ---
 description: Learn how to get started by building a fully working Livefyre App. Build off that App to handle basic authentication, social sharing, and event tracking.
-seo-description: Learn how to get started by building a fully working Livefyre App. Build off that App to handle basic authentication, social sharing, and event tracking.
-seo-title: Getting Started with Livefyre Integration
-solution: Experience Manager
 title: Getting Started with Livefyre Integration
-uuid: babf5f9e-a139-45b1-8ae9-bd725820bc93
 exl-id: 398ca85f-2b68-41ba-9d1a-09a9917859cf
 ---
 # Start Here {#getting-started-with-livefyre-integration}

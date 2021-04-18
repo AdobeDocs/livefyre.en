@@ -1,10 +1,6 @@
 ---
 description: You can ban users inline from your Livefyre Apps, and users logged in through Livefyre may be banned from Studio’s Library > App Content page.
-seo-description: You can ban users inline from your Livefyre Apps, and users logged in through Livefyre may be banned from Studio’s Library > App Content page.
-seo-title: Ban a User
-solution: Experience Manager
 title: Ban a User
-uuid: ce528a9a-7137-4c2b-a445-194feae61879
 exl-id: b9e045d8-0fb4-4ce5-ba0a-e22de5e22c6c
 ---
 # Ban a User{#ban-a-user}

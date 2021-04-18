@@ -1,10 +1,6 @@
 ---
 description: Customers using Janrain Capture and Backplane may use Livefyre Auth for Single Sign On (SSO), allowing users to immediately engage with your Livefyre Apps when they log into your site.
-seo-description: Customers using Janrain Capture and Backplane may use Livefyre Auth for Single Sign On (SSO), allowing users to immediately engage with your Livefyre Apps when they log into your site.
-seo-title: Janrain Capture/Backplane
-solution: Experience Manager
 title: Janrain Capture/Backplane
-uuid: 776e9626-db04-4c34-adfe-681a71b552c5
 exl-id: c7e6cfef-7570-4f9c-9d2c-79f890ee5c49
 ---
 # Janrain Capture/Backplane{#janrain-capture-backplane}

@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the March 23, 2018 release.
-seo-description: Release Notes for the March 23, 2018 release.
-seo-title: March 23, 2018
-solution: Experience Manager
 title: March 23, 2018
-uuid: b69b8715-ace4-48e0-8f54-ce4e12170ef3
 exl-id: 85fd6f79-7fa8-425e-b4c7-2e1635d6ef17
 ---
 # March 23, 2018{#march}

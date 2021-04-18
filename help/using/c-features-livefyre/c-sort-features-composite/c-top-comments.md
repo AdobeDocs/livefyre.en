@@ -1,9 +1,6 @@
 ---
 description: l
-seo-description: l
-seo-title: Top Comments
 title: Top Comments
-uuid: 23c4a766-b3e8-4fab-a7f9-78cdb601652a
 exl-id: 97c58998-09f9-4f3d-8c80-f0a5c8401b2f
 ---
 # Top Comments{#top-comments}

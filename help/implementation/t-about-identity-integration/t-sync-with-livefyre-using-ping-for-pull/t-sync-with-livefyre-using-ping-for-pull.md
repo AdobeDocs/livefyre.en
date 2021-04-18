@@ -1,10 +1,6 @@
 ---
 description: Use Ping for Pull to keep Livefyre in sync with your user management system.
-seo-description: Use Ping for Pull to keep Livefyre in sync with your user management system.
-seo-title: Sync with Livefyre Using Ping for Pull
-solution: Experience Manager
 title: Sync with Livefyre Using Ping for Pull
-uuid: 7b059064-1cca-46d7-8055-dfe59f493ac1
 exl-id: 01b5851d-9dc0-44dc-9c0d-0c467502450d
 ---
 # Sync with Livefyre Using Ping for Pull{#sync-with-livefyre-using-ping-for-pull}

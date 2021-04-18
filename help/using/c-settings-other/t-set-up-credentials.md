@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Set up Credentials
-solution: Experience Manager
 title: Set up Credentials
-uuid: 688af27e-97ba-4bff-8edd-6be82f48e6c7
+description: Set up Credentials
 exl-id: cfbb40b6-e13b-4869-87f9-a1f2f6ddd5d3
 ---
 # Set up Credentials{#set-up-credentials}

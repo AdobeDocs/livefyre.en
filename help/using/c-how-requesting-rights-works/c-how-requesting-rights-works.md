@@ -1,9 +1,6 @@
 ---
 description: Learn how rights requests work. When you bring user-generated content (UGC) into a Livefyre App, the content includes tacit permission for reuse. You must have the author's permission to use content from Twitter or Instagram.
-seo-description: Learn how rights requests work. When you bring user-generated content (UGC) into a Livefyre App, the content includes tacit permission for reuse. You must have the author's permission to use content from Twitter or Instagram.
-seo-title: Requesting Rights
 title: Requesting Rights
-uuid: d3194afa-f3c6-44ed-b03f-9b1ecb50c1d3
 exl-id: c709f55b-1773-4de6-82c2-6d3963671095
 ---
 # Requesting Rights{#requesting-rights}

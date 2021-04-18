@@ -1,8 +1,6 @@
 ---
-seo-title: Livefyre User Guide
-solution: Experience Manager
 title: Livefyre User Guide
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Livefyre User Guide
 exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
 ---
 # Livefyre User Guide {#livefyre-help}

@@ -1,7 +1,5 @@
 ---
 description: Latest release notes for Adobe Livefyre.
-seo-description: Latest release notes for Adobe Livefyre.
-seo-title: Latest Release Notes for Adobe Livefyre
 title: Latest Release Notes for Livefyre
 exl-id: 4ee61509-8e9e-4697-bcd9-a566ea6873aa
 ---

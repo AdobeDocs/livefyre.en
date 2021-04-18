@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the June 1, 2017 release.
-seo-description: Release Notes for the June 1, 2017 release.
-seo-title: June 1, 2017
 title: June 1, 2017
-uuid: 70c39b30-896d-437a-9852-80eb47c08892
 exl-id: 82e02d9f-97d7-4f80-8382-9ccf7ac3dcf5
 ---
 # June 1, 2017{#june}

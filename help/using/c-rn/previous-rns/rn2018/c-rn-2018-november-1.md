@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the November 1, 2018 release.
-seo-description: Release Notes for the November 1, 2018 release.
-seo-title: November 1, 2018
-solution: Experience Manager
 title: November 1, 2018
-uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
 exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 ---
 # November 1, 2018{#november}

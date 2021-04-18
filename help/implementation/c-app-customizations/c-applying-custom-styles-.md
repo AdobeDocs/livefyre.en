@@ -1,10 +1,6 @@
 ---
 description: To custom style content for User Groups, you must first add a User Tag to the account, then style the content using CSS.
-seo-description: To custom style content for User Groups, you must first add a User Tag to the account, then style the content using CSS.
-seo-title: Applying Custom Styles
-solution: Experience Manager
 title: Applying Custom Styles
-uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
 exl-id: 54692525-32ce-487a-b3c3-da1261b58da1
 ---
 # Applying Custom Styles{#applying-custom-styles}

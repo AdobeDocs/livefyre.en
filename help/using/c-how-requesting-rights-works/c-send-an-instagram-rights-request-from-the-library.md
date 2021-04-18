@@ -1,10 +1,6 @@
 ---
 description: You can request the right to reuse an Instagram asset you obtained from a search or stream by author (business account) using a partially-automated workflow.
-seo-description: You can request the right to reuse an Instagram asset you obtained from a search or stream by author (business account) using a partially-automated workflow.
-seo-title: Send a Partially-Automated Instagram Rights Request
-solution: Experience Manager
 title: Send a Partially-Automated Instagram Rights Request
-uuid: 18cf88ab-af0d-4a40-93d2-adfbdbdd21d5
 exl-id: 2747784e-689a-4683-867d-0883b281d47b
 ---
 # Send a Partially-Automated Instagram Rights Request{#send-a-partially-automated-instagram-rights-request}

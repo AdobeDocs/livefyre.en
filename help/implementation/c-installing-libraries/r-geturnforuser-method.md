@@ -1,10 +1,6 @@
 ---
 description: This method returns the URN for this network’s user.
-seo-description: This method returns the URN for this network’s user.
-seo-title: getUrnForUser Network Method
-solution: Experience Manager
 title: getUrnForUser Network Method
-uuid: b70b8b0f-2b3a-4a1d-90d0-93a97a137ad4
 exl-id: 272e724e-d09d-4d7d-9967-a229707ff47f
 ---
 # getUrnForUser Network Method{#geturnforuser-network-method}

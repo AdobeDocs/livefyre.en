@@ -1,10 +1,6 @@
 ---
 description: Upload images to a Live Blog, Chat, Reviews, or Comments stream.
-seo-description: Upload images to a Live Blog, Chat, Reviews, or Comments stream.
-seo-title: Photo Upload
-solution: Experience Manager
 title: Photo Upload
-uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
 exl-id: 97606f5b-75d4-439e-ad96-09e35b8d1f30
 ---
 # Photo Upload{#photo-upload}

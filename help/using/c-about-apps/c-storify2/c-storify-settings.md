@@ -1,10 +1,6 @@
 ---
 description: Adjust settings for Storify 2 stories, such as tags, moderation, and allowed content.
-seo-description: Adjust settings for Storify 2 stories, such as tags, moderation, and allowed content.
-seo-title: Storify Settings
-solution: Experience Manager
 title: Storify Settings
-uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
 exl-id: 11eed2ef-5e6d-4a7c-b6bb-b195b89fc79d
 ---
 # Storify Settings{#storify-settings}

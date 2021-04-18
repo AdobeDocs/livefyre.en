@@ -1,10 +1,6 @@
 ---
 description: Link your Studio account to your Livefyre account to moderate or manage all of your Livefyre sites or networks from a single location.
-seo-description: Link your Studio account to your Livefyre account to moderate or manage all of your Livefyre sites or networks from a single location.
-seo-title: Link User Accounts
-solution: Experience Manager
 title: Link User Accounts
-uuid: f1106367-64f9-4304-aa04-f931f79ffd6d
 exl-id: 68f47cb1-fc14-4f7c-a8ff-ac407ca3ffe1
 ---
 # Link User Accounts{#link-user-accounts}

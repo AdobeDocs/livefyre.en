@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Media Wall app.
-seo-description: Change the size, width, and interaction options of the Media Wall app.
-seo-title: Media Wall Customizations
-solution: Experience Manager
 title: Media Wall Customizations
-uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
 exl-id: bc34d8da-9e14-4226-b38d-128889bc31cc
 ---
 # Media Wall Customizations{#media-wall-customizations}

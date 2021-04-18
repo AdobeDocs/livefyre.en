@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Localize a Carousel
-solution: Experience Manager
 title: Localize a Carousel
-uuid: 168b061d-dc60-4a4a-b6f7-154a3f81dc00
+description: Localize a Carousel
 exl-id: 9ebe390c-be72-4381-b7b9-8c8fb5afe1c9
 ---
 # Localize a Carousel{#localize-a-carousel}

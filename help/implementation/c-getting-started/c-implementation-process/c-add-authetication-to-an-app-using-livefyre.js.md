@@ -1,10 +1,6 @@
 ---
 description: Use Livefyre.js to add page-wide authentication for your Livefyre Apps.
-seo-description: Use Livefyre.js to add page-wide authentication for your Livefyre Apps.
-seo-title: Add Authetication to an App using Livefyre.js
-solution: Experience Manager
 title: Add Authetication to an App using Livefyre.js
-uuid: b7c61e07-e341-45d7-9112-c50155e38f1d
 exl-id: 6246a2bc-e7ff-4f86-a63a-36261c71d460
 ---
 # Add Authentication to an App using Livefyre.js{#add-authetication-to-an-app-using-livefyre-js}

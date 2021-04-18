@@ -1,10 +1,6 @@
 ---
 description: Click on any user to view details about the account.
-seo-description: Click on any user to view details about the account.
-seo-title: Viewing Account Details
-solution: Experience Manager
 title: Viewing Account Details
-uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 exl-id: f60aed5c-c737-48ed-afb8-73a991f21a90
 ---
 # Viewing Account Details{#viewing-account-details}

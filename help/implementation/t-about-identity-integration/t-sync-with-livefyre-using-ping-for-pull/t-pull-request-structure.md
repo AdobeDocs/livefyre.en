@@ -1,10 +1,6 @@
 ---
 description: Build the pull request structure to receive and respond to requests for access to your user identity system.
-seo-description: Build the pull request structure to receive and respond to requests for access to your user identity system.
-seo-title: Pull Request Structure
-solution: Experience Manager
 title: Pull Request Structure
-uuid: bf6b9e45-d08a-48e6-acc6-e4fa56428d25
 exl-id: 70203b23-9d7c-4a22-94ba-2a763e200972
 ---
 # Pull Request Structure{#pull-request-structure}

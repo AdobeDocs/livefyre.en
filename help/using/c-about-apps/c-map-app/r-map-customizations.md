@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Map app.
-seo-description: Change the size, width, and interaction options of the Map app.
-seo-title: Map Customizations
-solution: Experience Manager
 title: Map Customizations
-uuid: 3a3bffde-5d1b-41da-9aa8-d25b43d0df76
 exl-id: 71d3bb65-cd10-48c6-bf6b-8442b0fdb891
 ---
 # Map Customizations{#map-customizations}

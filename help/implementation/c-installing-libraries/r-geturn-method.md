@@ -1,10 +1,6 @@
 ---
 description: This method returns the URN for this network.
-seo-description: This method returns the URN for this network.
-seo-title: getUrn Network Method
-solution: Experience Manager
 title: getUrn Network Method
-uuid: e525bc54-d4df-490f-bd6a-f524f7eff211
 exl-id: 2bab5b2a-cf5b-46bb-8163-8ea65ec44bd7
 ---
 # getUrn Network Method{#geturn-network-method}

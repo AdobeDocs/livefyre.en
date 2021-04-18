@@ -1,9 +1,6 @@
 ---
 description: Create a privacy request in Livefyre.
-seo-description: Create a privacy request in Livefyre.
-seo-title: Create a Privacy Request
 title: Create a Privacy Request
-uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
 exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 ---
 # Create a Privacy Request{#create-a-privacy-request}

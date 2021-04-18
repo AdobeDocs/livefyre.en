@@ -1,9 +1,6 @@
 ---
 description: View tags added automatically to images by Sensei-driven image recognition software.
-seo-description: View tags added automatically to images by Sensei-driven image recognition software.
-seo-title: View Smart Tags
 title: View Smart Tags
-uuid: 787c7d86-2c68-4c4c-b687-cf2390bcf233
 exl-id: 204394bb-ca61-4727-976d-2a549e307053
 ---
 # View Smart Tags{#view-smart-tags}

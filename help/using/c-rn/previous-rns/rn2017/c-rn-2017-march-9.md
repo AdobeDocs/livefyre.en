@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the March 9, 2017 release.
-seo-description: Release Notes for the March 9, 2017 release.
-seo-title: March 9, 2017
 title: March 9, 2017
-uuid: 14c770e7-ff6f-4c56-9c88-677e2bfb7362
 exl-id: 07723cc6-a912-4231-a745-3ea79c6d1788
 ---
 # March 9, 2017{#march}

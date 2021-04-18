@@ -1,8 +1,5 @@
 ---
 description: Release Notes for the Livefyre March 21, 2019 release.
-seo-description: Release Notes for the Livefyre March 21, 2019 release.
-seo-title: Release Notes
-solution: Experience Manager
 title: Livefyre Release Notes for March 21, 2019
 exl-id: 965432d1-e706-48a8-ad58-8b3c28fdcf6f
 ---

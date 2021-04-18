@@ -1,10 +1,6 @@
 ---
 description: Learn the features in a Filmstrip App.
-seo-description: Learn the features in a Filmstrip App.
-seo-title: Filmstrip Features
-solution: Experience Manager
 title: Filmstrip Features
-uuid: 0d7d59dc-0465-44d3-8348-b59e51312aab
 exl-id: ba327da8-9a7c-4819-abdf-b66412999da0
 ---
 # Filmstrip Features{#filmstrip-features}

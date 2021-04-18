@@ -1,9 +1,6 @@
 ---
 description: Release Notes for January 12, 2017 release.
-seo-description: Release Notes for January 12, 2017 release.
-seo-title: January 12, 2017
 title: January 12, 2017
-uuid: fb92ea52-7184-4f08-814c-15e45d684371
 exl-id: a1578c9d-5ec0-4694-96b0-4952a02d8c58
 ---
 # January 12, 2017{#january}

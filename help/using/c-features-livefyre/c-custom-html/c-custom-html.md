@@ -1,10 +1,6 @@
 ---
 description: Allow moderators, owners, and bloggers to add custom HTML attachments to content published through Comments or Live Blog.
-seo-description: Allow moderators, owners, and bloggers to add custom HTML attachments to content published through Comments or Live Blog.
-seo-title: Custom HTML
-solution: Experience Manager
 title: Custom HTML
-uuid: 1d0041bc-f45f-4f36-a377-e3bcff3f2eb4
 exl-id: 193317dc-4650-43a9-aeba-cad9ecfaf755
 ---
 # Custom HTML{#custom-html}

@@ -1,10 +1,6 @@
 ---
 description: Studio Managers and Administrators can invite new or existing users to create a Studio account.
-seo-description: Studio Managers and Administrators can invite new or existing users to create a Studio account.
-seo-title: Invite a User to Create a Studio Account
-solution: Experience Manager
 title: Invite a User to Create a Studio Account
-uuid: 2cfa4639-1624-4a28-a06d-b6b0180bf3b0
 exl-id: 5b4f5bb9-6bd0-413a-9cf9-9604bc2fb8af
 ---
 # Invite a User to Create a Studio Account{#invite-a-user-to-create-a-studio-account}

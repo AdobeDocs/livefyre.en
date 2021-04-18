@@ -1,9 +1,6 @@
 ---
 description: Define the sources from which users may post media, and those from which media posts will be banned.
-seo-description: Define the sources from which users may post media, and those from which media posts will be banned.
-seo-title: Manage Embedded Media
 title: Manage Embedded Media
-uuid: d8621be1-dcfb-429f-954e-b21fdcf02715
 exl-id: f0cc257b-cc82-47bc-9d42-6aef3e0fe8a7
 ---
 # Manage Embedded Media{#manage-embedded-media}

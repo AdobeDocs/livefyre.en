@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Map app.
-seo-description: Change the size, width, and interaction options of the Map app.
-seo-title: Trending Customizations
-solution: Experience Manager
 title: Trending Customizations
-uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
 exl-id: 224fc481-0c71-4d56-b73b-adf53451e968
 ---
 # Trending Customizations{#trending-customizations}

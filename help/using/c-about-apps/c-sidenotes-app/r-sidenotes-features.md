@@ -1,10 +1,6 @@
 ---
 description: The Sidenotes App offers these features for your site.
-seo-description: The Sidenotes App offers these features for your site.
-seo-title: Sidenotes Features
-solution: Experience Manager
 title: Sidenotes Features
-uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
 exl-id: 94830b1a-0faa-43f4-aec4-17c44adf0d0f
 ---
 # Sidenotes Features{#sidenotes-features}

@@ -1,10 +1,6 @@
 ---
 description: Allow users to select their notification frequency and content.
-seo-description: Allow users to select their notification frequency and content.
-seo-title: Email Notifications
-solution: Experience Manager
 title: Email Notifications
-uuid: 27dad133-bd8d-4949-8146-1254c160d3af
 exl-id: 46821382-ac93-4523-a0ac-84535e76d367
 ---
 # Email Notifications{#email-notifications}

@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Use Livefyre with Other Analytics Tool
-solution: Experience Manager
 title: Use Livefyre with Other Analytics Tool
-uuid: 26c835f6-aced-41f7-aabe-418afce8a829
+description: Use Livefyre with Other Analytics Tool
 exl-id: da29e281-5095-4e99-a248-19390f2059a2
 ---
 # Use Livefyre with Other Analytics Tool{#use-livefyre-with-other-analytics-tool}

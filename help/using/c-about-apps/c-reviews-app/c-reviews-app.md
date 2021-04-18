@@ -1,10 +1,6 @@
 ---
 description: Rate and review any piece of content on your website, in real-time.
-seo-description: Rate and review any piece of content on your website, in real-time.
-seo-title: Reviews
-solution: Experience Manager
 title: Reviews
-uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
 exl-id: e065319b-5ee6-40c4-8d04-56a06e0c92fa
 ---
 # Reviews{#reviews}

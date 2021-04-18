@@ -1,10 +1,6 @@
 ---
 description: Livefyre Identity and Apps contain accessibility features to allow all site visitors to interact with content, including those who may use screen readers and other assistive devices.
-seo-description: Livefyre Identity and Apps contain accessibility features to allow all site visitors to interact with content, including those who may use screen readers and other assistive devices.
-seo-title: Accessibility Features
-solution: Experience Manager
 title: Accessibility Features
-uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
 exl-id: c1f10835-06a8-459b-8d58-63ad61a3e0b7
 ---
 # Accessibility Features{#accessibility-features}

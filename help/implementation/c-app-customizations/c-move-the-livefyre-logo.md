@@ -1,10 +1,6 @@
 ---
 description: Reposition the Livefyre logo on your page.
-seo-description: Reposition the Livefyre logo on your page.
-seo-title: Move the Livefyre Logo
-solution: Experience Manager
 title: Move the Livefyre Logo
-uuid: 807304ae-6070-4505-87db-169a925f714c
 exl-id: dc6c26cf-e0b9-4af3-8a3c-e58ea4ecbc44
 ---
 # Move the Livefyre Logo{#move-the-livefyre-logo}

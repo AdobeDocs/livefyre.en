@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the November 16, 2017 release.
-seo-description: Release Notes for the November 16, 2017 release.
-seo-title: November 16, 2017
-solution: Experience Manager
 title: November 16, 2017
-uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
 exl-id: 167b8c7d-f2fb-4735-9681-d349646ec3eb
 ---
 # November 16, 2017{#november}

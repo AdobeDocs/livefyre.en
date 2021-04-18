@@ -1,10 +1,6 @@
 ---
 description: Remove standard Livefyre App components from your App.
-seo-description: Remove standard Livefyre App components from your App.
-seo-title: Hide App Elements
-solution: Experience Manager
 title: Hide App Elements
-uuid: ea090b6e-99f5-4bd7-aa9e-d39a4dff1543
 exl-id: f8bbed2c-d009-41b8-927d-8d6ac4a63571
 ---
 # Hide App Elements{#hide-app-elements}

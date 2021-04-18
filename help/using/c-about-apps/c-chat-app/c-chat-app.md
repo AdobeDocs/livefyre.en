@@ -1,10 +1,6 @@
 ---
 description: Enable real-time chat on your sites.
-seo-description: Enable real-time chat on your sites.
-seo-title: Chat
-solution: Experience Manager
 title: Chat
-uuid: 1da65e9a-736c-46d3-87e1-371b77f94661
 exl-id: 0ddd0b43-2bfc-49ec-a7cd-95855e559764
 ---
 # Chat{#chat}

@@ -1,10 +1,6 @@
 ---
 description: You can choose whether and how your site visitors to log in to your apps.
-seo-description: You can choose whether and how your site visitors to log in to your apps.
-seo-title: Authentication Features
-solution: Experience Manager
 title: Authentication Features
-uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
 exl-id: 4d0691e2-1327-4008-bf12-82cc91ed0612
 ---
 # Authentication Features{#authentication-features}

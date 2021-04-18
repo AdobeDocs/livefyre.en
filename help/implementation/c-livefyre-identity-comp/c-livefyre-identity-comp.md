@@ -1,10 +1,6 @@
 ---
 description: Working with Livefyre’s social user management system.
-seo-description: Working with Livefyre’s social user management system.
-seo-title: Livefyre Identity
-solution: Experience Manager
 title: Livefyre Identity
-uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
 exl-id: 1e6149b6-dcdb-4e2a-a19d-06b24fe1288a
 ---
 # Use Livefyre Identity{#livefyre-identity}

@@ -1,9 +1,6 @@
 ---
 description: Use Social Search to search for YouTube content to include in your Asset Library or publish to Apps.
-seo-description: Use Social Search to search for YouTube content to include in your Asset Library or publish to Apps.
-seo-title: Search for YouTube Content
 title: Search for YouTube Content
-uuid: a99c2c0d-4647-4432-8f67-8c2fc29fe245
 exl-id: a2e80157-ee75-4e5a-9be6-2e2347e71228
 ---
 # Search for YouTube Content{#search-for-youtube-content}

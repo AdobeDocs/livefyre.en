@@ -1,10 +1,6 @@
 ---
 description: Search for assets by different options and filters to find the right content for an App.
-seo-description: Search for assets by different options and filters to find the right content for an App.
-seo-title: Search Saved Assets in the Library
-solution: Experience Manager
 title: Search Saved Assets in the Library
-uuid: 2fee5ba4-fe69-487e-8d9c-0fd2af97179c
 exl-id: c33583e1-05c4-413b-b5ae-473817c07815
 ---
 # Search Saved Assets in the Library{#search-saved-assets-in-the-library}

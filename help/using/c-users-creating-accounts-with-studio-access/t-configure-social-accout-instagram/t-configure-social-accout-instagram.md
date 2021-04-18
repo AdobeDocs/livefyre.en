@@ -1,10 +1,6 @@
 ---
 description: Configure a social account to request rights or search for UGC in streams or social searches.
-seo-description: Configure a social account to request rights or search for UGC in streams or social searches.
-seo-title: Add a Social Account
-solution: Experience Manager
 title: Add a Social Account
-uuid: c53cbc77-7394-499c-80ee-7fe22cbafec9
 exl-id: 1f410ee5-2bd1-492c-ae5d-6c2dc8a1e97e
 ---
 # Add a Social Account{#add-a-social-account}

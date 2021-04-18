@@ -1,10 +1,6 @@
 ---
 description: Listener count is a counter that tracks the number of site visitors for an App on a page and displays this number.
-seo-description: Listener count is a counter that tracks the number of site visitors for an App on a page and displays this number.
-seo-title: Listener Count
-solution: Experience Manager
 title: Listener Count
-uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
 exl-id: a07e83c2-7465-42ec-9d24-821aac5ab74b
 ---
 # Listener Count{#listener-count}

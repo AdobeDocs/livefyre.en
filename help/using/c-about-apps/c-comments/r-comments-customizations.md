@@ -1,10 +1,6 @@
 ---
 description: Customize comments to embed real-time conversations on your site.
-seo-description: Customize comments to embed real-time conversations on your site.
-seo-title: Comments Customizations
-solution: Experience Manager
 title: Comments Customizations
-uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
 exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 ---
 # Comments Customizations{#comments-customizations}

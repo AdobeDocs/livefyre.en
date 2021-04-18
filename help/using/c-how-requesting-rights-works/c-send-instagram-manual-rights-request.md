@@ -1,9 +1,6 @@
 ---
 description: You can request the right to reuse an Instagram asset you obtained from a hashtag, URL, or location-based Instagram search or stream using a manual workflow.
-seo-description: You can request the right to reuse an Instagram asset you obtained from a hashtag, URL, or location-based Instagram search or stream using a manual workflow.
-seo-title: Send Instagram Rights Request Manually
 title: Send Instagram Rights Request Manually
-uuid: c07b3f6f-c14c-4e62-b18b-25934ebe45bf
 exl-id: 60643c07-b782-41bf-95f3-93bf7f23c6d3
 ---
 # Send Instagram Rights Request Manually{#send-instagram-rights-request-manually}

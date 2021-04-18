@@ -1,8 +1,6 @@
 ---
-seo-title: Livefyre Help
-solution: Experience Manager
 title: Livefyre Implementation Help
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Livefyre Implementation Help
 exl-id: 510826ea-3313-4388-ad82-63fe07d018bf
 ---
 # Livefyre Implementation Guide {#livefyre-help}

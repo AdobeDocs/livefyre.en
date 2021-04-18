@@ -1,10 +1,6 @@
 ---
 description: You can select content to feature from Studio instead of an App.
-seo-description: You can select content to feature from Studio instead of an App.
-seo-title: Select Content to Feature From Studio
-solution: Experience Manager
 title: Select Content to Feature From Studio
-uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
 exl-id: b17e3c4f-6ec6-4c9b-9db0-5169cdb0ffaa
 ---
 # Select Content to Feature From Studio{#select-content-to-feature-from-studio}

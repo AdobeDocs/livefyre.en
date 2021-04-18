@@ -1,9 +1,6 @@
 ---
 description: Follow the steps in the checklist to ensure you will successfully convert from HTTP to HTTPS.
-seo-description: Follow the steps in the checklist to ensure you will successfully convert from HTTP to HTTPS.
-seo-title: SSL Checklist
 title: SSL Checklist
-uuid: 2b176c73-8a6a-4835-88b3-047c6661cba9
 exl-id: 20161aa5-57c9-417b-af0e-c9e1e771f861
 ---
 # SSL Checklist{#ssl-checklist}

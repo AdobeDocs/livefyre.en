@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the March 30, 2017 release.
-seo-description: Release Notes for the March 30, 2017 release.
-seo-title: March 30, 2017
 title: March 30, 2017
-uuid: 2adf04a9-6c52-4fa1-a0c9-b2d3886305e9
 exl-id: 44c73ff9-8bc1-49c9-b720-aff425e5cd28
 ---
 # March 30, 2017{#march}

@@ -1,10 +1,6 @@
 ---
 description: Use Map to generate interactive maps of content streaming into the App.
-seo-description: Use Map to generate interactive maps of content streaming into the App.
-seo-title: Map
-solution: Experience Manager
 title: Map
-uuid: e6021a8a-055d-4c60-817c-ca3236c48159
 exl-id: f5f45a39-0181-406a-ac5c-1f4377dafcf9
 ---
 # Map{#map}

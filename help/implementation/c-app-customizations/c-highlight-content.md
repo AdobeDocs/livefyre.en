@@ -1,10 +1,6 @@
 ---
 description: Use styling to feature and promote selected content or user groups.
-seo-description: Use styling to feature and promote selected content or user groups.
-seo-title: Highlight Content
-solution: Experience Manager
 title: Highlight Content
-uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
 exl-id: 2c287965-bce9-4d50-849a-f3ad9af39f87
 ---
 # Highlight Content{#highlight-content}

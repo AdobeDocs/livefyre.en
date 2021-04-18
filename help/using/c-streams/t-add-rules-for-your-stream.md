@@ -1,10 +1,6 @@
 ---
 description: Add rules in Streams to allow content to automatically populate an App or Folder based on these rules.
-seo-description: Add rules in Streams to allow content to automatically populate an App or Folder based on these rules.
-seo-title: Add Rules for your Stream
-solution: Experience Manager
 title: Add Rules for your Stream
-uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
 exl-id: e3fe5785-ddb3-4a6c-ac58-0ec988dda8bf
 ---
 # Add Rules for your Stream{#add-rules-for-your-stream}

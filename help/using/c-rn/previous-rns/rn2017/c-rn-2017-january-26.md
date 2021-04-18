@@ -1,9 +1,6 @@
 ---
 description: Release Notes for January 26, 2017 release.
-seo-description: Release Notes for January 26, 2017 release.
-seo-title: January 26, 2017
 title: January 26, 2017
-uuid: 5a04d31d-a26d-4369-8deb-adc3e28dfece
 exl-id: 33eaf1e2-45b6-4a73-9f38-41aeebfcc3b4
 ---
 # January 26, 2017{#january}

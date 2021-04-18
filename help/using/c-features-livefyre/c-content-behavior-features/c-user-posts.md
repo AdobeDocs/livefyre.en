@@ -1,10 +1,6 @@
 ---
 description: Allow users to post, edit, flag, delete, reply to and like content in your Collections, with a full range of rich text formatting options.
-seo-description: Allow users to post, edit, flag, delete, reply to and like content in your Collections, with a full range of rich text formatting options.
-seo-title: User Posts
-solution: Experience Manager
 title: User Posts
-uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
 exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 ---
 # User Posts{#user-posts}

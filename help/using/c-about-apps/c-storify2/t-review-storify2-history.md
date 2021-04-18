@@ -1,10 +1,6 @@
 ---
 description: Studio will automatically save all changes made by all editors, and generate a new version for each change that you can see.
-seo-description: Studio will automatically save all changes made by all editors, and generate a new version for each change that you can see.
-seo-title: Review History
-solution: Experience Manager
 title: Review History
-uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
 exl-id: d0ed17ae-0878-4477-8ec7-49b7f6e638d1
 ---
 # Review History{#review-history}

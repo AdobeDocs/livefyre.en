@@ -1,9 +1,6 @@
 ---
 description: Filtering UGC by product ID allows you to embed the exact same app on multiple pages while showing different product-specific UGC for each page.
-seo-description: Filtering UGC by product ID allows you to embed the exact same app on multiple pages while showing different product-specific UGC for each page.
-seo-title: Filter UGC by product ID
 title: Filter UGC by product ID
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 exl-id: c98ee899-fcac-45dd-a26a-f678814776fd
 ---
 # Filter UGC by product ID {#filter-ugc-product-id}

@@ -1,10 +1,6 @@
 ---
 description: Live Blog allows your writers and editors to post real-time updates, transforming your site into an engaging live news source.
-seo-description: Live Blog allows your writers and editors to post real-time updates, transforming your site into an engaging live news source.
-seo-title: Live Blog
-solution: Experience Manager
 title: Live Blog
-uuid: 40ae3120-c630-440e-b224-49cd99677dc2
 exl-id: 9a356e8b-7120-466b-8c78-4e7d6d21d0c4
 ---
 # Live Blog{#live-blog}

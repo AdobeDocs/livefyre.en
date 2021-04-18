@@ -1,10 +1,6 @@
 ---
 description: You can create Stream rules that pull content from RSS feeds.
-seo-description: You can create Stream rules that pull content from RSS feeds.
-seo-title: RSS Rules
-solution: Experience Manager
 title: RSS Rules
-uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
 exl-id: bfb3bbad-ab26-451e-b540-d6c41f54dc31
 ---
 # RSS Rules{#rss-rules}

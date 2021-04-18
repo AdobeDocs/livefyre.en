@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Managing Rights Requests
-solution: Experience Manager
 title: Managing Rights Requests
-uuid: e8f7f73e-da8a-43dc-b5d2-63485872cdca
+description: Managing Rights Requests
 exl-id: 895bb7a9-3180-46ca-812b-098ed63ee176
 ---
 # Managing Rights Requests{#managing-rights-requests}

@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Manually Grant or Revoke Rights for an Asset from the Asset Library
-solution: Experience Manager
 title: Manually Grant or Revoke Rights for an Asset from the Asset Library
-uuid: 1f70ab9a-239d-4a9c-a17c-d2bc54ff3859
+description: Manually Grant or Revoke Rights for an Asset from the Asset Library
 exl-id: ddcb4d0b-b833-4f05-b8b2-f0629217018d
 ---
 # Manually Grant or Revoke Rights for an Asset from the Asset Library{#manually-grant-or-revoke-rights-for-an-asset-from-the-asset-library}

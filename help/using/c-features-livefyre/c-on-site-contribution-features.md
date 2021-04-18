@@ -1,10 +1,6 @@
 ---
 description: Choose how site visitors interact with Apps and in what ways they can interact with the content.
-seo-description: Choose how site visitors interact with Apps and in what ways they can interact with the content.
-seo-title: On-Site Contribution Features
-solution: Experience Manager
 title: On-Site Contribution Features
-uuid: 1f441490-28eb-4fc4-9fe8-0879c62c4b4a
 exl-id: 5f7d065b-cd9b-4939-8029-e593583a3b07
 ---
 # On-Site Contribution Features{#on-site-contribution-features}

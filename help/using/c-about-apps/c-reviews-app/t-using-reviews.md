@@ -1,10 +1,6 @@
 ---
 description: Any user who is logged in to your site's authentication system can post a review using this process.
-seo-description: Any user who is logged in to your site's authentication system can post a review using this process.
-seo-title: Post a Review
-solution: Experience Manager
 title: Post a Review
-uuid: b5744b06-9e6b-425b-9a49-a919d32dfe1d
 exl-id: b1edf142-8cb7-4bc6-974b-a749cb631709
 ---
 # Post a Review{#post-a-review}

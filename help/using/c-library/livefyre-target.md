@@ -1,9 +1,6 @@
 ---
 description: Livefyre integration with Adobe Target allows you to share Livefyre Apps directly to your Target Offers Library.
-seo-description: Livefyre integration with Adobe Target allows you to share Livefyre Apps directly to your Target Offers Library.
-seo-title: Use Adobe Experience Manager Livefyre with Adobe Target
 title: Use Adobe Experience Manager Livefyre with Adobe Target
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 exl-id: 0110fb81-9051-4f8c-9195-dff1a5eed029
 ---
 # Use Adobe Experience Manager Livefyre with Adobe Target {#livefyre-target}

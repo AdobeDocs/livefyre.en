@@ -1,10 +1,6 @@
 ---
 description: Not every tweet that matches a rule appears in a stream.
-seo-description: Not every tweet that matches a rule appears in a stream.
-seo-title: Throttling and Frequency of Tweets
-solution: Experience Manager
 title: Throttling and Frequency of Tweets
-uuid: b9edfb1e-e6cf-4a48-8756-05f5f18d8799
 exl-id: 6b963f8a-1b61-4252-866b-567d7f556aca
 ---
 # Throttling and Frequency of Tweets{#throttling-and-frequency-of-tweets}

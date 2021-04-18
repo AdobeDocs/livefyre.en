@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Mosaic app.
-seo-description: Change the size, width, and interaction options of the Mosaic app.
-seo-title: Mosaic Customizations
-solution: Experience Manager
 title: Mosaic Customizations
-uuid: 4e226d68-f517-4922-bc25-655d524d7d52
 exl-id: 0223a64c-ec33-4e01-85d7-11845c9b8476
 ---
 # Mosaic Customizations{#mosaic-customizations}

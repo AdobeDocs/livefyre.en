@@ -1,10 +1,6 @@
 ---
 description: You can create Stream rules that pull content from Email.
-seo-description: You can create Stream rules that pull content from Email.
-seo-title: Email Rules
-solution: Experience Manager
 title: Email Rules
-uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
 exl-id: 19c586f7-b934-40b5-bc9a-8a8a734e5467
 ---
 # Email Rules{#email-rules}

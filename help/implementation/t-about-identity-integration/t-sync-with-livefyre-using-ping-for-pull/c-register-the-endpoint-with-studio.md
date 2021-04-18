@@ -1,10 +1,6 @@
 ---
 description: Register the URL endpoint so Livefyre can use the URL to pull updated profile information.
-seo-description: Register the URL endpoint so Livefyre can use the URL to pull updated profile information.
-seo-title: Register the Endpoint with Studio
-solution: Experience Manager
 title: Register the Endpoint with Studio
-uuid: 4eb816ee-d743-43bf-bfee-d9b9fd98b482
 exl-id: 2910a13a-ae88-41d7-ba7c-88d7a1dbe445
 ---
 # Register the Endpoint with Studio{#register-the-endpoint-with-studio}

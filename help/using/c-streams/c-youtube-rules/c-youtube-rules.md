@@ -1,10 +1,6 @@
 ---
 description: You can create Stream rules that pull content from YouTube rules.
-seo-description: You can create Stream rules that pull content from YouTube rules.
-seo-title: YouTube Rules
-solution: Experience Manager
 title: YouTube Rules
-uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
 exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 ---
 # YouTube Rules {#youtube-rules}

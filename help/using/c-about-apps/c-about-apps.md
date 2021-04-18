@@ -1,10 +1,6 @@
 ---
 description: Studio provides easy access to your Apps, allowing you to search, edit, and manage custom Apps from a single page.
-seo-description: Studio provides easy access to your Apps, allowing you to search, edit, and manage custom Apps from a single page.
-seo-title: Apps
-solution: Experience Manager
 title: Apps
-uuid: 672db3b6-722a-4eca-97e5-b877b926b5f6
 exl-id: 1f6df4a9-6d2e-4d62-9f1f-8d38f42e78f9
 ---
 # Apps{#apps}

@@ -1,10 +1,6 @@
 ---
 description: Use custom styling to highlight featured content.
-seo-description: Use custom styling to highlight featured content.
-seo-title: Feature Content
-solution: Experience Manager
 title: Feature Content
-uuid: c45f594b-69de-4db4-820b-465015d74825
 exl-id: 9fc66560-0d7e-4c14-805c-9c2e212f4c16
 ---
 # Feature Content{#feature-content}

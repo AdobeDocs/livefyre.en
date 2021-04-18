@@ -1,10 +1,6 @@
 ---
 description: Learn Livefyre conventions and how Livefyre organizes content.
-seo-description: Learn Livefyre conventions and how Livefyre organizes content.
-seo-title: Architecture
-solution: Experience Manager
 title: Architecture
-uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
 exl-id: d4fe12d1-117a-4aae-90ff-e9ebdd6c5bac
 ---
 # Architecture{#architecture}

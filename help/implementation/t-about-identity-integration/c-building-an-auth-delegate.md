@@ -1,10 +1,6 @@
 ---
 description: The AuthDelegate object implements your desired behavior for how to perform authentication actions and events so you can customize integration with your site’s existing authentication system.
-seo-description: The AuthDelegate object implements your desired behavior for how to perform authentication actions and events so you can customize integration with your site’s existing authentication system.
-seo-title: AuthDelegate Object
-solution: Experience Manager
 title: AuthDelegate Object
-uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
 exl-id: 7c669138-627e-476e-a177-c71346f730df
 ---
 # AuthDelegate Object{#authdelegate-object}

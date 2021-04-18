@@ -1,10 +1,6 @@
 ---
 description: You can listen to events on an instance of Sidenotes.
-seo-description: You can listen to events on an instance of Sidenotes.
-seo-title: Sidenotes App Events
-solution: Experience Manager
 title: Sidenotes App Events
-uuid: afca4b03-c370-41ca-aa12-45bc357517ca
 exl-id: e341ca76-002d-425c-8d1a-35c3253fb254
 ---
 # Sidenotes App Events {#sidenotes-app-events}

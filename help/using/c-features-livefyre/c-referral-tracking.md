@@ -1,10 +1,6 @@
 ---
 description: Track clicks back to your page from referral traffic.
-seo-description: Track clicks back to your page from referral traffic.
-seo-title: Referral Tracking
-solution: Experience Manager
 title: Referral Tracking
-uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
 exl-id: 44cc221c-1603-4e6e-ae4a-1b993f7dc446
 ---
 # Referral Tracking{#referral-tracking}

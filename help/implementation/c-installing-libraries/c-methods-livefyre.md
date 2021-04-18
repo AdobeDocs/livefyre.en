@@ -1,10 +1,6 @@
 ---
 description: Language bindings for Livefyre’s server-side library methods.
-seo-description: Language bindings for Livefyre’s server-side library methods.
-seo-title: Classes and Methods
-solution: Experience Manager
 title: Classes and Methods
-uuid: 2e7327d8-0f92-485c-b607-a566894b3561
 exl-id: 68028182-2a60-4c6e-8132-bbc7333ad0d9
 ---
 # Classes and Methods{#classes-and-methods}

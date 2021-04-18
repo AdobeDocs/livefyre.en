@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Map app.
-seo-description: Change the size, width, and interaction options of the Map app.
-seo-title: Feature Card Customizations
-solution: Experience Manager
 title: Feature Card Customizations
-uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
 exl-id: b907885a-211d-4628-9955-5f1a5ec577cf
 ---
 # Feature Card Customizations{#feature-card-customizations}

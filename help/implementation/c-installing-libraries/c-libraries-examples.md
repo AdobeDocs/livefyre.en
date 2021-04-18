@@ -1,10 +1,6 @@
 ---
 description: Some examples on using the libraries.
-seo-description: Some examples on using the libraries.
-seo-title: Examples
-solution: Experience Manager
 title: Examples
-uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 exl-id: 73b17607-0374-4037-8b0a-77e6d4b94691
 ---
 # Examples{#examples}

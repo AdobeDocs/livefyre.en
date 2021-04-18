@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Filmstrip Customizations
-solution: Experience Manager
 title: Filmstrip Customizations
-uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+description: Filmstrip Customizations
 exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 ---
 # Filmstrip Customizations{#filmstrip-customizations}

@@ -1,10 +1,6 @@
 ---
 description: You can allow-list your video domain.
-seo-description: You can allow-list your video domain.
-seo-title: userPrivacyVideoWhitelist
-solution: Experience Manager
 title: userPrivacyVideoWhitelist
-uuid: adfead18-b73b-4ac4-97a0-d39f528b7606
 
 ---
 

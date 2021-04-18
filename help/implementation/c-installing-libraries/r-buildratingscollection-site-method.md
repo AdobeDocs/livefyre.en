@@ -1,9 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Ratings type. Run create_or_update() from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Ratings type. Run create_or_update() from the Collection object to complete the build process.
-seo-title: buildRatingsCollection Site Method
 title: buildRatingsCollection Site Method
-uuid: 5eea2ba3-48e1-4cd2-aa73-ea81788af1df
 exl-id: 84af3bb2-95f0-40e0-9a4e-830772a71862
 ---
 # buildRatingsCollection Site Method{#buildratingscollection-site-method}

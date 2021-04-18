@@ -1,10 +1,6 @@
 ---
 description: You can create Stream rules that pull content from Facebook Pages.
-seo-description: You can create Stream rules that pull content from Facebook Pages.
-seo-title: Facebook Page Rules
-solution: Experience Manager
 title: Facebook Page Rules
-uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
 exl-id: 1dc728c6-81fa-4c6c-acba-d9a4aea71ed2
 ---
 # Facebook Page Rules{#facebook-page-rules}

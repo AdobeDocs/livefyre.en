@@ -1,10 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Reviews type. Run create_or_update() from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Reviews type. Run create_or_update() from the Collection object to complete the build process.
-seo-title: buildReviewsCollection Site Method
-solution: Experience Manager
 title: buildReviewsCollection Site Method
-uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
 exl-id: 581ad24c-d115-4ffb-93eb-936c2da6e3fa
 ---
 # buildReviewsCollection Site Method{#buildreviewscollection-site-method}

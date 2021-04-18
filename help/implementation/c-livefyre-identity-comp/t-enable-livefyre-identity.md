@@ -1,10 +1,6 @@
 ---
 description: Enable the Livefyre Identity package to allow your users to log into your Livefyre Apps using an email, Twitter, Facebook, Yahoo!, or Google login.
-seo-description: Enable the Livefyre Identity package to allow your users to log into your Livefyre Apps using an email, Twitter, Facebook, Yahoo!, or Google login.
-seo-title: Enable Livefyre Identity
-solution: Experience Manager
 title: Enable Livefyre Identity
-uuid: 9bb5e168-4596-42a7-9105-e09c65c5e3ae
 exl-id: 5eda2be7-26fd-4730-a1ad-95421c773cbe
 ---
 # Enable Livefyre Identity{#enable-livefyre-identity}

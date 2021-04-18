@@ -1,9 +1,6 @@
 ---
 description: Associate products with content from the Library to keep your content and product catalog in sync in one easy-to-manage location.
-seo-description: Associate products with content from the Library to keep your content and product catalog in sync in one easy-to-manage location.
-seo-title: Associate Products with Content Using the Library
 title: Associate Products with Content Using the Library
-uuid: 63520f34-c5fe-4cbd-937a-33d707bbcc5f
 exl-id: 4d3e99cc-9188-4b5c-afdb-d177c66f19e6
 ---
 # Associate Products with Content Using the Library{#associate-products-with-content-using-the-library}

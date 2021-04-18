@@ -1,10 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Comments type. Run createOrUpdate() from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Comments type. Run createOrUpdate() from the Collection object to complete the build process.
-seo-title: buildCommentsCollection Site Method
-solution: Experience Manager
 title: buildCommentsCollection Site Method
-uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
 exl-id: 9534c25a-fd1c-4a09-92e2-d196ac218ef3
 ---
 # buildCommentsCollection Site Method{#buildcommentscollection-site-method}

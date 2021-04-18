@@ -1,10 +1,6 @@
 ---
 description: Managing content across your Livefyre network.
-seo-description: Managing content across your Livefyre network.
-seo-title: App Content Tab
-solution: Experience Manager
 title: App Content Tab
-uuid: 65b23085-2b79-4a6f-96c9-44b421805312
 exl-id: 8b3e5281-59ba-4321-8fee-4160ab7a5d5e
 ---
 # App Content Tab{#app-content-tab}

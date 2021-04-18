@@ -1,9 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Sidenotes Custom Strings
 title: Sidenotes Custom Strings
-uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
+description: Sidenotes Custom Strings
 exl-id: b5e2c18b-5b98-45ff-aa89-dd92a02949a9
 ---
 # Sidenotes Custom Strings{#sidenotes-custom-strings}

@@ -1,10 +1,6 @@
 ---
 description: You can choose various sorting options depending on the App and what you want site visitors to be able to do.
-seo-description: You can choose various sorting options depending on the App and what you want site visitors to be able to do.
-seo-title: Sort Features
-solution: Experience Manager
 title: Sort Features
-uuid: e40f5877-acdc-48c2-a2c3-8a8d253cdb93
 exl-id: 62be145a-8885-436e-bc64-0bdb648390c4
 ---
 # Sort Features{#sort-features}

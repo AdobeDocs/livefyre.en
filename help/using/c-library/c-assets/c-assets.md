@@ -1,10 +1,6 @@
 ---
 description: Gather, organize, and maintain selected content for use in your Livefyre Apps.
-seo-description: Gather, organize, and maintain selected content for use in your Livefyre Apps.
-seo-title: Assets
-solution: Experience Manager
 title: Assets
-uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
 exl-id: 95656df7-5176-4c7f-8971-7a1f1fadbdde
 ---
 # Assets{#assets}

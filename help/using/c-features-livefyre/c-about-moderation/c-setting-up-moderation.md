@@ -1,10 +1,6 @@
 ---
 description: Use the Moderation tab to set premoderation rules for incoming content, including profanity lists, flag rules, and banned IP addresses.
-seo-description: Use the Moderation tab to set premoderation rules for incoming content, including profanity lists, flag rules, and banned IP addresses.
-seo-title: Setting Up Moderation
-solution: Experience Manager
 title: Setting Up Moderation
-uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
 exl-id: 09fc44c4-7ee1-47fd-ae68-885532a6f03f
 ---
 # Setting Up Moderation{#setting-up-moderation}

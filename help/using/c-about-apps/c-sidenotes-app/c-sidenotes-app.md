@@ -1,10 +1,6 @@
 ---
 description: Use Sidenotes to allow your readers to comment directly inline with content.
-seo-description: Use Sidenotes to allow your readers to comment directly inline with content.
-seo-title: Sidenotes
-solution: Experience Manager
 title: Sidenotes
-uuid: 306294e9-1b4e-44cb-b619-a97840609f6b
 exl-id: 94cee3e6-b8f8-4714-84cb-64434ff33a67
 ---
 # Sidenotes{#sidenotes}

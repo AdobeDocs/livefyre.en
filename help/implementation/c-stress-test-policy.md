@@ -1,10 +1,6 @@
 ---
 description: Run stress tests against the Livefyre platform.
-seo-description: Run stress tests against the Livefyre platform.
-seo-title: Stress Test Policy
-solution: Experience Manager
 title: Stress Test Policy
-uuid: f2d49b55-f4fc-485f-9aea-a17ce64813ee
 exl-id: cb87b6ca-4107-46fc-9b1e-dc9399ec6d3a
 ---
 # Stress Test Policy{#stress-test-policy}

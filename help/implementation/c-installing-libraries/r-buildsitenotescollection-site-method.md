@@ -1,10 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Sidenotes type. Run create_or_update() from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Sidenotes type. Run create_or_update() from the Collection object to complete the build process.
-seo-title: buildSitenotesCollection Site Method
-solution: Experience Manager
 title: buildSitenotesCollection Site Method
-uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
 exl-id: c722baf2-91d4-4c05-97e1-ea585e91c416
 ---
 # buildSitenotesCollection Site Method{#buildsitenotescollection-site-method}

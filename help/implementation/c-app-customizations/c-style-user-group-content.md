@@ -1,10 +1,6 @@
 ---
 description: Use custom styling to differentiate your users.
-seo-description: Use custom styling to differentiate your users.
-seo-title: Style User Group Content
-solution: Experience Manager
 title: Style User Group Content
-uuid: 2205d2c9-1892-427d-a289-bab0bf1dfe19
 exl-id: ed9cd412-5775-4d49-be34-c8b8f6df6358
 ---
 # Style User Group Content{#style-user-group-content}

@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the October 19, 2017 release.
-seo-description: Release Notes for the October 19, 2017 release.
-seo-title: October 19, 2017
 title: October 19, 2017
-uuid: 7f5fba9e-bd07-4d85-b67c-7a5577055447
 exl-id: 6887e4a9-8451-464f-a27f-bdaa3624196d
 ---
 # October 19, 2017{#october}

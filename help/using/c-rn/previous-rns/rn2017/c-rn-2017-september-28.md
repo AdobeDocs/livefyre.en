@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the September 28, 2017 release.
-seo-description: Release Notes for the September 28, 2017 release.
-seo-title: September 28, 2017
 title: September 28, 2017
-uuid: 496134d2-1c1e-4097-9af2-6ea65efeb8e2
 exl-id: fa572f36-0b6f-4451-8a4e-1437469ce906
 ---
 # September 28, 2017{#september}

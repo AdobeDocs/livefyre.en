@@ -1,9 +1,6 @@
 ---
 description: Allow users to customize the image that displays with their content.
-seo-description: Allow users to customize the image that displays with their content.
-seo-title: Avatars
 title: Avatars
-uuid: bf20f3bc-3dcc-4e16-a629-3380d1a7a3f2
 exl-id: cff7f6be-3660-4d71-949b-6ac04379d68d
 ---
 # Avatars{#avatars}

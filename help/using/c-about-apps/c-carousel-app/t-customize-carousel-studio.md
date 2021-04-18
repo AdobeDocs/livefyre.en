@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Carousel app.
-seo-description: Change the size, width, and interaction options of the Carousel app.
-seo-title: Customize a Carousel Using Studio
-solution: Experience Manager
 title: Customize a Carousel Using Studio
-uuid: 24f080fc-37bf-40d4-8c1a-a502ee8ac978
 exl-id: f6f681ac-c601-40b9-9e99-bf5495f505f8
 ---
 # Customize a Carousel Using Studio{#customize-a-carousel-using-studio}

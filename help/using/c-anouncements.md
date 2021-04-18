@@ -1,10 +1,6 @@
 ---
 description: Announcements for Livefyre and Livefyre Studio. Current as of November 15, 2018.
-seo-description: Announcements for Livefyre and Livefyre Studio. Current as of November 15, 2018.
-seo-title: Announcements
-solution: Experience Manager
 title: Announcements
-uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 exl-id: 78fe3f11-2365-4765-a0af-f817e9c80ea9
 ---
 # Announcements{#announcements}

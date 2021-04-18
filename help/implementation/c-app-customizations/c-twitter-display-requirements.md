@@ -1,10 +1,6 @@
 ---
 description: An overview of Twitter’s Display Requirements.
-seo-description: An overview of Twitter’s Display Requirements.
-seo-title: Twitter Display Requirements
-solution: Experience Manager
 title: Twitter Display Requirements
-uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
 exl-id: f985a47e-4bab-4e60-8b8b-d8c6e5321be7
 ---
 # Twitter Display Requirements{#twitter-display-requirements}

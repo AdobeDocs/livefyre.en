@@ -1,10 +1,6 @@
 ---
 description: You can request the right to reuse the item for your commercial purposes from the Library, App Content, or ModQ.
-seo-description: You can request the right to reuse the item for your commercial purposes from the Library, App Content, or ModQ.
-seo-title: Send a Twitter Rights Request
-solution: Experience Manager
 title: Send a Twitter Rights Request
-uuid: bf3e84a6-dc67-47bc-9707-bd30882cbbf0
 exl-id: 609ba724-d9c8-4e33-b71c-92df08e2265b
 ---
 # Send a Twitter Rights Request{#send-a-twitter-rights-request}

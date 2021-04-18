@@ -1,10 +1,6 @@
 ---
 description: What to expect in implementing Livefyre Studio.
-seo-description: What to expect in implementing Livefyre Studio.
-seo-title: Implementation Process
-solution: Experience Manager
 title: Implementation Process
-uuid: 9a0f394e-3467-47d1-9816-45e2130db440
 exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 ---
 # Implementation Process{#implementation-process}

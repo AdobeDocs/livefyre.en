@@ -1,10 +1,6 @@
 ---
 description: Displays the 25 most popular threads within the App, ordered by popularity.
-seo-description: Displays the 25 most popular threads within the App, ordered by popularity.
-seo-title: Hot Threads
-solution: Experience Manager
 title: Hot Threads
-uuid: 0011f769-6712-48e9-bb10-a43610fef595
 exl-id: a7d4efef-6f25-4eaf-9a1e-b0ff3c033d5d
 ---
 # Hot Threads{#hot-threads}

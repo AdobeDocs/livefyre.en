@@ -1,10 +1,6 @@
 ---
 description: Showcase the most active Collections on your Site or Network.
-seo-description: Showcase the most active Collections on your Site or Network.
-seo-title: Trending
-solution: Experience Manager
 title: Trending
-uuid: 3031523d-b487-4eea-bba6-5d8f9971874f
 exl-id: a3129e95-90e7-4107-bfd9-ed3b0dce20aa
 ---
 # Trending{#trending}

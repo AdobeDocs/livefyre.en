@@ -1,9 +1,6 @@
 ---
 description: Automate the process using the Feature APIs
-seo-description: Automate the process using the Feature APIs
-seo-title: Feature APIs
 title: Feature APIs
-uuid: eac3a156-0b60-4ffa-8b6f-e451eb03da77
 exl-id: 765e47fe-a406-44e6-b4fb-b2e85fc83c01
 ---
 # Feature APIs{#feature-apis}

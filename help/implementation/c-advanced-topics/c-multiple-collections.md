@@ -1,10 +1,6 @@
 ---
 description: Showcase multiple Collections on a single page.
-seo-description: Showcase multiple Collections on a single page.
-seo-title: Multiple Collections
-solution: Experience Manager
 title: Multiple Collections
-uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
 exl-id: 748b6ca6-635e-4bae-9b95-cfbd4651751f
 ---
 # Multiple Collections {#multiple-collections}

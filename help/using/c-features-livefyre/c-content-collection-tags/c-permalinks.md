@@ -1,10 +1,6 @@
 ---
 description: Use your bit.ly URL shortener to customize content permalinks.
-seo-description: Use your bit.ly URL shortener to customize content permalinks.
-seo-title: Permalinks
-solution: Experience Manager
 title: Permalinks
-uuid: 40ef30ec-dc3e-47fe-87a9-f9073cd4c4ff
 exl-id: a21cbcca-9173-42ec-910d-7ec2edc60676
 ---
 # Permalinks{#permalinks}

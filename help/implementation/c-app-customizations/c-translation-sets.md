@@ -1,10 +1,6 @@
 ---
 description: Translation Sets allow you to specify alternate language for Apps.
-seo-description: Translation Sets allow you to specify alternate language for Apps.
-seo-title: Translation Sets
-solution: Experience Manager
 title: Translation Sets
-uuid: 8ba66a61-5520-482a-bc0b-e4f6b57f1744
 exl-id: 688138bf-f8e9-4fe5-99e2-2451deefd217
 ---
 # Translation Sets {#translation-sets}

@@ -1,10 +1,6 @@
 ---
 description: Learn about the General Data Protection Regulation (GDPR) and how to complete access and deletion requests permitted under GDPR, for data collected in your use of Livefyre, as well as other related privacy controls.
-seo-description: Learn about the General Data Protection Regulation (GDPR) and how to complete access and deletion requests permitted under GDPR, for data collected in your use of Livefyre, as well as other related privacy controls.
-seo-title: Privacy Requests (GDPR-Ready)
-solution: Experience Manager
 title: Privacy Requests (GDPR-Ready)
-uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
 exl-id: 46565fe8-d9f0-4374-bf67-1a0bca28588a
 ---
 # Privacy Requests (GDPR-Ready){#privacy-requests-gdpr-ready}

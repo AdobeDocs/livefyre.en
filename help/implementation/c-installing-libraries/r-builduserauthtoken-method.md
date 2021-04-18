@@ -1,10 +1,6 @@
 ---
 description: Returns an encrypted user authenticated token for the network it is called from.
-seo-description: Returns an encrypted user authenticated token for the network it is called from.
-seo-title: buildUserAuthToken Network Method
-solution: Experience Manager
 title: buildUserAuthToken Network Method
-uuid: 8828d356-c3c6-46a6-91bf-83bd59e35050
 exl-id: dcc61c4b-90d9-42a0-9f46-73a843a4ad78
 ---
 # buildUserAuthToken Network Method{#builduserauthtoken-network-method}

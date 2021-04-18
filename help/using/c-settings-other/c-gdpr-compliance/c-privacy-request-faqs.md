@@ -1,10 +1,6 @@
 ---
 description: Answers to Frequently Asked Questions (FAQs) about GDPR-Ready Privacy Requests.
-seo-description: Answers to Frequently Asked Questions (FAQs) about GDPR-Ready Privacy Requests.
-seo-title: Privacy Request FAQs
-solution: Experience Manager
 title: Privacy Request FAQs
-uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
 exl-id: 6d0add45-589a-46d0-b15a-63a7599aad73
 ---
 # Privacy Request FAQs{#privacy-request-faqs}

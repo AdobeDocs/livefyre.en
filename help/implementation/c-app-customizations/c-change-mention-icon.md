@@ -1,10 +1,6 @@
 ---
 description: Change the icon displayed for Livefyre users in the @mention pulldown menu.
-seo-description: Change the icon displayed for Livefyre users in the @mention pulldown menu.
-seo-title: Change @mention Icon
-solution: Experience Manager
 title: Change @mention Icon
-uuid: a395f4ff-a774-454a-8d94-4a3371d8cc2c
 exl-id: e078ef7f-7f16-4f5d-9152-95ae7fe7e4bd
 ---
 # Change `@mention` Icon {#change-mention-icon}

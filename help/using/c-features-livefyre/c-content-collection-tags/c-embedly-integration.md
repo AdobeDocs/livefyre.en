@@ -1,10 +1,6 @@
 ---
 description: Use embed.ly to display multiple media formats, directly in the App.
-seo-description: Use embed.ly to display multiple media formats, directly in the App.
-seo-title: Embedly Integration
-solution: Experience Manager
 title: Embedly Integration
-uuid: 1f27e32c-c2c3-4f7c-93de-c9c7bf783d6a
 exl-id: 859fe306-367e-4207-b9f7-c730ba0cd24d
 ---
 # Embedly Integration{#embedly-integration}

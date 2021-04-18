@@ -1,8 +1,6 @@
 ---
-seo-title: Embed an App
-solution: Experience Manager
 title: Embed an App
-uuid: e75caf0e-04ea-4b04-89ed-fea1183ecf63
+description: Embed an App
 exl-id: 12f75093-1b4d-4cf1-8593-dbd17ff33872
 ---
 # Embed an App{#embed-an-app}

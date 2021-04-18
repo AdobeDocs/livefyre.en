@@ -1,10 +1,6 @@
 ---
 description: You can manage multiple networks from a single Studio account.
-seo-description: You can manage multiple networks from a single Studio account.
-seo-title: Users Switching Networks
-solution: Experience Manager
 title: Users Switching Networks
-uuid: 1f1f172b-6444-4161-9396-8f6b6d738593
 exl-id: 5f48a4a5-a951-40db-bf73-609041b469fb
 ---
 # Users Switching Networks{#users-switching-networks}

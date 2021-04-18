@@ -1,10 +1,6 @@
 ---
 description: Customizing the text strings for Livefyre Sidenotes
-seo-description: Customizing the text strings for Livefyre Sidenotes
-seo-title: Sidenotes Text Strings
-solution: Experience Manager
 title: Sidenotes Text Strings
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 ---
 # Sidenotes Text Strings{#sidenotes-text-strings}

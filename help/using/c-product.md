@@ -1,10 +1,6 @@
 ---
 description: The leading social depth platform with the tools you need to engage audiences with the voices they trust the most  their own.
-seo-description: The leading social depth platform with the tools you need to engage audiences with the voices they trust the most  their own.
-seo-title: About Livefyre
-solution: Experience Manager
 title: About Livefyre
-uuid: b864afe0-9ccb-4607-b735-69ce42cd8199
 exl-id: 37aa41c5-6fa7-4a0d-8f8e-4210ca8ade0c
 ---
 # About Livefyre{#about-livefyre}

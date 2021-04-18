@@ -1,10 +1,6 @@
 ---
 description: Customize the style and the way comments display on your live blog.
-seo-description: Customize the style and the way comments display on your live blog.
-seo-title: Live Blog Customizations
-solution: Experience Manager
 title: Live Blog Customizations
-uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
 exl-id: 388b700b-c7bc-47ef-a0f3-dac0b01fcb2b
 ---
 # Live Blog Customizations{#live-blog-customizations}

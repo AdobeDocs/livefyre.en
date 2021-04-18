@@ -1,10 +1,6 @@
 ---
 description: Customize available email notification fields.
-seo-description: Customize available email notification fields.
-seo-title: Set up Network Email
-solution: Experience Manager
 title: Set up Network Email
-uuid: c368d236-e25a-4118-8abc-5230618c97ee
 exl-id: 5305f3d2-d89d-4da2-9baa-64fabe41c74a
 ---
 # Set up Network Email{#set-up-network-email}

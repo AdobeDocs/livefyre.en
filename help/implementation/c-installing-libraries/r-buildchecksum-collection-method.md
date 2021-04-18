@@ -1,10 +1,6 @@
 ---
 description: Returns the checksum for this Collection.
-seo-description: Returns the checksum for this Collection.
-seo-title: buildChecksum Collection Method
-solution: Experience Manager
 title: buildChecksum Collection Method
-uuid: 692e8e13-6218-4e38-abc8-7cf49bebde9c
 exl-id: 91b2911e-bcca-4a61-9c59-4df084e0d778
 ---
 # buildChecksum Collection Method{#buildchecksum-collection-method}

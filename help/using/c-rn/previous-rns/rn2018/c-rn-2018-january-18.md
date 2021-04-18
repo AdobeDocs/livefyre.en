@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the January 18, 2018 release.
-seo-description: Release Notes for the January 18, 2018 release.
-seo-title: January 18, 2018
-solution: Experience Manager
 title: January 18, 2018
-uuid: 8141f431-c154-4c8f-bbcd-b7c712fe5f7d
 exl-id: aaf49dc9-64eb-4354-8bcb-04039fa25f10
 ---
 # January 18, 2018{#january}

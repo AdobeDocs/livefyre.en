@@ -1,10 +1,6 @@
 ---
 description: You can use Livefyre Identity with Twitter to allow users to use their Twitter logins to interact Apps on your site.
-seo-description: You can use Livefyre Identity with Twitter to allow users to use their Twitter logins to interact Apps on your site.
-seo-title: Create a Twitter App for Use with Livefyre Identity
-solution: Experience Manager
 title: Create a Twitter App for Use with Livefyre Identity
-uuid: 841cce7c-618d-4154-85a3-1de96d04bb69
 exl-id: 4f2b919f-fe5d-49a3-8432-04ffb3d68ce4
 ---
 # Create a Twitter App for Use with Livefyre Identity{#create-a-twitter-app-for-use-with-livefyre-identity}

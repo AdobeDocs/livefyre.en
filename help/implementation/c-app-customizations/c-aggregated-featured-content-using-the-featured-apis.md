@@ -1,10 +1,6 @@
 ---
 description: Livefyre provides four Featured APIs, allowing you to retrieve the 50 most recently featured content items for the input Network, Site, or Collection, or the two pieces of content Featured at the top of an input Collection.
-seo-description: Livefyre provides four Featured APIs, allowing you to retrieve the 50 most recently featured content items for the input Network, Site, or Collection, or the two pieces of content Featured at the top of an input Collection.
-seo-title: Aggregated Featured Content using the Featured APIs
-solution: Experience Manager
 title: Aggregated Featured Content using the Featured APIs
-uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 exl-id: 19f146bf-f406-4667-8ed9-7c7fb3672c05
 ---
 # Aggregated Featured Content using the Featured APIs{#aggregated-featured-content-using-the-featured-apis}

@@ -1,10 +1,6 @@
 ---
 description: Showcase your best content in a horizontal, scrollable view.
-seo-description: Showcase your best content in a horizontal, scrollable view.
-seo-title: Carousel
-solution: Experience Manager
 title: Carousel
-uuid: c0704fba-6119-44ca-9ad1-1e2cb692ebda
 exl-id: 37664553-45cb-47e0-9b8f-d6e992e265cc
 ---
 # Carousel{#carousel}

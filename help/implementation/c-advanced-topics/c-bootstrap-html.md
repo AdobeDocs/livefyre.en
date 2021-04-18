@@ -1,10 +1,6 @@
 ---
 description: Make community content available to search engine crawlers.
-seo-description: Make community content available to search engine crawlers.
-seo-title: Bootstrap HTML
-solution: Experience Manager
 title: Bootstrap HTML
-uuid: 137e4382-4e7b-4124-9d35-1d872a497bc7
 exl-id: 22ab4f2d-f433-4805-b0dd-16d4531e425d
 ---
 # Bootstrap HTML

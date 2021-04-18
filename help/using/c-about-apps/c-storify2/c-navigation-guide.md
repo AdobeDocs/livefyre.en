@@ -1,10 +1,6 @@
 ---
 description: The Navigation Guide provides your audience with a way to quickly identify and locate key information in the Storify.
-seo-description: The Navigation Guide provides your audience with a way to quickly identify and locate key information in the Storify.
-seo-title: Navigation Guide
-solution: Experience Manager
 title: Navigation Guide
-uuid: dc32df5b-ad6f-4b3b-8496-38873c383691
 exl-id: 469fd5f9-2e16-4e28-ae5d-41b51a74aeed
 ---
 # Navigation Guide{#navigation-guide}

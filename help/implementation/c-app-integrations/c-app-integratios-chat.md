@@ -1,10 +1,6 @@
 ---
 description: Adding live chat to your page.
-seo-description: Adding live chat to your page.
-seo-title: Chat
-solution: Experience Manager
 title: Chat
-uuid: d6761a69-efa5-4ad3-abaf-1ba8e6c17f94
 exl-id: f383bf19-0ff1-42ca-9b32-209a22679ad2
 ---
 # Chat{#chat}

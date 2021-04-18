@@ -1,10 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Blog type. Run create_or_update() from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Blog type. Run create_or_update() from the Collection object to complete the build process.
-seo-title: buildBlogCollection Site Method
-solution: Experience Manager
 title: buildBlogCollection Site Method
-uuid: 6a5ec6b9-bc32-467a-abe6-a57c6defe067
 exl-id: 93565eff-dc4e-4868-9d75-50f16ddb4fa4
 ---
 # buildBlogCollection Site Method{#buildblogcollection-site-method}

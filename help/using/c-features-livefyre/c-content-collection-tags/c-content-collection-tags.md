@@ -1,10 +1,6 @@
 ---
 description: Add keyword tags to collections and content, to categorize and organize content for easy retrieval.
-seo-description: Add keyword tags to collections and content, to categorize and organize content for easy retrieval.
-seo-title: Collection and Content Tags
-solution: Experience Manager
 title: Collection and Content Tags
-uuid: 1f6900ac-40ff-41ec-ac26-25ff476cd820
 exl-id: 1057a34a-5200-4e23-aa95-fc24bd1cb95b
 ---
 # Collection and Content Tags{#collection-and-content-tags}

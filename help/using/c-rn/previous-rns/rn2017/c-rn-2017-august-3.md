@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the August 3, 2017 release.
-seo-description: Release Notes for the August 3, 2017 release.
-seo-title: August 3, 2017
 title: August 3, 2017
-uuid: 316b269b-d1c5-451a-badc-3b927da8ed91
 exl-id: 764abba7-0113-4c99-a80e-b914f79da3fb
 ---
 # August 3, 2017{#august}

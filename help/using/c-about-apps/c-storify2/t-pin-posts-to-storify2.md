@@ -1,10 +1,6 @@
 ---
 description: Pin a post to focus attention on specific content when you first land on a page with Storify 2 embedded.
-seo-description: Pin a post to focus attention on specific content when you first land on a page with Storify 2 embedded.
-seo-title: Pin a Post to Storify 2
-solution: Experience Manager
 title: Pin a Post to Storify 2
-uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
 exl-id: 09064707-1797-4f7b-891d-ef86880f94c0
 ---
 # Pin a Post to Storify 2{#pin-a-post-to-storify}

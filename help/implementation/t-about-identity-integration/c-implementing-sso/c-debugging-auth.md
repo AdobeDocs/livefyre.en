@@ -1,10 +1,6 @@
 ---
 description: You can log a user in through the console during integration and testing to debug authorization.
-seo-description: You can log a user in through the console during integration and testing to debug authorization.
-seo-title: Debugging Auth Delegate
-solution: Experience Manager
 title: Debugging Auth Delegate
-uuid: fb0c7396-190e-4dc9-bf26-23dde9efd45d
 exl-id: fa1c17fa-5aba-4f4c-9217-5823af30af61
 ---
 # Debugging Auth Delegate{#debugging-auth-delegate}

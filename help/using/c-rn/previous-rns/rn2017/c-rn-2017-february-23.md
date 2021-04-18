@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the February 23, 2017 release.
-seo-description: Release Notes for the February 23, 2017 release.
-seo-title: February 23, 2017
 title: February 23, 2017
-uuid: 9b08acf4-15e9-43b7-8abc-c0d720b156e6
 exl-id: 3a5708a1-4be6-447f-ae6e-8f5a37171ed7
 ---
 # February 23, 2017{#february}

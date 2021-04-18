@@ -1,10 +1,6 @@
 ---
 description: Customize Chat Apps to display content as a continuous stream of unthreaded chat, allowing your audience to engage in real-time conversation around live events or announcements.
-seo-description: Customize Chat Apps to display content as a continuous stream of unthreaded chat, allowing your audience to engage in real-time conversation around live events or announcements.
-seo-title: Chat Customizations
-solution: Experience Manager
 title: Chat Customizations
-uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
 exl-id: da6a3d41-426a-4734-a3e7-951cbe9e9988
 ---
 # Chat Customizations{#chat-customizations}

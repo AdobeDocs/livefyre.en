@@ -1,10 +1,6 @@
 ---
 description: Highlight important content to your users by using CSS to custom style Featured content.
-seo-description: Highlight important content to your users by using CSS to custom style Featured content.
-seo-title: Featured Content
-solution: Experience Manager
 title: Featured Content
-uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
 exl-id: 3e8bbdb5-ec3a-4a6a-94c5-63bd9687fe99
 ---
 # About Featured Content{#featured-content}

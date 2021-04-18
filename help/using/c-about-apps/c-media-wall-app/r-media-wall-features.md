@@ -1,10 +1,6 @@
 ---
 description: The Media Wall app offers these features for your site.
-seo-description: The Media Wall app offers these features for your site.
-seo-title: Media Wall Features
-solution: Experience Manager
 title: Media Wall Features
-uuid: 2f2e22b4-de10-48ee-8f3d-0fd88feb8abe
 exl-id: f13f7c96-aada-4f8c-abb4-d0b76a27354e
 ---
 # Media Wall Features{#media-wall-features}

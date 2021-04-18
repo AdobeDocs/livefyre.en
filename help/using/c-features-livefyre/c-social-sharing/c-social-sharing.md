@@ -1,10 +1,6 @@
 ---
 description: Share your content or content from another user, to Facebook, Twitter or LinkedIn.
-seo-description: Share your content or content from another user, to Facebook, Twitter or LinkedIn.
-seo-title: Social Sharing
-solution: Experience Manager
 title: Social Sharing
-uuid: 3fd8a628-2414-45b5-b91c-2ad33aad2634
 exl-id: 3950fd0c-a121-450a-b9f2-07a0737c2d9b
 ---
 # Social Sharing{#social-sharing}

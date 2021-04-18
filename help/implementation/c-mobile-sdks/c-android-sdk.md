@@ -1,10 +1,6 @@
 ---
 description: Create Android Apps powered by Livefyre.
-seo-description: Create Android Apps powered by Livefyre.
-seo-title: Android SDK
-solution: Experience Manager
 title: Android SDK
-uuid: 68793fa9-3ea1-4890-b36d-b631f1c6f7de
 exl-id: 54ea6537-5f27-4174-af25-d17257f23e48
 ---
 # Android SDK{#android-sdk}

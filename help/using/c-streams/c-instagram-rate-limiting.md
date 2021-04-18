@@ -1,9 +1,6 @@
 ---
 description: Instagram has changed the number of requests that any company using the Instagram API, including Livefyre, can make from 5,000 requests per hour per token to 200 requests an hour per token. This is known as rate limiting.
-seo-description: Instagram has changed the number of requests that any company using the Instagram API, including Livefyre, can make from 5,000 requests per hour per token to 200 requests an hour per token. This is known as rate limiting.
-seo-title: Instagram Rate Limiting
 title: Instagram Rate Limiting
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
 exl-id: b13db09b-fb5a-4711-a566-d0976172e35e
 ---
 # Troubleshooting: Limits on Instagram Content {#instagram-rate-limiting}

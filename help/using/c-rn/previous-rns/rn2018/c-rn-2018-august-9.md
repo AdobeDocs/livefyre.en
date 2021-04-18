@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the August 9, 2018 release.
-seo-description: Release Notes for the August 9, 2018 release.
-seo-title: August 9, 2018
-solution: Experience Manager
 title: August 9, 2018
-uuid: c59ae5ec-9d26-41c4-9a98-cb95c89ee26a
 exl-id: 7b2fb562-33bf-4c34-ab83-5fc34f5d1f4f
 ---
 # August 9, 2018{#august}

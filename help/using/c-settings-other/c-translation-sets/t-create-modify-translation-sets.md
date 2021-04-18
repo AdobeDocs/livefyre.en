@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Create and Modify Translation Sets
-solution: Experience Manager
 title: Create and Modify Translation Sets
-uuid: 4ed559a3-d2f2-4977-9172-c9e0448dec74
+description: Create and Modify Translation Sets
 exl-id: 3445a3d1-1d34-47b3-8502-2476b2774836
 ---
 # Create and Modify Translation Sets{#create-and-modify-translation-sets}

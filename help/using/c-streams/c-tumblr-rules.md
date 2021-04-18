@@ -1,10 +1,6 @@
 ---
 description: You can create Stream rules that pull content from Tumblr.
-seo-description: You can create Stream rules that pull content from Tumblr.
-seo-title: Tumblr Rules
-solution: Experience Manager
 title: Tumblr Rules
-uuid: fe9601ab-aa5e-48c6-a5bf-5543c179cb90
 exl-id: 5d49b266-6d1f-4ec2-8891-5e98fcab14a2
 ---
 # Tumblr Rules{#tumblr-rules}

@@ -1,10 +1,6 @@
 ---
 description: Use Bootstrap and Stream API with Livefyre Apps.
-seo-description: Use Bootstrap and Stream API with Livefyre Apps.
-seo-title: Use Bootstrap and Stream API with Livefyre Apps
-solution: Experience Manager
 title: Viewing Account Details
-uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
 exl-id: b8458954-3727-4c4d-93dd-d21a4328e069
 ---
 # Use Bootstrap and Stream API with Livefyre Apps {#bootstrap-stream-api}

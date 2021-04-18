@@ -1,10 +1,6 @@
 ---
 description: This section describes how to generate the UserAuth JSON Object that creates the User Authentication token required to log users into your Apps.
-seo-description: This section describes how to generate the UserAuth JSON Object that creates the User Authentication token required to log users into your Apps.
-seo-title: User Auth Token
-solution: Experience Manager
 title: User Auth Token
-uuid: 6483debd-453c-4780-b19c-1d8041693617
 exl-id: 564144dd-6db4-447b-80ac-b743ecac833d
 ---
 # User Auth Token{#user-auth-token}

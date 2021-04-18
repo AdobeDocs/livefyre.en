@@ -1,10 +1,6 @@
 ---
 description: Add Livefyre to your native mobile apps.
-seo-description: Add Livefyre to your native mobile apps.
-seo-title: Mobile SDKs
-solution: Experience Manager
 title: Mobile SDKs
-uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
 exl-id: e05001a4-6199-4d98-a661-123e031b657b
 ---
 # Mobile SDKs{#mobile-sdks}

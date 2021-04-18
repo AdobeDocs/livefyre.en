@@ -1,9 +1,6 @@
 ---
 description: The App Content tab in your Library allows you to moderate content published across your Apps.
-seo-description: The App Content tab in your Library allows you to moderate content published across your Apps.
-seo-title: Moderate Content using App Content
 title: Moderate Content using App Content
-uuid: 1c648128-e7ef-4836-afe5-eff52de30e7e
 exl-id: cbcea643-df5f-44d5-ad8c-b057495fd648
 ---
 # Moderate Content using App Content{#moderate-content-using-app-content}

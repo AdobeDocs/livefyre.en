@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Upload Button.
-seo-description: Change the size, width, and interaction options of the Upload Button.
-seo-title: Upload Button Customizations
-solution: Experience Manager
 title: Upload Button Customizations
-uuid: d820bbec-8c76-4864-9e70-55394010c35d
 exl-id: 7481911f-2fb5-4721-8345-cbdd5e4ea202
 ---
 # Upload Button Customizations{#upload-button-customizations}

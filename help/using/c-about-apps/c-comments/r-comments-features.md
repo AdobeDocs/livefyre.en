@@ -1,10 +1,6 @@
 ---
 description: Many features come with the Comments App to embed real-time conversations in your site.
-seo-description: Many features come with the Comments App to embed real-time conversations in your site.
-seo-title: Comments Features
-solution: Experience Manager
 title: Comments Features
-uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 exl-id: aca45cfc-07cb-4f58-8ad4-f7d07fe250ca
 ---
 # Comments Features{#comments-features}

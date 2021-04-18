@@ -1,10 +1,6 @@
 ---
 description: The Carousel App offers these features for your site.
-seo-description: The Carousel App offers these features for your site.
-seo-title: Carousel Features
-solution: Experience Manager
 title: Carousel Features
-uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
 exl-id: bb3555fd-e861-4100-a1ce-c6f22ca9dbfc
 ---
 # Carousel Features {#carousel-features}

@@ -1,9 +1,6 @@
 ---
 description: The Social Sharing panel allows you to add your social media network app credentials.
-seo-description: The Social Sharing panel allows you to add your social media network app credentials.
-seo-title: Setting up Social Sharing
 title: Setting up Social Sharing
-uuid: e1940e30-9fbb-41e8-b5bb-497a5b06643f
 exl-id: aa940263-4cec-4ca3-aa74-84749e4cf2d0
 ---
 # Setting up Social Sharing{#setting-up-social-sharing}

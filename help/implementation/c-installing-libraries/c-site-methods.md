@@ -1,10 +1,6 @@
 ---
 description: Create a site object using site class methods.
-seo-description: Create a site object using site class methods.
-seo-title: Site Class Methods
-solution: Experience Manager
 title: Site Class Methods
-uuid: cf1e641a-d4ef-4c92-a7d1-985380434fc2
 exl-id: 77d6585e-2397-4539-a5b8-5c8f6b13933e
 ---
 # Site Class Methods{#site-class-methods}

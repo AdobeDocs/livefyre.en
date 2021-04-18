@@ -1,10 +1,6 @@
 ---
 description: This method returns the URN for this Collection. You must run createOrUpdate() before you run this method.
-seo-description: This method returns the URN for this Collection. You must run createOrUpdate() before you run this method.
-seo-title: getUrn Collection Method
-solution: Experience Manager
 title: getUrn Collection Method
-uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
 exl-id: bea04805-8f02-4c06-9a1a-6b057de831ab
 ---
 # getUrn Collection Method{#geturn-collection-method}

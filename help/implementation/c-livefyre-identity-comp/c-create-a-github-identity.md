@@ -1,9 +1,6 @@
 ---
 description: You can use Livefyre Identity with GitHub Identity to allow users to use their GitHub logins to interact Apps on your site.
-seo-description: You can use Livefyre Identity with GitHub Identity to allow users to use their GitHub logins to interact Apps on your site.
-seo-title: Create a GitHub Identity App for Use with Livefyre Identity
 title: Create a GitHub Identity App for Use with Livefyre Identity
-uuid: cf56164c-1521-4a42-89cb-39483764807e
 exl-id: f25ffd0e-ea4f-42ac-abfc-c02018421b85
 ---
 # Create a GitHub Identity App for Use with Livefyre Identity{#create-a-github-identity-app-for-use-with-livefyre-identity}

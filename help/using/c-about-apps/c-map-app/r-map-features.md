@@ -1,10 +1,6 @@
 ---
 description: The Map app offers these features for your site.
-seo-description: The Map app offers these features for your site.
-seo-title: Map Features
-solution: Experience Manager
 title: Map Features
-uuid: fdad5f0c-8292-4f59-bac1-c96c01e96ff5
 exl-id: 71ad1b93-ba8a-41ce-ad3d-1ade68c37c45
 ---
 # Map Features{#map-features}

@@ -1,10 +1,6 @@
 ---
 description: Customize App display options to match your branding and style and add custom functionality.
-seo-description: Customize App display options to match your branding and style and add custom functionality.
-seo-title: App Customizations
-solution: Experience Manager
 title: App Customizations
-uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
 exl-id: 897579fb-11b5-4a00-b2bf-86f505b79003
 ---
 # App Customizations{#app-customizations}

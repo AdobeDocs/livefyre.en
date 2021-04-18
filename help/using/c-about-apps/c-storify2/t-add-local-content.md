@@ -1,10 +1,6 @@
 ---
 description: Storify allows you to add content at any position in your story.
-seo-description: Storify allows you to add content at any position in your story.
-seo-title: Add Text
-solution: Experience Manager
 title: Add Text
-uuid: 01dba567-daf9-4cfa-9671-b85f3d132ddc
 exl-id: 627eb641-e911-49c5-b060-d0d8f2599394
 ---
 # Add Text{#add-text}

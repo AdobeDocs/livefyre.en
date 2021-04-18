@@ -1,10 +1,6 @@
 ---
 description: The User Summary pane provides user information to aid moderation.
-seo-description: The User Summary pane provides user information to aid moderation.
-seo-title: Moderate Users
-solution: Experience Manager
 title: Moderate Users
-uuid: b801cdfe-05ea-4c29-bb9b-0f6a33cb11d1
 exl-id: 6165ae9e-b210-46b8-87e6-6e7af3430b82
 ---
 # Moderate Users{#moderate-users}

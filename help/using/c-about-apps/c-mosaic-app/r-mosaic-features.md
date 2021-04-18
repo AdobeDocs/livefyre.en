@@ -1,10 +1,6 @@
 ---
 description: The Mosaic App offers these features for your site.
-seo-description: The Mosaic App offers these features for your site.
-seo-title: Mosaic Features
-solution: Experience Manager
 title: Mosaic Features
-uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
 exl-id: 75417bcc-5a30-4928-b922-0dfa625d4525
 ---
 # Mosaic Features{#mosaic-features}

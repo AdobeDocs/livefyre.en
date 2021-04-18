@@ -1,8 +1,6 @@
 ---
-seo-title: Access Training Videos
-solution: Experience Manager
 title: Access Training Videos
-uuid: 64438e2f-dd51-4c10-98ff-e1b62db1b0ca
+description: Access Training Videos
 exl-id: 99aab49f-0ec1-43d2-b8f3-6c0e4f382132
 ---
 # Access Training Videos{#access-training-videos}

@@ -1,10 +1,6 @@
 ---
 description: A guide for building collectionMeta and auth tokens.
-seo-description: A guide for building collectionMeta and auth tokens.
-seo-title: Build Server Side Tokens
-solution: Experience Manager
 title: Build Server Side Tokens
-uuid: 8313f26e-5ceb-414e-a61a-480bb7a8ba66
 exl-id: f709b79e-9236-443e-b862-c7d281815d91
 ---
 # Build Server Side Tokens{#build-server-side-tokens}

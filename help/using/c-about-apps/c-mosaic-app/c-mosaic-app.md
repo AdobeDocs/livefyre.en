@@ -1,10 +1,6 @@
 ---
 description: Add a lively and dynamic wall of color, photos, and videos to your site with a Mosaic App.
-seo-description: Add a lively and dynamic wall of color, photos, and videos to your site with a Mosaic App.
-seo-title: Mosaic
-solution: Experience Manager
 title: Mosaic
-uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
 exl-id: 79259c77-169d-4819-a7b0-39f64d92ea1e
 ---
 # Mosaic{#mosaic}

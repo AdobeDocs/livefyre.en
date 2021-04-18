@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the September 27, 2018 release.
-seo-description: Release Notes for the September 27, 2018 release.
-seo-title: September 27, 2018
-solution: Experience Manager
 title: September 27, 2018
-uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
 exl-id: ea63c18e-7535-4e57-a569-efbbee376632
 ---
 # September 27, 2018{#september}

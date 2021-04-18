@@ -1,10 +1,6 @@
 ---
 description: Customizing the text strings for Livefyre Reviews.
-seo-description: Customizing the text strings for Livefyre Reviews.
-seo-title: Review Text Strings
-solution: Experience Manager
 title: Review Text Strings
-uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
 exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 ---
 # Review Text Strings{#review-text-strings}

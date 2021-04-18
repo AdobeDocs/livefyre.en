@@ -1,10 +1,6 @@
 ---
 description: Deliver product-specific UGC at specific points of the customer journey to increase purchase intent and conversion using the UGC Commerce feature.
-seo-description: Deliver product-specific UGC at specific points of the customer journey to increase purchase intent and conversion using the UGC Commerce feature.
-seo-title: UGC Commerce
-solution: Experience Manager
 title: UGC Commerce
-uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 
 ---
 

@@ -1,10 +1,6 @@
 ---
 description: Livefyre offers features in Apps that allow you to choose how site visitors view App content.
-seo-description: Livefyre offers features in Apps that allow you to choose how site visitors view App content.
-seo-title: Content Behavior Features
-solution: Experience Manager
 title: Content Behavior Features
-uuid: 4a1c6d6e-8785-49e8-aaf5-6fa4576d7232
 exl-id: ef477ca0-516f-45bf-9753-e050fe4cc6a1
 ---
 # Content Behavior Features{#content-behavior-features}

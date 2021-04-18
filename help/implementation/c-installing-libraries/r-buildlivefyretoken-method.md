@@ -1,10 +1,6 @@
 ---
 description: Returns an encrypted valid Livefyre token that can be used to interact with other Livefyre API for the network it is called from.
-seo-description: Returns an encrypted valid Livefyre token that can be used to interact with other Livefyre API for the network it is called from.
-seo-title: buildLivefyreToken Network Method
-solution: Experience Manager
 title: buildLivefyreToken Network Method
-uuid: 7c72a05f-669b-4df3-8117-aa4af2f7a179
 exl-id: 2b303606-e8de-41e5-9c01-b41cc7bd8437
 ---
 # buildLivefyreToken Network Method{#buildlivefyretoken-network-method}

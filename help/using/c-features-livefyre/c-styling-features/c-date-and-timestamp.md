@@ -1,9 +1,6 @@
 ---
 description: You can change the date and timestamp format to meet your needs.
-seo-description: You can change the date and timestamp format to meet your needs.
-seo-title: Date and Timestamp
 title: Date and Timestamp
-uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 
 ---
 

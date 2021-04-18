@@ -1,10 +1,6 @@
 ---
 description: Change the size, width, and interaction options of the Polls app.
-seo-description: Change the size, width, and interaction options of the Polls app.
-seo-title: Polls Customizations
-solution: Experience Manager
 title: Polls Customizations
-uuid: 788a4fa7-aafb-4508-b9c0-cd54e4cd9b86
 exl-id: f82dce69-8ad0-48bd-a293-e5501374d5d6
 ---
 # Polls Customizations{#polls-customizations}

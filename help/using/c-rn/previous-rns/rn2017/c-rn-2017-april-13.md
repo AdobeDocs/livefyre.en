@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the April 13, 2017 release.
-seo-description: Release Notes for the April 13, 2017 release.
-seo-title: April 13, 2017
 title: April 13, 2017
-uuid: abc591bd-3385-40f5-99a5-3f4c8ee4dc6b
 exl-id: 56da541d-9097-4f45-8e14-b6c4ccf32040
 ---
 # April 13, 2017{#april}

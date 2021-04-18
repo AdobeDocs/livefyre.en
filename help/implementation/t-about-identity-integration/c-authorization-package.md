@@ -1,10 +1,6 @@
 ---
 description: Install the Authentication Package to enable user authentication so users can interact with your apps.
-seo-description: Install the Authentication Package to enable user authentication so users can interact with your apps.
-seo-title: Authentication Package
-solution: Experience Manager
 title: Authentication Package
-uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
 exl-id: 639032ee-ed7d-4cb0-83ba-f11d3dc607b6
 ---
 # Authentication Package{#authentication-package}

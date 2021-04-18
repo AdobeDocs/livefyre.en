@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the  <DATE> release.
-seo-description: Release Notes for the <DATE> release.
-seo-title: Release Notes
-solution: Experience Manager
 title: Release Notes
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 
 ---
 

@@ -1,9 +1,6 @@
 ---
 description: Release Notes for the November 2, 2017 release.
-seo-description: Release Notes for the November 2, 2017 release.
-seo-title: November 2, 2017
 title: November 2, 2017
-uuid: 496fdc55-3386-48f2-a491-26dc2bc8aa72
 exl-id: bfc8fd65-550b-477e-be96-aa310bc64ea0
 ---
 # November 2, 2017{#november}

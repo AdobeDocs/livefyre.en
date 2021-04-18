@@ -1,10 +1,6 @@
 ---
 description: The Library allows you to add information to saved content so you can organize your assets based on your brand strategy.
-seo-description: The Library allows you to add information to saved content so you can organize your assets based on your brand strategy.
-seo-title: View Asset Details
-solution: Experience Manager
 title: View Asset Details
-uuid: 06a19bca-d7b9-431b-abc4-9d6f154901b9
 exl-id: 1f0153df-17b9-4082-a335-c2136486d900
 ---
 # View Asset Details{#view-asset-details}

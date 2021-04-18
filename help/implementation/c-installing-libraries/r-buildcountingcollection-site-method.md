@@ -1,9 +1,6 @@
 ---
 description: Returns a Collection object instantiated as a Counting type. Run create_or_update()from the Collection object to complete the build process.
-seo-description: Returns a Collection object instantiated as a Counting type. Run create_or_update()from the Collection object to complete the build process.
-seo-title: buildCountingCollection Site Method
 title: buildCountingCollection Site Method
-uuid: e293d66a-0025-4230-997e-295ce4625713
 exl-id: 02186eff-1f2f-41e5-8232-033b646ef224
 ---
 # buildCountingCollection Site Method{#buildcountingcollection-site-method}

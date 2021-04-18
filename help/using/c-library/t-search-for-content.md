@@ -1,10 +1,6 @@
 ---
 description: Use Social Search to search for Instagram content to include in your Asset Library or publish to Apps.
-seo-description: Use Social Search to search for Instagram content to include in your Asset Library or publish to Apps.
-seo-title: Search for Instagram Content
-solution: Experience Manager
 title: Search for Instagram Content
-uuid: 38a7185d-9936-4eaa-97e9-5b23b3566496
 exl-id: 2f5cc1d7-a345-4e65-a740-8ce7f5791fdd
 ---
 # Search for Instagram Content{#search-for-instagram-content}

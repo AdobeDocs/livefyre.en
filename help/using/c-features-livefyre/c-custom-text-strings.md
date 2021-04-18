@@ -1,10 +1,6 @@
 ---
 description: Customize any text strings in the app for internationalization or branding.
-seo-description: Customize any text strings in the app for internationalization or branding.
-seo-title: Translation and Custom Text Strings
-solution: Experience Manager
 title: Translation and Custom Text Strings
-uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
 exl-id: 23018217-6bf8-415e-8801-584b0492734b
 ---
 # Translation and Custom Text Strings{#translation-and-custom-text-strings}

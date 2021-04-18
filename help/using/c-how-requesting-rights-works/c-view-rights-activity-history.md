@@ -1,10 +1,6 @@
 ---
 description: Livefyre keeps an audit trail of your rights activity.
-seo-description: Livefyre keeps an audit trail of your rights activity.
-seo-title: View Rights Activity History
-solution: Experience Manager
 title: View Rights Activity History
-uuid: daa0587d-8d7f-431d-bae2-cd73c0de15f0
 exl-id: 22416fa2-520d-40f9-8f9e-d59eb9544268
 ---
 # View Rights Activity History{#view-rights-activity-history}

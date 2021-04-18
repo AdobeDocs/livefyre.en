@@ -1,10 +1,6 @@
 ---
 description: Informs Livefyre to update the network’s user sync URL to the one provided. Returns a Boolean.
-seo-description: Informs Livefyre to update the network’s user sync URL to the one provided. Returns a Boolean.
-seo-title: setUserSyncUrl Network Method
-solution: Experience Manager
 title: setUserSyncUrl Network Method
-uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 exl-id: 8124ac0f-013f-4943-a33c-6cf8fe696f95
 ---
 # setUserSyncUrl Network Method{#setusersyncurl-network-method}

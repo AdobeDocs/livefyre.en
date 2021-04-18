@@ -1,10 +1,6 @@
 ---
 description: Engage your site visitors with features that keep them coming back to your site when they discover your content.
-seo-description: Engage your site visitors with features that keep them coming back to your site when they discover your content.
-seo-title: Enagement Features
-solution: Experience Manager
 title: Enagement Features
-uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
 exl-id: 2e5554ad-42f8-445f-90f7-e12d320416d0
 ---
 # Enagement Features{#enagement-features}

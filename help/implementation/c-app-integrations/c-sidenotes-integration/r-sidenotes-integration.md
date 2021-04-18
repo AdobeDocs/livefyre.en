@@ -1,10 +1,6 @@
 ---
 description: Integrate a Sidenotes app by following a process similar to Core Applications.
-seo-description: Integrate a Sidenotes app by following a process similar to Core Applications.
-seo-title: Sidenotes Integration
-solution: Experience Manager
 title: Sidenotes Integration
-uuid: 4aa14ada-402a-482d-b43e-96f37afa6c53
 exl-id: 368951b1-fef2-46d8-b89c-68c46962e937
 ---
 # Sidenotes Integration{#sidenotes-integration}

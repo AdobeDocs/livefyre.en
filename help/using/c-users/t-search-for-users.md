@@ -1,10 +1,6 @@
 ---
 description: Use the Search field at the top of the page to search for site visitors by Display Name, User ID, email address, or the date they joined your Livefyre network.
-seo-description: Use the Search field at the top of the page to search for site visitors by Display Name, User ID, email address, or the date they joined your Livefyre network.
-seo-title: Search for Users
-solution: Experience Manager
 title: Search for Users
-uuid: 613ea931-760a-4db6-ac00-a4199708b95c
 exl-id: 7e85fe5a-1bcc-400c-9e0c-bf00c455b860
 ---
 # Search for Users{#search-for-users}

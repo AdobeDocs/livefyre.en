@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Livefyre Analytics Events
-solution: Experience Manager
 title: Livefyre Analytics Events
-uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
+description: Livefyre Analytics Events
 exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
 ---
 # Livefyre Analytics Events

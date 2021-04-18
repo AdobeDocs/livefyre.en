@@ -1,9 +1,6 @@
 ---
 description: The following keyboard shortcuts are available to moderators in ModQ.
-seo-description: The following keyboard shortcuts are available to moderators in ModQ.
-seo-title: ModQ Keyboard Shortcuts
 title: ModQ Keyboard Shortcuts
-uuid: fc4e7796-b6b5-4782-a0fc-b2326ca56d66
 exl-id: 759a1e8a-ac84-4a5b-b630-b63530fb3907
 ---
 # ModQ Keyboard Shortcuts{#modq-keyboard-shortcuts}

@@ -1,10 +1,6 @@
 ---
 description: Live Blog allows you to feature real-time updates and images from your site’s own editors when covering a live event.
-seo-description: Live Blog allows you to feature real-time updates and images from your site’s own editors when covering a live event.
-seo-title: Live Blog
-solution: Experience Manager
 title: Live Blog
-uuid: 5ca373f1-2008-45ab-9ec2-1e295af4e368
 exl-id: e8a16b56-53c9-488e-9807-1cf80b62462e
 ---
 # Live Blog{#live-blog}

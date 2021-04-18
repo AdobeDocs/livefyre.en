@@ -1,10 +1,6 @@
 ---
 description: Set how many posts site visitors can see in the Navigation Guide.
-seo-description: Set how many posts site visitors can see in the Navigation Guide.
-seo-title: Set the Number of Posts in the Navigation Guide
-solution: Experience Manager
 title: Set the Number of Posts in the Navigation Guide
-uuid: 8baee47a-7f9f-48dd-ac6e-a2f47f56148b
 exl-id: 9cbf4408-b0e7-4884-a91a-518f0d56a621
 ---
 # Set the Number of Posts in the Navigation Guide{#set-the-number-of-posts-in-the-navigation-guide}

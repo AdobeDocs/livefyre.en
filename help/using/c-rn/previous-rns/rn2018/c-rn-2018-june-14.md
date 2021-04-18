@@ -1,10 +1,6 @@
 ---
 description: Release Notes for the June 14, 2018 release.
-seo-description: Release Notes for the June 14, 2018 release.
-seo-title: June 14, 2018
-solution: Experience Manager
 title: June 14, 2018
-uuid: f1bba3af-2020-4dfc-9938-05b1183c30ab
 exl-id: 4f91c91e-1979-4d1e-899c-11839524bfe2
 ---
 # June 14, 2018{#june}

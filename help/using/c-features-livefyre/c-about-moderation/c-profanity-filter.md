@@ -1,10 +1,6 @@
 ---
-description: null
-seo-description: null
-seo-title: Using the Profanity Filter
-solution: Experience Manager
 title: Using the Profanity Filter
-uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
+description: Using the Profanity Filter
 exl-id: 6ea7d913-f562-42a5-a6ea-241aa4e1089a
 ---
 # Using the Profanity Filter{#using-the-profanity-filter}

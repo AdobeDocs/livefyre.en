@@ -1,10 +1,6 @@
 ---
 description: Define the settings for requesting rights for Instagram and Twitter posts.
-seo-description: Define the settings for requesting rights for Instagram and Twitter posts.
-seo-title: Set up Rights Management
-solution: Experience Manager
 title: Set up Rights Management
-uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
 exl-id: d3d3e837-0ed0-47a8-ac5c-7b9da431d149
 ---
 # Set up Rights Management{#set-up-rights-management}
