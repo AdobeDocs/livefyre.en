@@ -1,5 +1,5 @@
 ---
-description: null
+description: Set up Adobe Analytics and Dynamic Tag Manager (DTM) to collect data for Livefyre Apps.
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 ---
 # Use Livefyre with Adobe Analytics And Dynamic Tag Manager (DTM){#use-livefyre-with-adobe-analytics-and-dynamic-tag-manager-dtm}
